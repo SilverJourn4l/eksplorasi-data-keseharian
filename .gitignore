@@ -1,9 +1,22 @@
+# Python
 __pycache__/
-__init__.py
+*.py[cod]
 .ipynb_checkpoints/
-linkedin/
+.venv/
 
+# Sistem & editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
 
+# Lingkungan & kredensial
+linke/
 
+# Hasil artikel 003
 003-ketimpangan-provinsi/
+003-ketimpangan-provinsi/data/mentah/
+
+# Hasil artikel 004
 004-pasir-laut/
+004-pasir-laut/data/mentah/
