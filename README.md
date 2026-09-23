@@ -6,7 +6,7 @@
 
 Jurnal ini membedah fenomena keseharian lewat data publik Indonesia. Arsip tiap edisi ada di repo ini (tulisan, kode, data, grafik); ringkasannya dibagikan di LinkedIn.
 
-**Cakupan:** Dompet (harga dan pengeluaran), Kota (cuaca, udara, gempa), Waktu (antre, perjalanan, ritme), Rumah (listrik, air, layanan), Ekonomi (pendapatan dan kesejahteraan), Lingkungan (sumber daya alam dan aturannya).
+**Cakupan:** Keuangan (harga dan pengeluaran), Kota (cuaca, udara, gempa), Waktu (antre, perjalanan, ritme), Rumah (listrik, air, layanan), Ekonomi (pendapatan dan kesejahteraan), Lingkungan (sumber daya alam dan aturannya).
 
 ## Agenda terbit
 
@@ -16,14 +16,14 @@ Jurnal ini membedah fenomena keseharian lewat data publik Indonesia. Arsip tiap 
 | 002 | Kota | Sesak mana udara Jakarta: kemarau atau musim hujan? |
 | 003 | Ekonomi | Provinsi makin kaya, warganya makin sejahtera? |
 | 004 | Lingkungan | Pengerukan pasir laut: suara publik dan aturan berpihak ke mana? |
-| 005 | Dompet | Harga cabai menjelang Nataru |
+| 005 | Keuangan | Harga cabai menjelang Nataru |
 | 006 | Waktu | Gelombang Nataru: kapan puncak perjalanan? |
-| 007 | Dompet | Inflasi awal tahun: siapa yang naik? |
-| 008 | Dompet | Harga pangan saat Ramadan |
+| 007 | Keuangan | Inflasi awal tahun: siapa yang naik? |
+| 008 | Keuangan | Harga pangan saat Ramadan |
 | 009 | Rumah | Listrik saat orang lebih banyak di rumah |
 | 010 | Waktu | Mudik 1448 H: bentuk puncaknya |
-| 011 | Dompet | Harga setelah Lebaran: turun atau lengket? |
-| 012 | Dompet | Biaya masuk sekolah |
+| 011 | Keuangan | Harga setelah Lebaran: turun atau lengket? |
+| 012 | Keuangan | Biaya masuk sekolah |
 | 013 | Kota | Panas puncak kemarau, dibandingkan dengan Edisi 001 |
 
 ## Kejujuran sumber
