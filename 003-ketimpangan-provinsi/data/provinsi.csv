@@ -1,0 +1,35 @@
+provinsi,kunci,pdrb_kapita_juta_2021,pdrb_kapita_usd_2021,wilayah_geografis,jawa,ipm_2021,ipm_2024,ipm_2025
+Daerah Khusus Jakarta,jakarta,274.71,19199.0,Jawa,True,81.11,84.15,85.05
+Yogyakarta,yogyakarta,40.23,2812.0,Jawa,True,80.22,81.62,82.48
+Kalimantan Timur,kalimantan timur,182.54,12757.0,Kalimantan,False,76.88,78.79,79.39
+Kepulauan Riau,kepulauan riau,130.13,9094.0,Sumatra,False,75.79,79.89,80.53
+Bali,bali,50.38,3521.0,Nusa Tenggara,False,75.69,78.63,79.37
+Sulawesi Utara,sulawesi utara,54.04,3777.0,Sulawesi,False,73.3,75.68,76.32
+Riau,riau,129.85,9075.0,Sumatera,False,72.94,75.67,76.31
+Banten,banten,55.21,3859.0,Jawa,True,72.72,76.35,77.25
+Sumatera Barat,sumatera barat,45.29,3165.0,Sumatra,False,72.65,76.43,77.27
+Jawa Barat,jawa barat,45.3,3166.0,Jawa,True,72.45,74.92,75.9
+Sulawesi Selatan,sulawesi selatan,59.66,4169.0,Sulawesi,False,72.24,75.18,75.92
+Aceh,aceh,34.68,2423.0,Sumatra,False,72.18,75.36,76.23
+Jawa Tengah,jawa tengah,38.67,2703.0,Jawa,True,72.16,73.87,74.77
+Jawa Timur,jawa timur,60.04,4196.0,Jawa,True,72.14,75.35,76.13
+Sumatera Utara,sumatera utara,57.57,4023.0,Sumatra,False,72.0,75.76,76.47
+Bangka Belitung,bangka belitung,58.33,4077.0,Sumatra,False,71.69,74.55,75.26
+Sulawesi Tenggara,sulawesi tenggara,52.3,3655.0,Sulawesi,False,71.66,73.62,74.25
+Bengkulu,bengkulu,39.14,2736.0,Sumatra,False,71.64,74.91,75.68
+Jambi,jambi,65.19,4556.0,Sumatra,False,71.63,74.36,75.13
+Kalimantan Selatan,kalimantan selatan,46.71,3265.0,Kalimantan,False,71.28,75.19,76.1
+Kalimantan Tengah,kalimantan tengah,62.91,4397.0,Kalimantan,False,71.25,74.28,74.86
+Kalimantan Utara,kalimantan utara,155.08,10838.0,Kalimantan,False,71.19,73.41,74.04
+Sumatera Selatan,sumatera selatan,57.49,4018.0,Sumatra,False,70.24,73.84,74.76
+Lampung,lampung,40.95,2862.0,Sumatra,False,69.9,73.13,73.98
+Sulawesi Tengah,sulawesi tengah,81.73,5712.0,Sulawesi,False,69.79,72.24,72.82
+Maluku,maluku,26.07,1822.0,Maluku,False,69.71,73.4,74.09
+Gorontalo,gorontalo,37.17,2598.0,Sulawesi,False,69.0,72.01,72.62
+Maluku Utara,maluku utara,40.3,2817.0,Maluku,False,69.71,71.84,72.52
+Nusa Tenggara Barat,nusa tenggara barat,26.0,1817.0,Nusa Tenggara,False,68.65,73.1,73.97
+Kalimantan Barat,kalimantan barat,42.28,2955.0,Kalimantan,False,67.9,71.19,72.09
+Sulawesi Barat,sulawesi barat,35.04,2449.0,Sulawesi,False,67.9,70.46,71.16
+Nusa Tenggara Timur,nusa tenggara timur,20.58,1438.0,Nusa Tenggara,False,65.28,69.14,69.89
+Papua Barat,papua barat,73.54,5139.0,Papua,False,65.26,67.69,68.48
+Papua,papua,54.03,3776.0,Papua,False,60.62,73.83,74.69
