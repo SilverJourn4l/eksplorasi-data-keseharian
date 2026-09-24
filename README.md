@@ -1,7 +1,4 @@
 # Jurnal Eksplorasi Data Keseharian
-
-## Journal of Everyday Data Exploration
-
 > Satu pertanyaan keseharian, satu jawaban berbasis data.
 
 Jurnal ini membedah fenomena keseharian lewat data publik Indonesia. Arsip tiap edisi ada di repo ini (tulisan, kode, data, grafik); ringkasannya dibagikan di LinkedIn.
