@@ -1,0 +1,4229 @@
+tanggal,komoditas,harga_nasional
+2019-09-02,Bawang Merah,24800.0
+2019-09-03,Bawang Merah,24750.0
+2019-09-04,Bawang Merah,24550.0
+2019-09-05,Bawang Merah,24300.0
+2019-09-06,Bawang Merah,24250.0
+2019-09-09,Bawang Merah,24050.0
+2019-09-10,Bawang Merah,24000.0
+2019-09-11,Bawang Merah,24050.0
+2019-09-12,Bawang Merah,23900.0
+2019-09-13,Bawang Merah,23750.0
+2019-09-16,Bawang Merah,23550.0
+2019-09-17,Bawang Merah,23550.0
+2019-09-18,Bawang Merah,23450.0
+2019-09-19,Bawang Merah,23300.0
+2019-09-20,Bawang Merah,23300.0
+2019-09-23,Bawang Merah,23100.0
+2019-09-24,Bawang Merah,23150.0
+2019-09-25,Bawang Merah,23150.0
+2019-09-26,Bawang Merah,23050.0
+2019-09-27,Bawang Merah,22950.0
+2019-09-30,Bawang Merah,22800.0
+2019-10-01,Bawang Merah,22800.0
+2019-10-02,Bawang Merah,22800.0
+2019-10-03,Bawang Merah,22650.0
+2019-10-04,Bawang Merah,22450.0
+2019-10-07,Bawang Merah,22650.0
+2019-10-08,Bawang Merah,22900.0
+2019-10-09,Bawang Merah,23350.0
+2019-10-10,Bawang Merah,23600.0
+2019-10-11,Bawang Merah,23950.0
+2019-10-14,Bawang Merah,25150.0
+2019-10-15,Bawang Merah,25500.0
+2019-10-16,Bawang Merah,25950.0
+2019-10-17,Bawang Merah,26050.0
+2019-10-18,Bawang Merah,26400.0
+2019-10-21,Bawang Merah,26500.0
+2019-10-22,Bawang Merah,26600.0
+2019-10-23,Bawang Merah,26550.0
+2019-10-24,Bawang Merah,26550.0
+2019-10-25,Bawang Merah,26600.0
+2019-10-28,Bawang Merah,26500.0
+2019-10-29,Bawang Merah,26350.0
+2019-10-30,Bawang Merah,26500.0
+2019-10-31,Bawang Merah,26550.0
+2019-11-01,Bawang Merah,26750.0
+2019-11-04,Bawang Merah,27150.0
+2019-11-05,Bawang Merah,27550.0
+2019-11-06,Bawang Merah,27850.0
+2019-11-07,Bawang Merah,28000.0
+2019-11-08,Bawang Merah,28150.0
+2019-11-11,Bawang Merah,28850.0
+2019-11-12,Bawang Merah,29050.0
+2019-11-13,Bawang Merah,29050.0
+2019-11-14,Bawang Merah,29200.0
+2019-11-15,Bawang Merah,29600.0
+2019-11-18,Bawang Merah,30050.0
+2019-11-19,Bawang Merah,30100.0
+2019-11-20,Bawang Merah,30450.0
+2019-11-21,Bawang Merah,30600.0
+2019-11-22,Bawang Merah,30700.0
+2019-11-25,Bawang Merah,30800.0
+2019-11-26,Bawang Merah,30850.0
+2019-11-27,Bawang Merah,30900.0
+2019-11-28,Bawang Merah,31000.0
+2019-11-29,Bawang Merah,31050.0
+2019-12-02,Bawang Merah,31600.0
+2019-12-03,Bawang Merah,31700.0
+2019-12-04,Bawang Merah,31850.0
+2019-12-05,Bawang Merah,31950.0
+2019-12-06,Bawang Merah,32000.0
+2019-12-09,Bawang Merah,32400.0
+2019-12-10,Bawang Merah,32800.0
+2019-12-11,Bawang Merah,33050.0
+2019-12-12,Bawang Merah,33150.0
+2019-12-13,Bawang Merah,33450.0
+2019-12-16,Bawang Merah,34250.0
+2019-12-17,Bawang Merah,34600.0
+2019-12-18,Bawang Merah,34950.0
+2019-12-19,Bawang Merah,35250.0
+2019-12-20,Bawang Merah,35600.0
+2019-12-23,Bawang Merah,36650.0
+2019-12-24,Bawang Merah,38000.0
+2019-12-25,Bawang Merah,33650.0
+2019-12-26,Bawang Merah,37400.0
+2019-12-27,Bawang Merah,37450.0
+2019-12-30,Bawang Merah,37550.0
+2019-12-31,Bawang Merah,37600.0
+2020-01-02,Bawang Merah,37200.0
+2020-01-03,Bawang Merah,37250.0
+2020-01-06,Bawang Merah,37000.0
+2020-01-07,Bawang Merah,36600.0
+2020-01-08,Bawang Merah,36750.0
+2020-01-09,Bawang Merah,36800.0
+2020-01-10,Bawang Merah,37150.0
+2020-01-13,Bawang Merah,37250.0
+2020-01-14,Bawang Merah,37350.0
+2020-01-15,Bawang Merah,37250.0
+2020-01-16,Bawang Merah,37300.0
+2020-01-17,Bawang Merah,37350.0
+2020-01-20,Bawang Merah,37500.0
+2020-01-21,Bawang Merah,37500.0
+2020-01-22,Bawang Merah,37600.0
+2020-01-23,Bawang Merah,37600.0
+2020-01-24,Bawang Merah,37500.0
+2020-01-27,Bawang Merah,38000.0
+2020-01-28,Bawang Merah,38150.0
+2020-01-29,Bawang Merah,38400.0
+2020-01-30,Bawang Merah,38650.0
+2020-01-31,Bawang Merah,38850.0
+2020-02-03,Bawang Merah,39600.0
+2020-02-04,Bawang Merah,40000.0
+2020-02-05,Bawang Merah,40250.0
+2020-02-06,Bawang Merah,40700.0
+2020-02-07,Bawang Merah,41100.0
+2020-02-10,Bawang Merah,41300.0
+2020-02-11,Bawang Merah,41400.0
+2020-02-12,Bawang Merah,41200.0
+2020-02-13,Bawang Merah,40650.0
+2020-02-14,Bawang Merah,40450.0
+2020-02-17,Bawang Merah,39650.0
+2020-02-18,Bawang Merah,39550.0
+2020-02-19,Bawang Merah,39700.0
+2020-02-20,Bawang Merah,39450.0
+2020-02-21,Bawang Merah,38900.0
+2020-02-24,Bawang Merah,38050.0
+2020-02-25,Bawang Merah,37700.0
+2020-02-26,Bawang Merah,37450.0
+2020-02-27,Bawang Merah,37450.0
+2020-02-28,Bawang Merah,37150.0
+2020-03-02,Bawang Merah,36850.0
+2020-03-03,Bawang Merah,36800.0
+2020-03-04,Bawang Merah,36750.0
+2020-03-05,Bawang Merah,36800.0
+2020-03-06,Bawang Merah,36750.0
+2020-03-09,Bawang Merah,37250.0
+2020-03-10,Bawang Merah,37300.0
+2020-03-11,Bawang Merah,37450.0
+2020-03-12,Bawang Merah,37350.0
+2020-03-13,Bawang Merah,37400.0
+2020-03-16,Bawang Merah,37750.0
+2020-03-17,Bawang Merah,37800.0
+2020-03-18,Bawang Merah,37900.0
+2020-03-19,Bawang Merah,37850.0
+2020-03-20,Bawang Merah,37700.0
+2020-03-23,Bawang Merah,38900.0
+2020-03-24,Bawang Merah,39100.0
+2020-03-25,Bawang Merah,39050.0
+2020-03-26,Bawang Merah,39650.0
+2020-03-27,Bawang Merah,39900.0
+2020-03-30,Bawang Merah,40500.0
+2020-03-31,Bawang Merah,41050.0
+2020-09-01,Bawang Merah,30600.0
+2020-09-02,Bawang Merah,30650.0
+2020-09-03,Bawang Merah,30450.0
+2020-09-04,Bawang Merah,30500.0
+2020-09-07,Bawang Merah,30850.0
+2020-09-08,Bawang Merah,30900.0
+2020-09-09,Bawang Merah,31000.0
+2020-09-10,Bawang Merah,31050.0
+2020-09-11,Bawang Merah,31050.0
+2020-09-14,Bawang Merah,31100.0
+2020-09-15,Bawang Merah,31100.0
+2020-09-16,Bawang Merah,31050.0
+2020-09-17,Bawang Merah,31050.0
+2020-09-18,Bawang Merah,30950.0
+2020-09-21,Bawang Merah,30850.0
+2020-09-22,Bawang Merah,30800.0
+2020-09-23,Bawang Merah,30700.0
+2020-09-24,Bawang Merah,30700.0
+2020-09-25,Bawang Merah,30700.0
+2020-09-28,Bawang Merah,30450.0
+2020-09-29,Bawang Merah,30350.0
+2020-09-30,Bawang Merah,30300.0
+2020-10-01,Bawang Merah,30250.0
+2020-10-02,Bawang Merah,30250.0
+2020-10-05,Bawang Merah,30900.0
+2020-10-06,Bawang Merah,31250.0
+2020-10-07,Bawang Merah,31500.0
+2020-10-08,Bawang Merah,31650.0
+2020-10-09,Bawang Merah,31950.0
+2020-10-12,Bawang Merah,33200.0
+2020-10-13,Bawang Merah,33350.0
+2020-10-14,Bawang Merah,33700.0
+2020-10-15,Bawang Merah,33850.0
+2020-10-16,Bawang Merah,34000.0
+2020-10-19,Bawang Merah,34300.0
+2020-10-20,Bawang Merah,34500.0
+2020-10-21,Bawang Merah,34550.0
+2020-10-22,Bawang Merah,34600.0
+2020-10-23,Bawang Merah,34700.0
+2020-10-26,Bawang Merah,35200.0
+2020-10-27,Bawang Merah,35250.0
+2020-10-28,Bawang Merah,35300.0
+2020-10-29,Bawang Merah,39250.0
+2020-10-30,Bawang Merah,37700.0
+2020-11-02,Bawang Merah,35550.0
+2020-11-03,Bawang Merah,35850.0
+2020-11-04,Bawang Merah,36050.0
+2020-11-05,Bawang Merah,36300.0
+2020-11-06,Bawang Merah,36700.0
+2020-11-09,Bawang Merah,37400.0
+2020-11-10,Bawang Merah,37750.0
+2020-11-11,Bawang Merah,38000.0
+2020-11-12,Bawang Merah,38200.0
+2020-11-13,Bawang Merah,38350.0
+2020-11-16,Bawang Merah,38450.0
+2020-11-17,Bawang Merah,38450.0
+2020-11-18,Bawang Merah,38300.0
+2020-11-19,Bawang Merah,38350.0
+2020-11-20,Bawang Merah,38450.0
+2020-11-23,Bawang Merah,38300.0
+2020-11-24,Bawang Merah,38150.0
+2020-11-25,Bawang Merah,38100.0
+2020-11-26,Bawang Merah,38000.0
+2020-11-27,Bawang Merah,37850.0
+2020-11-30,Bawang Merah,37750.0
+2020-12-01,Bawang Merah,37650.0
+2020-12-02,Bawang Merah,37500.0
+2020-12-03,Bawang Merah,37150.0
+2020-12-04,Bawang Merah,37450.0
+2020-12-07,Bawang Merah,37500.0
+2020-12-08,Bawang Merah,37500.0
+2020-12-09,Bawang Merah,47100.0
+2020-12-10,Bawang Merah,37350.0
+2020-12-11,Bawang Merah,37250.0
+2020-12-14,Bawang Merah,37100.0
+2020-12-15,Bawang Merah,37000.0
+2020-12-16,Bawang Merah,36850.0
+2020-12-17,Bawang Merah,36400.0
+2020-12-18,Bawang Merah,36700.0
+2020-12-21,Bawang Merah,36150.0
+2020-12-22,Bawang Merah,36000.0
+2020-12-23,Bawang Merah,35850.0
+2020-12-24,Bawang Merah,47200.0
+2020-12-28,Bawang Merah,35100.0
+2020-12-29,Bawang Merah,34950.0
+2020-12-30,Bawang Merah,34650.0
+2020-12-31,Bawang Merah,38700.0
+2021-01-04,Bawang Merah,33950.0
+2021-01-05,Bawang Merah,33850.0
+2021-01-06,Bawang Merah,33700.0
+2021-01-07,Bawang Merah,33550.0
+2021-01-08,Bawang Merah,33350.0
+2021-01-11,Bawang Merah,33050.0
+2021-01-12,Bawang Merah,32900.0
+2021-01-13,Bawang Merah,32950.0
+2021-01-14,Bawang Merah,32950.0
+2021-01-15,Bawang Merah,32800.0
+2021-01-18,Bawang Merah,32650.0
+2021-01-19,Bawang Merah,32600.0
+2021-01-20,Bawang Merah,32500.0
+2021-01-21,Bawang Merah,32400.0
+2021-01-22,Bawang Merah,32350.0
+2021-01-25,Bawang Merah,31900.0
+2021-01-26,Bawang Merah,31950.0
+2021-01-27,Bawang Merah,31800.0
+2021-01-28,Bawang Merah,31700.0
+2021-01-29,Bawang Merah,31650.0
+2021-02-01,Bawang Merah,31450.0
+2021-02-02,Bawang Merah,31400.0
+2021-02-03,Bawang Merah,31300.0
+2021-02-04,Bawang Merah,31350.0
+2021-02-05,Bawang Merah,31250.0
+2021-02-08,Bawang Merah,31250.0
+2021-02-09,Bawang Merah,31350.0
+2021-02-10,Bawang Merah,31750.0
+2021-02-11,Bawang Merah,32050.0
+2021-02-12,Bawang Merah,31900.0
+2021-02-15,Bawang Merah,32700.0
+2021-02-16,Bawang Merah,32750.0
+2021-02-17,Bawang Merah,32950.0
+2021-02-18,Bawang Merah,32900.0
+2021-02-19,Bawang Merah,32850.0
+2021-02-22,Bawang Merah,33300.0
+2021-02-23,Bawang Merah,33500.0
+2021-02-24,Bawang Merah,33650.0
+2021-02-25,Bawang Merah,33750.0
+2021-02-26,Bawang Merah,33850.0
+2021-03-01,Bawang Merah,34250.0
+2021-03-02,Bawang Merah,34400.0
+2021-03-03,Bawang Merah,34600.0
+2021-03-04,Bawang Merah,34750.0
+2021-03-05,Bawang Merah,34800.0
+2021-03-08,Bawang Merah,35250.0
+2021-03-09,Bawang Merah,35250.0
+2021-03-10,Bawang Merah,35200.0
+2021-03-11,Bawang Merah,39200.0
+2021-03-12,Bawang Merah,35300.0
+2021-03-15,Bawang Merah,35350.0
+2021-03-16,Bawang Merah,35350.0
+2021-03-17,Bawang Merah,35350.0
+2021-03-18,Bawang Merah,35250.0
+2021-03-19,Bawang Merah,35400.0
+2021-03-22,Bawang Merah,35300.0
+2021-03-23,Bawang Merah,35100.0
+2021-03-24,Bawang Merah,35100.0
+2021-03-25,Bawang Merah,35000.0
+2021-03-26,Bawang Merah,34900.0
+2021-03-29,Bawang Merah,34700.0
+2021-03-30,Bawang Merah,34650.0
+2021-03-31,Bawang Merah,34550.0
+2021-09-01,Bawang Merah,31950.0
+2021-09-02,Bawang Merah,31750.0
+2021-09-03,Bawang Merah,31600.0
+2021-09-06,Bawang Merah,31400.0
+2021-09-07,Bawang Merah,31250.0
+2021-09-08,Bawang Merah,31250.0
+2021-09-09,Bawang Merah,31200.0
+2021-09-10,Bawang Merah,31150.0
+2021-09-13,Bawang Merah,30850.0
+2021-09-14,Bawang Merah,30550.0
+2021-09-15,Bawang Merah,30350.0
+2021-09-16,Bawang Merah,30350.0
+2021-09-17,Bawang Merah,30300.0
+2021-09-20,Bawang Merah,30100.0
+2021-09-21,Bawang Merah,30000.0
+2021-09-22,Bawang Merah,30000.0
+2021-09-23,Bawang Merah,29850.0
+2021-09-24,Bawang Merah,29850.0
+2021-09-27,Bawang Merah,29750.0
+2021-09-28,Bawang Merah,29750.0
+2021-09-29,Bawang Merah,29650.0
+2021-09-30,Bawang Merah,29650.0
+2021-10-01,Bawang Merah,29650.0
+2021-10-04,Bawang Merah,29500.0
+2021-10-05,Bawang Merah,29500.0
+2021-10-06,Bawang Merah,29500.0
+2021-10-07,Bawang Merah,29600.0
+2021-10-08,Bawang Merah,29550.0
+2021-10-11,Bawang Merah,29600.0
+2021-10-12,Bawang Merah,29600.0
+2021-10-13,Bawang Merah,29650.0
+2021-10-14,Bawang Merah,29850.0
+2021-10-15,Bawang Merah,29900.0
+2021-10-18,Bawang Merah,29800.0
+2021-10-19,Bawang Merah,29850.0
+2021-10-20,Bawang Merah,35750.0
+2021-10-21,Bawang Merah,29800.0
+2021-10-22,Bawang Merah,29750.0
+2021-10-25,Bawang Merah,29600.0
+2021-10-26,Bawang Merah,29600.0
+2021-10-27,Bawang Merah,29600.0
+2021-10-28,Bawang Merah,29650.0
+2021-10-29,Bawang Merah,29450.0
+2021-11-01,Bawang Merah,29250.0
+2021-11-02,Bawang Merah,29100.0
+2021-11-03,Bawang Merah,29100.0
+2021-11-04,Bawang Merah,29050.0
+2021-11-05,Bawang Merah,29050.0
+2021-11-08,Bawang Merah,28850.0
+2021-11-09,Bawang Merah,28700.0
+2021-11-10,Bawang Merah,29000.0
+2021-11-11,Bawang Merah,28650.0
+2021-11-12,Bawang Merah,28650.0
+2021-11-15,Bawang Merah,28350.0
+2021-11-16,Bawang Merah,28300.0
+2021-11-17,Bawang Merah,28250.0
+2021-11-18,Bawang Merah,28100.0
+2021-11-19,Bawang Merah,28100.0
+2021-11-22,Bawang Merah,27800.0
+2021-11-23,Bawang Merah,27600.0
+2021-11-24,Bawang Merah,27500.0
+2021-11-25,Bawang Merah,27450.0
+2021-11-26,Bawang Merah,27450.0
+2021-11-29,Bawang Merah,27300.0
+2021-11-30,Bawang Merah,27200.0
+2021-12-01,Bawang Merah,27200.0
+2021-12-02,Bawang Merah,27100.0
+2021-12-03,Bawang Merah,27150.0
+2021-12-06,Bawang Merah,27350.0
+2021-12-07,Bawang Merah,27400.0
+2021-12-08,Bawang Merah,27550.0
+2021-12-09,Bawang Merah,27600.0
+2021-12-10,Bawang Merah,27800.0
+2021-12-13,Bawang Merah,28350.0
+2021-12-14,Bawang Merah,28450.0
+2021-12-15,Bawang Merah,28250.0
+2021-12-16,Bawang Merah,28850.0
+2021-12-17,Bawang Merah,28900.0
+2021-12-20,Bawang Merah,29200.0
+2021-12-21,Bawang Merah,29400.0
+2021-12-22,Bawang Merah,29100.0
+2021-12-23,Bawang Merah,29400.0
+2021-12-24,Bawang Merah,29550.0
+2021-12-27,Bawang Merah,29950.0
+2021-12-28,Bawang Merah,30050.0
+2021-12-29,Bawang Merah,30100.0
+2021-12-30,Bawang Merah,30050.0
+2021-12-31,Bawang Merah,30100.0
+2022-01-03,Bawang Merah,30200.0
+2022-01-04,Bawang Merah,30150.0
+2022-01-05,Bawang Merah,30300.0
+2022-01-06,Bawang Merah,30300.0
+2022-01-07,Bawang Merah,30400.0
+2022-01-10,Bawang Merah,30650.0
+2022-01-11,Bawang Merah,30600.0
+2022-01-12,Bawang Merah,30550.0
+2022-01-13,Bawang Merah,30650.0
+2022-01-14,Bawang Merah,30750.0
+2022-01-17,Bawang Merah,30900.0
+2022-01-18,Bawang Merah,30950.0
+2022-01-19,Bawang Merah,30900.0
+2022-01-20,Bawang Merah,30950.0
+2022-01-21,Bawang Merah,31050.0
+2022-01-24,Bawang Merah,31050.0
+2022-01-25,Bawang Merah,30950.0
+2022-01-26,Bawang Merah,30900.0
+2022-01-27,Bawang Merah,30900.0
+2022-01-28,Bawang Merah,31000.0
+2022-01-31,Bawang Merah,31200.0
+2022-02-01,Bawang Merah,26000.0
+2022-02-02,Bawang Merah,31450.0
+2022-02-03,Bawang Merah,31650.0
+2022-02-04,Bawang Merah,31850.0
+2022-02-07,Bawang Merah,32700.0
+2022-02-08,Bawang Merah,33000.0
+2022-02-09,Bawang Merah,33400.0
+2022-02-10,Bawang Merah,34100.0
+2022-02-11,Bawang Merah,34300.0
+2022-02-14,Bawang Merah,35300.0
+2022-02-15,Bawang Merah,35750.0
+2022-02-16,Bawang Merah,35900.0
+2022-02-17,Bawang Merah,35900.0
+2022-02-18,Bawang Merah,36000.0
+2022-02-21,Bawang Merah,36350.0
+2022-02-22,Bawang Merah,36450.0
+2022-02-23,Bawang Merah,36550.0
+2022-02-24,Bawang Merah,36500.0
+2022-02-25,Bawang Merah,36600.0
+2022-03-01,Bawang Merah,36950.0
+2022-03-02,Bawang Merah,37050.0
+2022-03-04,Bawang Merah,37300.0
+2022-03-07,Bawang Merah,37500.0
+2022-03-08,Bawang Merah,37550.0
+2022-03-09,Bawang Merah,37600.0
+2022-03-10,Bawang Merah,37500.0
+2022-03-11,Bawang Merah,37550.0
+2022-03-14,Bawang Merah,37300.0
+2022-03-15,Bawang Merah,37250.0
+2022-03-16,Bawang Merah,37100.0
+2022-03-17,Bawang Merah,37300.0
+2022-03-18,Bawang Merah,36750.0
+2022-03-21,Bawang Merah,36550.0
+2022-03-22,Bawang Merah,36450.0
+2022-03-23,Bawang Merah,36150.0
+2022-03-24,Bawang Merah,36050.0
+2022-03-25,Bawang Merah,35900.0
+2022-03-28,Bawang Merah,35400.0
+2022-03-29,Bawang Merah,35200.0
+2022-03-30,Bawang Merah,35050.0
+2022-03-31,Bawang Merah,34850.0
+2022-09-01,Bawang Merah,36500.0
+2022-09-02,Bawang Merah,36300.0
+2022-09-05,Bawang Merah,36700.0
+2022-09-06,Bawang Merah,36600.0
+2022-09-07,Bawang Merah,36550.0
+2022-09-08,Bawang Merah,36400.0
+2022-09-09,Bawang Merah,36450.0
+2022-09-12,Bawang Merah,36750.0
+2022-09-13,Bawang Merah,36850.0
+2022-09-14,Bawang Merah,36550.0
+2022-09-15,Bawang Merah,36500.0
+2022-09-16,Bawang Merah,36450.0
+2022-09-19,Bawang Merah,36050.0
+2022-09-20,Bawang Merah,35900.0
+2022-09-21,Bawang Merah,35800.0
+2022-09-22,Bawang Merah,35650.0
+2022-09-23,Bawang Merah,35600.0
+2022-09-26,Bawang Merah,35350.0
+2022-09-27,Bawang Merah,35500.0
+2022-09-28,Bawang Merah,35300.0
+2022-09-29,Bawang Merah,35200.0
+2022-09-30,Bawang Merah,35300.0
+2022-10-03,Bawang Merah,35100.0
+2022-10-04,Bawang Merah,35100.0
+2022-10-05,Bawang Merah,35050.0
+2022-10-06,Bawang Merah,35150.0
+2022-10-07,Bawang Merah,35300.0
+2022-10-10,Bawang Merah,35500.0
+2022-10-11,Bawang Merah,35650.0
+2022-10-12,Bawang Merah,35750.0
+2022-10-13,Bawang Merah,35700.0
+2022-10-14,Bawang Merah,35700.0
+2022-10-17,Bawang Merah,35750.0
+2022-10-18,Bawang Merah,35700.0
+2022-10-19,Bawang Merah,35500.0
+2022-10-20,Bawang Merah,35500.0
+2022-10-21,Bawang Merah,35500.0
+2022-10-24,Bawang Merah,35400.0
+2022-10-25,Bawang Merah,35350.0
+2022-10-26,Bawang Merah,35400.0
+2022-10-27,Bawang Merah,35350.0
+2022-10-28,Bawang Merah,35300.0
+2022-10-31,Bawang Merah,35650.0
+2022-11-01,Bawang Merah,35700.0
+2022-11-02,Bawang Merah,35750.0
+2022-11-03,Bawang Merah,35850.0
+2022-11-04,Bawang Merah,36050.0
+2022-11-07,Bawang Merah,36350.0
+2022-11-08,Bawang Merah,36500.0
+2022-11-09,Bawang Merah,36650.0
+2022-11-10,Bawang Merah,36850.0
+2022-11-11,Bawang Merah,37000.0
+2022-11-14,Bawang Merah,37450.0
+2022-11-15,Bawang Merah,37350.0
+2022-11-16,Bawang Merah,37400.0
+2022-11-17,Bawang Merah,37650.0
+2022-11-18,Bawang Merah,37800.0
+2022-11-21,Bawang Merah,37800.0
+2022-11-22,Bawang Merah,37800.0
+2022-11-23,Bawang Merah,37950.0
+2022-11-24,Bawang Merah,37850.0
+2022-11-25,Bawang Merah,37600.0
+2022-11-28,Bawang Merah,37650.0
+2022-11-29,Bawang Merah,37600.0
+2022-11-30,Bawang Merah,37650.0
+2022-12-01,Bawang Merah,37750.0
+2022-12-02,Bawang Merah,37750.0
+2022-12-05,Bawang Merah,37900.0
+2022-12-06,Bawang Merah,37950.0
+2022-12-07,Bawang Merah,38000.0
+2022-12-08,Bawang Merah,38000.0
+2022-12-09,Bawang Merah,37950.0
+2022-12-12,Bawang Merah,38100.0
+2022-12-13,Bawang Merah,38100.0
+2022-12-14,Bawang Merah,38200.0
+2022-12-15,Bawang Merah,38300.0
+2022-12-16,Bawang Merah,38350.0
+2022-12-19,Bawang Merah,38500.0
+2022-12-20,Bawang Merah,38650.0
+2022-12-21,Bawang Merah,38750.0
+2022-12-22,Bawang Merah,38750.0
+2022-12-23,Bawang Merah,38750.0
+2022-12-26,Bawang Merah,38500.0
+2022-12-27,Bawang Merah,38400.0
+2022-12-28,Bawang Merah,38550.0
+2022-12-29,Bawang Merah,38550.0
+2022-12-30,Bawang Merah,38550.0
+2023-01-02,Bawang Merah,38900.0
+2023-01-03,Bawang Merah,39000.0
+2023-01-04,Bawang Merah,38950.0
+2023-01-05,Bawang Merah,39000.0
+2023-01-06,Bawang Merah,39300.0
+2023-01-09,Bawang Merah,39750.0
+2023-01-10,Bawang Merah,39800.0
+2023-01-11,Bawang Merah,39950.0
+2023-01-12,Bawang Merah,40250.0
+2023-01-13,Bawang Merah,40400.0
+2023-01-16,Bawang Merah,40900.0
+2023-01-17,Bawang Merah,41000.0
+2023-01-18,Bawang Merah,41000.0
+2023-01-19,Bawang Merah,41200.0
+2023-01-20,Bawang Merah,41350.0
+2023-01-23,Bawang Merah,41400.0
+2023-01-24,Bawang Merah,41450.0
+2023-01-25,Bawang Merah,41350.0
+2023-01-26,Bawang Merah,41350.0
+2023-01-27,Bawang Merah,41350.0
+2023-01-30,Bawang Merah,41750.0
+2023-01-31,Bawang Merah,41850.0
+2023-02-01,Bawang Merah,42000.0
+2023-02-02,Bawang Merah,42050.0
+2023-02-03,Bawang Merah,42100.0
+2023-02-06,Bawang Merah,42750.0
+2023-02-07,Bawang Merah,42800.0
+2023-02-08,Bawang Merah,42750.0
+2023-02-09,Bawang Merah,42700.0
+2023-02-10,Bawang Merah,42700.0
+2023-02-13,Bawang Merah,41950.0
+2023-02-14,Bawang Merah,41700.0
+2023-02-15,Bawang Merah,41600.0
+2023-02-16,Bawang Merah,41300.0
+2023-02-17,Bawang Merah,40950.0
+2023-02-20,Bawang Merah,40250.0
+2023-02-21,Bawang Merah,40000.0
+2023-02-22,Bawang Merah,39750.0
+2023-02-23,Bawang Merah,39600.0
+2023-02-24,Bawang Merah,39450.0
+2023-02-27,Bawang Merah,38800.0
+2023-02-28,Bawang Merah,38750.0
+2023-03-01,Bawang Merah,38550.0
+2023-03-02,Bawang Merah,38450.0
+2023-03-03,Bawang Merah,38450.0
+2023-03-06,Bawang Merah,38550.0
+2023-03-07,Bawang Merah,38400.0
+2023-03-08,Bawang Merah,38400.0
+2023-03-09,Bawang Merah,38200.0
+2023-03-10,Bawang Merah,38300.0
+2023-03-13,Bawang Merah,38100.0
+2023-03-14,Bawang Merah,38050.0
+2023-03-15,Bawang Merah,37900.0
+2023-03-16,Bawang Merah,37900.0
+2023-03-17,Bawang Merah,37900.0
+2023-03-20,Bawang Merah,37750.0
+2023-03-21,Bawang Merah,37800.0
+2023-03-22,Bawang Merah,37800.0
+2023-03-23,Bawang Merah,37950.0
+2023-03-24,Bawang Merah,37600.0
+2023-03-27,Bawang Merah,37550.0
+2023-03-28,Bawang Merah,37450.0
+2023-03-29,Bawang Merah,37350.0
+2023-03-30,Bawang Merah,37100.0
+2023-03-31,Bawang Merah,36900.0
+2023-09-01,Bawang Merah,29350.0
+2023-09-04,Bawang Merah,28850.0
+2023-09-05,Bawang Merah,28700.0
+2023-09-06,Bawang Merah,28450.0
+2023-09-07,Bawang Merah,28400.0
+2023-09-08,Bawang Merah,28400.0
+2023-09-11,Bawang Merah,28150.0
+2023-09-12,Bawang Merah,28050.0
+2023-09-13,Bawang Merah,27900.0
+2023-09-14,Bawang Merah,27750.0
+2023-09-15,Bawang Merah,27800.0
+2023-09-18,Bawang Merah,27400.0
+2023-09-19,Bawang Merah,27200.0
+2023-09-20,Bawang Merah,27200.0
+2023-09-21,Bawang Merah,27200.0
+2023-09-22,Bawang Merah,27150.0
+2023-09-25,Bawang Merah,27000.0
+2023-09-26,Bawang Merah,26950.0
+2023-09-27,Bawang Merah,27050.0
+2023-09-28,Bawang Merah,26950.0
+2023-09-29,Bawang Merah,26850.0
+2023-10-02,Bawang Merah,26900.0
+2023-10-03,Bawang Merah,26950.0
+2023-10-04,Bawang Merah,26950.0
+2023-10-05,Bawang Merah,27000.0
+2023-10-06,Bawang Merah,27000.0
+2023-10-09,Bawang Merah,27150.0
+2023-10-10,Bawang Merah,27100.0
+2023-10-11,Bawang Merah,27000.0
+2023-10-12,Bawang Merah,27000.0
+2023-10-13,Bawang Merah,27000.0
+2023-10-16,Bawang Merah,27000.0
+2023-10-17,Bawang Merah,26850.0
+2023-10-18,Bawang Merah,26900.0
+2023-10-19,Bawang Merah,26900.0
+2023-10-20,Bawang Merah,26850.0
+2023-10-23,Bawang Merah,26750.0
+2023-10-24,Bawang Merah,26700.0
+2023-10-25,Bawang Merah,26550.0
+2023-10-26,Bawang Merah,26500.0
+2023-10-27,Bawang Merah,26500.0
+2023-10-30,Bawang Merah,26850.0
+2023-10-31,Bawang Merah,27000.0
+2023-11-01,Bawang Merah,27250.0
+2023-11-02,Bawang Merah,27350.0
+2023-11-03,Bawang Merah,27800.0
+2023-11-06,Bawang Merah,28850.0
+2023-11-07,Bawang Merah,29300.0
+2023-11-08,Bawang Merah,29800.0
+2023-11-09,Bawang Merah,29950.0
+2023-11-10,Bawang Merah,29950.0
+2023-11-13,Bawang Merah,30500.0
+2023-11-14,Bawang Merah,30750.0
+2023-11-15,Bawang Merah,31000.0
+2023-11-16,Bawang Merah,31050.0
+2023-11-17,Bawang Merah,31200.0
+2023-11-20,Bawang Merah,31600.0
+2023-11-21,Bawang Merah,31750.0
+2023-11-22,Bawang Merah,31900.0
+2023-11-23,Bawang Merah,31950.0
+2023-11-24,Bawang Merah,32000.0
+2023-11-27,Bawang Merah,32150.0
+2023-11-28,Bawang Merah,32250.0
+2023-11-29,Bawang Merah,32000.0
+2023-11-30,Bawang Merah,32200.0
+2023-12-01,Bawang Merah,32300.0
+2023-12-04,Bawang Merah,32750.0
+2023-12-05,Bawang Merah,32950.0
+2023-12-06,Bawang Merah,33150.0
+2023-12-07,Bawang Merah,33350.0
+2023-12-08,Bawang Merah,33500.0
+2023-12-11,Bawang Merah,34050.0
+2023-12-12,Bawang Merah,35200.0
+2023-12-13,Bawang Merah,34150.0
+2023-12-14,Bawang Merah,34500.0
+2023-12-15,Bawang Merah,34650.0
+2023-12-18,Bawang Merah,35650.0
+2023-12-19,Bawang Merah,36050.0
+2023-12-20,Bawang Merah,36550.0
+2023-12-21,Bawang Merah,36950.0
+2023-12-22,Bawang Merah,37300.0
+2023-12-25,Bawang Merah,34450.0
+2023-12-26,Bawang Merah,35350.0
+2023-12-27,Bawang Merah,39250.0
+2023-12-28,Bawang Merah,39650.0
+2023-12-29,Bawang Merah,40300.0
+2024-01-01,Bawang Merah,40000.0
+2024-01-02,Bawang Merah,41250.0
+2024-01-03,Bawang Merah,41600.0
+2024-01-04,Bawang Merah,42000.0
+2024-01-05,Bawang Merah,42050.0
+2024-01-08,Bawang Merah,42050.0
+2024-01-09,Bawang Merah,42200.0
+2024-01-10,Bawang Merah,42100.0
+2024-01-11,Bawang Merah,42050.0
+2024-01-12,Bawang Merah,41950.0
+2024-01-15,Bawang Merah,41700.0
+2024-01-16,Bawang Merah,41400.0
+2024-01-17,Bawang Merah,41250.0
+2024-01-18,Bawang Merah,41100.0
+2024-01-19,Bawang Merah,40850.0
+2024-01-22,Bawang Merah,40400.0
+2024-01-23,Bawang Merah,40050.0
+2024-01-24,Bawang Merah,39800.0
+2024-01-25,Bawang Merah,39650.0
+2024-01-26,Bawang Merah,39450.0
+2024-01-29,Bawang Merah,38850.0
+2024-01-30,Bawang Merah,38550.0
+2024-01-31,Bawang Merah,38450.0
+2024-02-01,Bawang Merah,38350.0
+2024-02-02,Bawang Merah,38200.0
+2024-02-05,Bawang Merah,37850.0
+2024-02-06,Bawang Merah,37800.0
+2024-02-07,Bawang Merah,37350.0
+2024-02-08,Bawang Merah,37700.0
+2024-02-09,Bawang Merah,37700.0
+2024-02-12,Bawang Merah,37300.0
+2024-02-13,Bawang Merah,37000.0
+2024-02-14,Bawang Merah,36600.0
+2024-02-15,Bawang Merah,36850.0
+2024-02-16,Bawang Merah,36850.0
+2024-02-19,Bawang Merah,37200.0
+2024-02-20,Bawang Merah,37350.0
+2024-02-21,Bawang Merah,37450.0
+2024-02-22,Bawang Merah,37550.0
+2024-02-23,Bawang Merah,37650.0
+2024-02-26,Bawang Merah,37400.0
+2024-02-27,Bawang Merah,37350.0
+2024-02-28,Bawang Merah,37350.0
+2024-02-29,Bawang Merah,37300.0
+2024-03-01,Bawang Merah,37050.0
+2024-03-04,Bawang Merah,36950.0
+2024-03-05,Bawang Merah,36850.0
+2024-03-06,Bawang Merah,36700.0
+2024-03-07,Bawang Merah,36650.0
+2024-03-08,Bawang Merah,36700.0
+2024-03-11,Bawang Merah,36700.0
+2024-03-12,Bawang Merah,36650.0
+2024-03-13,Bawang Merah,36700.0
+2024-03-14,Bawang Merah,36750.0
+2024-03-15,Bawang Merah,37100.0
+2024-03-18,Bawang Merah,36700.0
+2024-03-19,Bawang Merah,36700.0
+2024-03-20,Bawang Merah,36800.0
+2024-03-21,Bawang Merah,36700.0
+2024-03-22,Bawang Merah,36750.0
+2024-03-25,Bawang Merah,36450.0
+2024-03-26,Bawang Merah,36650.0
+2024-03-27,Bawang Merah,36950.0
+2024-03-28,Bawang Merah,37100.0
+2024-03-29,Bawang Merah,37200.0
+2024-09-02,Bawang Merah,28450.0
+2024-09-03,Bawang Merah,28300.0
+2024-09-04,Bawang Merah,28450.0
+2024-09-05,Bawang Merah,28500.0
+2024-09-06,Bawang Merah,28550.0
+2024-09-09,Bawang Merah,28900.0
+2024-09-10,Bawang Merah,28900.0
+2024-09-11,Bawang Merah,29350.0
+2024-09-12,Bawang Merah,29350.0
+2024-09-13,Bawang Merah,29450.0
+2024-09-16,Bawang Merah,28600.0
+2024-09-17,Bawang Merah,29600.0
+2024-09-18,Bawang Merah,29850.0
+2024-09-19,Bawang Merah,30000.0
+2024-09-20,Bawang Merah,30050.0
+2024-09-23,Bawang Merah,30500.0
+2024-09-24,Bawang Merah,30550.0
+2024-09-25,Bawang Merah,30600.0
+2024-09-26,Bawang Merah,30550.0
+2024-09-27,Bawang Merah,30650.0
+2024-09-30,Bawang Merah,30800.0
+2024-10-01,Bawang Merah,30950.0
+2024-10-02,Bawang Merah,31050.0
+2024-10-03,Bawang Merah,31150.0
+2024-10-04,Bawang Merah,31250.0
+2024-10-07,Bawang Merah,31500.0
+2024-10-08,Bawang Merah,31550.0
+2024-10-09,Bawang Merah,31550.0
+2024-10-10,Bawang Merah,31550.0
+2024-10-11,Bawang Merah,31600.0
+2024-10-14,Bawang Merah,31600.0
+2024-10-15,Bawang Merah,31400.0
+2024-10-16,Bawang Merah,31500.0
+2024-10-17,Bawang Merah,31350.0
+2024-10-18,Bawang Merah,31550.0
+2024-10-21,Bawang Merah,31800.0
+2024-10-22,Bawang Merah,31750.0
+2024-10-23,Bawang Merah,31950.0
+2024-10-24,Bawang Merah,31950.0
+2024-10-25,Bawang Merah,32150.0
+2024-10-28,Bawang Merah,32900.0
+2024-10-29,Bawang Merah,33400.0
+2024-10-30,Bawang Merah,33650.0
+2024-10-31,Bawang Merah,34100.0
+2024-11-01,Bawang Merah,34600.0
+2024-11-04,Bawang Merah,36350.0
+2024-11-05,Bawang Merah,36950.0
+2024-11-06,Bawang Merah,37350.0
+2024-11-07,Bawang Merah,37550.0
+2024-11-08,Bawang Merah,38100.0
+2024-11-11,Bawang Merah,39200.0
+2024-11-12,Bawang Merah,39700.0
+2024-11-13,Bawang Merah,40150.0
+2024-11-14,Bawang Merah,40350.0
+2024-11-15,Bawang Merah,41000.0
+2024-11-18,Bawang Merah,41200.0
+2024-11-19,Bawang Merah,41550.0
+2024-11-20,Bawang Merah,41750.0
+2024-11-21,Bawang Merah,41900.0
+2024-11-22,Bawang Merah,41950.0
+2024-11-25,Bawang Merah,42000.0
+2024-11-26,Bawang Merah,42100.0
+2024-11-27,Bawang Merah,41050.0
+2024-11-28,Bawang Merah,42150.0
+2024-11-29,Bawang Merah,42150.0
+2024-12-02,Bawang Merah,42250.0
+2024-12-03,Bawang Merah,42300.0
+2024-12-04,Bawang Merah,42450.0
+2024-12-05,Bawang Merah,42650.0
+2024-12-06,Bawang Merah,42700.0
+2024-12-09,Bawang Merah,42750.0
+2024-12-10,Bawang Merah,43100.0
+2024-12-11,Bawang Merah,43300.0
+2024-12-12,Bawang Merah,43300.0
+2024-12-13,Bawang Merah,42950.0
+2024-12-16,Bawang Merah,43300.0
+2024-12-17,Bawang Merah,43750.0
+2024-12-18,Bawang Merah,43350.0
+2024-12-19,Bawang Merah,43200.0
+2024-12-20,Bawang Merah,43250.0
+2024-12-23,Bawang Merah,43250.0
+2024-12-24,Bawang Merah,43400.0
+2024-12-25,Bawang Merah,43350.0
+2024-12-26,Bawang Merah,43350.0
+2024-12-27,Bawang Merah,43750.0
+2024-12-30,Bawang Merah,44250.0
+2024-12-31,Bawang Merah,44000.0
+2025-01-01,Bawang Merah,44100.0
+2025-01-02,Bawang Merah,44050.0
+2025-01-03,Bawang Merah,43900.0
+2025-01-06,Bawang Merah,43550.0
+2025-01-07,Bawang Merah,43450.0
+2025-01-08,Bawang Merah,43400.0
+2025-01-09,Bawang Merah,42950.0
+2025-01-10,Bawang Merah,42950.0
+2025-01-13,Bawang Merah,42350.0
+2025-01-14,Bawang Merah,42150.0
+2025-01-15,Bawang Merah,41800.0
+2025-01-16,Bawang Merah,41800.0
+2025-01-17,Bawang Merah,41500.0
+2025-01-20,Bawang Merah,40700.0
+2025-01-21,Bawang Merah,40450.0
+2025-01-22,Bawang Merah,40100.0
+2025-01-23,Bawang Merah,39950.0
+2025-01-24,Bawang Merah,39700.0
+2025-01-27,Bawang Merah,39350.0
+2025-01-28,Bawang Merah,39200.0
+2025-01-29,Bawang Merah,39200.0
+2025-01-30,Bawang Merah,38850.0
+2025-01-31,Bawang Merah,38650.0
+2025-02-03,Bawang Merah,38100.0
+2025-02-04,Bawang Merah,37750.0
+2025-02-05,Bawang Merah,37600.0
+2025-02-06,Bawang Merah,37450.0
+2025-02-07,Bawang Merah,37150.0
+2025-02-10,Bawang Merah,37250.0
+2025-02-11,Bawang Merah,36500.0
+2025-02-12,Bawang Merah,37000.0
+2025-02-13,Bawang Merah,36750.0
+2025-02-14,Bawang Merah,37000.0
+2025-02-17,Bawang Merah,36950.0
+2025-02-18,Bawang Merah,36950.0
+2025-02-19,Bawang Merah,37150.0
+2025-02-20,Bawang Merah,37000.0
+2025-02-21,Bawang Merah,37000.0
+2025-02-24,Bawang Merah,38000.0
+2025-02-25,Bawang Merah,38500.0
+2025-02-26,Bawang Merah,38350.0
+2025-02-27,Bawang Merah,39350.0
+2025-02-28,Bawang Merah,39350.0
+2025-03-03,Bawang Merah,41450.0
+2025-03-04,Bawang Merah,41700.0
+2025-03-05,Bawang Merah,42000.0
+2025-03-06,Bawang Merah,42350.0
+2025-03-07,Bawang Merah,42850.0
+2025-03-10,Bawang Merah,43700.0
+2025-03-11,Bawang Merah,44200.0
+2025-03-12,Bawang Merah,44200.0
+2025-03-13,Bawang Merah,44250.0
+2025-03-14,Bawang Merah,44800.0
+2025-03-17,Bawang Merah,45000.0
+2025-03-18,Bawang Merah,45350.0
+2025-03-19,Bawang Merah,45550.0
+2025-03-20,Bawang Merah,45800.0
+2025-03-21,Bawang Merah,46050.0
+2025-03-24,Bawang Merah,46750.0
+2025-03-25,Bawang Merah,46900.0
+2025-03-26,Bawang Merah,47250.0
+2025-03-27,Bawang Merah,47100.0
+2025-03-28,Bawang Merah,47200.0
+2025-03-31,Bawang Merah,47050.0
+2025-09-01,Bawang Merah,48850.0
+2025-09-02,Bawang Merah,48400.0
+2025-09-03,Bawang Merah,48050.0
+2025-09-04,Bawang Merah,47700.0
+2025-09-05,Bawang Merah,47700.0
+2025-09-08,Bawang Merah,46650.0
+2025-09-09,Bawang Merah,46500.0
+2025-09-10,Bawang Merah,45800.0
+2025-09-11,Bawang Merah,45300.0
+2025-09-12,Bawang Merah,44950.0
+2025-09-15,Bawang Merah,43950.0
+2025-09-16,Bawang Merah,43700.0
+2025-09-17,Bawang Merah,43500.0
+2025-09-18,Bawang Merah,43300.0
+2025-09-19,Bawang Merah,43150.0
+2025-09-22,Bawang Merah,42150.0
+2025-09-23,Bawang Merah,41900.0
+2025-09-24,Bawang Merah,41700.0
+2025-09-25,Bawang Merah,41500.0
+2025-09-26,Bawang Merah,41450.0
+2025-09-29,Bawang Merah,40900.0
+2025-09-30,Bawang Merah,40650.0
+2025-10-01,Bawang Merah,40450.0
+2025-10-02,Bawang Merah,40250.0
+2025-10-03,Bawang Merah,40250.0
+2025-10-06,Bawang Merah,40600.0
+2025-10-07,Bawang Merah,40800.0
+2025-10-08,Bawang Merah,40900.0
+2025-10-09,Bawang Merah,41350.0
+2025-10-10,Bawang Merah,41450.0
+2025-10-13,Bawang Merah,41800.0
+2025-10-14,Bawang Merah,41800.0
+2025-10-15,Bawang Merah,41900.0
+2025-10-16,Bawang Merah,41900.0
+2025-10-17,Bawang Merah,42050.0
+2025-10-20,Bawang Merah,42150.0
+2025-10-21,Bawang Merah,42300.0
+2025-10-22,Bawang Merah,42050.0
+2025-10-23,Bawang Merah,42050.0
+2025-10-24,Bawang Merah,42050.0
+2025-10-27,Bawang Merah,41950.0
+2025-10-28,Bawang Merah,42000.0
+2025-10-29,Bawang Merah,41850.0
+2025-10-30,Bawang Merah,41900.0
+2025-10-31,Bawang Merah,41850.0
+2025-11-03,Bawang Merah,41800.0
+2025-11-04,Bawang Merah,41950.0
+2025-11-05,Bawang Merah,41900.0
+2025-11-06,Bawang Merah,41800.0
+2025-11-07,Bawang Merah,41900.0
+2025-11-10,Bawang Merah,41650.0
+2025-11-11,Bawang Merah,41600.0
+2025-11-12,Bawang Merah,41500.0
+2025-11-13,Bawang Merah,41550.0
+2025-11-14,Bawang Merah,41550.0
+2025-11-17,Bawang Merah,41800.0
+2025-11-18,Bawang Merah,41850.0
+2025-11-19,Bawang Merah,42050.0
+2025-11-20,Bawang Merah,42200.0
+2025-11-21,Bawang Merah,42500.0
+2025-11-24,Bawang Merah,43000.0
+2025-11-25,Bawang Merah,43250.0
+2025-11-26,Bawang Merah,43600.0
+2025-11-27,Bawang Merah,44150.0
+2025-11-28,Bawang Merah,45050.0
+2025-12-01,Bawang Merah,47150.0
+2025-12-02,Bawang Merah,47950.0
+2025-12-03,Bawang Merah,48350.0
+2025-12-04,Bawang Merah,48950.0
+2025-12-05,Bawang Merah,49250.0
+2025-12-08,Bawang Merah,51550.0
+2025-12-09,Bawang Merah,52000.0
+2025-12-10,Bawang Merah,52450.0
+2025-12-11,Bawang Merah,52500.0
+2025-12-12,Bawang Merah,53000.0
+2025-12-15,Bawang Merah,52950.0
+2025-12-16,Bawang Merah,52900.0
+2025-12-17,Bawang Merah,52900.0
+2025-12-18,Bawang Merah,52900.0
+2025-12-19,Bawang Merah,52900.0
+2025-12-22,Bawang Merah,52650.0
+2025-12-23,Bawang Merah,52750.0
+2025-12-24,Bawang Merah,52300.0
+2025-12-25,Bawang Merah,52700.0
+2025-12-26,Bawang Merah,52600.0
+2025-12-29,Bawang Merah,51250.0
+2025-12-30,Bawang Merah,51000.0
+2025-12-31,Bawang Merah,50700.0
+2026-01-01,Bawang Merah,50650.0
+2026-01-02,Bawang Merah,50500.0
+2026-01-05,Bawang Merah,49350.0
+2026-01-06,Bawang Merah,49250.0
+2026-01-07,Bawang Merah,48950.0
+2026-01-08,Bawang Merah,48700.0
+2026-01-09,Bawang Merah,48600.0
+2026-01-12,Bawang Merah,47850.0
+2026-01-13,Bawang Merah,47100.0
+2026-01-14,Bawang Merah,46700.0
+2026-01-15,Bawang Merah,46600.0
+2026-01-16,Bawang Merah,46550.0
+2026-01-19,Bawang Merah,46350.0
+2026-01-20,Bawang Merah,45000.0
+2026-01-21,Bawang Merah,44400.0
+2026-01-22,Bawang Merah,44250.0
+2026-01-23,Bawang Merah,44200.0
+2026-01-26,Bawang Merah,43600.0
+2026-01-27,Bawang Merah,43500.0
+2026-01-28,Bawang Merah,43400.0
+2026-01-29,Bawang Merah,43300.0
+2026-01-30,Bawang Merah,43150.0
+2026-02-02,Bawang Merah,43200.0
+2026-02-03,Bawang Merah,43400.0
+2026-02-04,Bawang Merah,43450.0
+2026-02-05,Bawang Merah,43350.0
+2026-02-06,Bawang Merah,43350.0
+2026-02-09,Bawang Merah,43800.0
+2026-02-10,Bawang Merah,44000.0
+2026-02-11,Bawang Merah,44050.0
+2026-02-12,Bawang Merah,44150.0
+2026-02-13,Bawang Merah,44350.0
+2026-02-16,Bawang Merah,44400.0
+2026-02-17,Bawang Merah,44400.0
+2026-02-18,Bawang Merah,45050.0
+2026-02-19,Bawang Merah,45100.0
+2026-02-20,Bawang Merah,45150.0
+2026-02-23,Bawang Merah,45150.0
+2026-02-24,Bawang Merah,45000.0
+2026-02-25,Bawang Merah,44950.0
+2026-02-26,Bawang Merah,44750.0
+2026-02-27,Bawang Merah,44800.0
+2026-03-02,Bawang Merah,43950.0
+2026-03-03,Bawang Merah,43900.0
+2026-03-04,Bawang Merah,43850.0
+2026-03-05,Bawang Merah,43800.0
+2026-03-06,Bawang Merah,43700.0
+2026-03-09,Bawang Merah,43400.0
+2026-03-10,Bawang Merah,43300.0
+2026-03-11,Bawang Merah,43300.0
+2026-03-12,Bawang Merah,43300.0
+2026-03-13,Bawang Merah,43700.0
+2026-03-16,Bawang Merah,44250.0
+2026-03-17,Bawang Merah,44550.0
+2026-03-18,Bawang Merah,44550.0
+2026-03-19,Bawang Merah,44550.0
+2026-03-20,Bawang Merah,44550.0
+2026-03-23,Bawang Merah,44650.0
+2026-03-24,Bawang Merah,44700.0
+2026-03-25,Bawang Merah,45700.0
+2026-03-26,Bawang Merah,45900.0
+2026-03-27,Bawang Merah,46300.0
+2026-03-30,Bawang Merah,47200.0
+2026-03-31,Bawang Merah,47750.0
+2019-09-02,Beras,11700.0
+2019-09-03,Beras,11700.0
+2019-09-04,Beras,11700.0
+2019-09-05,Beras,11700.0
+2019-09-06,Beras,11700.0
+2019-09-09,Beras,11700.0
+2019-09-10,Beras,11700.0
+2019-09-11,Beras,11700.0
+2019-09-12,Beras,11700.0
+2019-09-13,Beras,11700.0
+2019-09-16,Beras,11700.0
+2019-09-17,Beras,11700.0
+2019-09-18,Beras,11700.0
+2019-09-19,Beras,11700.0
+2019-09-20,Beras,11700.0
+2019-09-23,Beras,11700.0
+2019-09-24,Beras,11700.0
+2019-09-25,Beras,11700.0
+2019-09-26,Beras,11700.0
+2019-09-27,Beras,11750.0
+2019-09-30,Beras,11700.0
+2019-10-01,Beras,11700.0
+2019-10-02,Beras,11750.0
+2019-10-03,Beras,11750.0
+2019-10-04,Beras,11750.0
+2019-10-07,Beras,11750.0
+2019-10-08,Beras,11750.0
+2019-10-09,Beras,11750.0
+2019-10-10,Beras,11750.0
+2019-10-11,Beras,11750.0
+2019-10-14,Beras,11750.0
+2019-10-15,Beras,11750.0
+2019-10-16,Beras,11750.0
+2019-10-17,Beras,11750.0
+2019-10-18,Beras,11750.0
+2019-10-21,Beras,11750.0
+2019-10-22,Beras,11750.0
+2019-10-23,Beras,11750.0
+2019-10-24,Beras,11750.0
+2019-10-25,Beras,11750.0
+2019-10-28,Beras,11750.0
+2019-10-29,Beras,11750.0
+2019-10-30,Beras,11750.0
+2019-10-31,Beras,11750.0
+2019-11-01,Beras,11750.0
+2019-11-04,Beras,11750.0
+2019-11-05,Beras,11750.0
+2019-11-06,Beras,11750.0
+2019-11-07,Beras,11750.0
+2019-11-08,Beras,11750.0
+2019-11-11,Beras,11750.0
+2019-11-12,Beras,11750.0
+2019-11-13,Beras,11750.0
+2019-11-14,Beras,11750.0
+2019-11-15,Beras,11800.0
+2019-11-18,Beras,11750.0
+2019-11-19,Beras,11750.0
+2019-11-20,Beras,11750.0
+2019-11-21,Beras,11750.0
+2019-11-22,Beras,11750.0
+2019-11-25,Beras,11750.0
+2019-11-26,Beras,11750.0
+2019-11-27,Beras,11750.0
+2019-11-28,Beras,11750.0
+2019-11-29,Beras,11750.0
+2019-12-02,Beras,11750.0
+2019-12-03,Beras,11750.0
+2019-12-04,Beras,11750.0
+2019-12-05,Beras,11750.0
+2019-12-06,Beras,11750.0
+2019-12-09,Beras,11700.0
+2019-12-10,Beras,11750.0
+2019-12-11,Beras,11800.0
+2019-12-12,Beras,11750.0
+2019-12-13,Beras,11750.0
+2019-12-16,Beras,11750.0
+2019-12-17,Beras,11750.0
+2019-12-18,Beras,11750.0
+2019-12-19,Beras,11750.0
+2019-12-20,Beras,11750.0
+2019-12-23,Beras,11750.0
+2019-12-24,Beras,11500.0
+2019-12-25,Beras,10400.0
+2019-12-26,Beras,11800.0
+2019-12-27,Beras,11750.0
+2019-12-30,Beras,11800.0
+2019-12-31,Beras,11800.0
+2020-01-02,Beras,11800.0
+2020-01-03,Beras,11850.0
+2020-01-06,Beras,11800.0
+2020-01-07,Beras,11800.0
+2020-01-08,Beras,11800.0
+2020-01-09,Beras,11800.0
+2020-01-10,Beras,11850.0
+2020-01-13,Beras,11800.0
+2020-01-14,Beras,11850.0
+2020-01-15,Beras,11850.0
+2020-01-16,Beras,11850.0
+2020-01-17,Beras,11850.0
+2020-01-20,Beras,11850.0
+2020-01-21,Beras,11850.0
+2020-01-22,Beras,11850.0
+2020-01-23,Beras,11850.0
+2020-01-24,Beras,11850.0
+2020-01-27,Beras,11850.0
+2020-01-28,Beras,11850.0
+2020-01-29,Beras,11850.0
+2020-01-30,Beras,11850.0
+2020-01-31,Beras,11850.0
+2020-02-03,Beras,11850.0
+2020-02-04,Beras,11850.0
+2020-02-05,Beras,11850.0
+2020-02-06,Beras,11850.0
+2020-02-07,Beras,11850.0
+2020-02-10,Beras,11850.0
+2020-02-11,Beras,11850.0
+2020-02-12,Beras,11850.0
+2020-02-13,Beras,11850.0
+2020-02-14,Beras,11900.0
+2020-02-17,Beras,11900.0
+2020-02-18,Beras,11850.0
+2020-02-19,Beras,11850.0
+2020-02-20,Beras,11850.0
+2020-02-21,Beras,11850.0
+2020-02-24,Beras,11850.0
+2020-02-25,Beras,11850.0
+2020-02-26,Beras,11850.0
+2020-02-27,Beras,11850.0
+2020-02-28,Beras,11850.0
+2020-03-02,Beras,11850.0
+2020-03-03,Beras,11850.0
+2020-03-04,Beras,11850.0
+2020-03-05,Beras,11850.0
+2020-03-06,Beras,11850.0
+2020-03-09,Beras,11850.0
+2020-03-10,Beras,11850.0
+2020-03-11,Beras,11850.0
+2020-03-12,Beras,11850.0
+2020-03-13,Beras,11850.0
+2020-03-16,Beras,11850.0
+2020-03-17,Beras,11850.0
+2020-03-18,Beras,11850.0
+2020-03-19,Beras,11850.0
+2020-03-20,Beras,11900.0
+2020-03-23,Beras,11850.0
+2020-03-24,Beras,11850.0
+2020-03-25,Beras,11050.0
+2020-03-26,Beras,11850.0
+2020-03-27,Beras,11850.0
+2020-03-30,Beras,11900.0
+2020-03-31,Beras,11900.0
+2020-09-01,Beras,11850.0
+2020-09-02,Beras,11800.0
+2020-09-03,Beras,11850.0
+2020-09-04,Beras,11800.0
+2020-09-07,Beras,11800.0
+2020-09-08,Beras,11800.0
+2020-09-09,Beras,11800.0
+2020-09-10,Beras,11800.0
+2020-09-11,Beras,11800.0
+2020-09-14,Beras,11800.0
+2020-09-15,Beras,11800.0
+2020-09-16,Beras,11800.0
+2020-09-17,Beras,11800.0
+2020-09-18,Beras,11800.0
+2020-09-21,Beras,11800.0
+2020-09-22,Beras,11800.0
+2020-09-23,Beras,11800.0
+2020-09-24,Beras,11800.0
+2020-09-25,Beras,11800.0
+2020-09-28,Beras,11800.0
+2020-09-29,Beras,11800.0
+2020-09-30,Beras,11800.0
+2020-10-01,Beras,11800.0
+2020-10-02,Beras,11800.0
+2020-10-05,Beras,11800.0
+2020-10-06,Beras,11800.0
+2020-10-07,Beras,11800.0
+2020-10-08,Beras,11800.0
+2020-10-09,Beras,11800.0
+2020-10-12,Beras,11800.0
+2020-10-13,Beras,11800.0
+2020-10-14,Beras,11800.0
+2020-10-15,Beras,11800.0
+2020-10-16,Beras,11800.0
+2020-10-19,Beras,11800.0
+2020-10-20,Beras,11800.0
+2020-10-21,Beras,11800.0
+2020-10-22,Beras,11800.0
+2020-10-23,Beras,11800.0
+2020-10-26,Beras,11800.0
+2020-10-27,Beras,11800.0
+2020-10-28,Beras,11400.0
+2020-10-29,Beras,11950.0
+2020-10-30,Beras,12150.0
+2020-11-02,Beras,11800.0
+2020-11-03,Beras,11800.0
+2020-11-04,Beras,11800.0
+2020-11-05,Beras,11800.0
+2020-11-06,Beras,11800.0
+2020-11-09,Beras,11800.0
+2020-11-10,Beras,11800.0
+2020-11-11,Beras,11800.0
+2020-11-12,Beras,11800.0
+2020-11-13,Beras,11800.0
+2020-11-16,Beras,11800.0
+2020-11-17,Beras,11800.0
+2020-11-18,Beras,11800.0
+2020-11-19,Beras,11800.0
+2020-11-20,Beras,11800.0
+2020-11-23,Beras,11800.0
+2020-11-24,Beras,11800.0
+2020-11-25,Beras,11800.0
+2020-11-26,Beras,11800.0
+2020-11-27,Beras,11800.0
+2020-11-30,Beras,11800.0
+2020-12-01,Beras,11800.0
+2020-12-02,Beras,11800.0
+2020-12-03,Beras,11800.0
+2020-12-04,Beras,11800.0
+2020-12-07,Beras,11800.0
+2020-12-08,Beras,11800.0
+2020-12-09,Beras,12600.0
+2020-12-10,Beras,11800.0
+2020-12-11,Beras,11800.0
+2020-12-14,Beras,11800.0
+2020-12-15,Beras,11800.0
+2020-12-16,Beras,11800.0
+2020-12-17,Beras,11800.0
+2020-12-18,Beras,11800.0
+2020-12-21,Beras,11800.0
+2020-12-22,Beras,11800.0
+2020-12-23,Beras,11800.0
+2020-12-24,Beras,11950.0
+2020-12-28,Beras,11800.0
+2020-12-29,Beras,11800.0
+2020-12-30,Beras,11800.0
+2020-12-31,Beras,12300.0
+2021-01-04,Beras,11800.0
+2021-01-05,Beras,11800.0
+2021-01-06,Beras,11800.0
+2021-01-07,Beras,11800.0
+2021-01-08,Beras,11800.0
+2021-01-11,Beras,11800.0
+2021-01-12,Beras,11800.0
+2021-01-13,Beras,11800.0
+2021-01-14,Beras,11800.0
+2021-01-15,Beras,11800.0
+2021-01-18,Beras,11800.0
+2021-01-19,Beras,11800.0
+2021-01-20,Beras,11800.0
+2021-01-21,Beras,11800.0
+2021-01-22,Beras,11800.0
+2021-01-25,Beras,11800.0
+2021-01-26,Beras,11800.0
+2021-01-27,Beras,11800.0
+2021-01-28,Beras,11800.0
+2021-01-29,Beras,11850.0
+2021-02-01,Beras,11800.0
+2021-02-02,Beras,11800.0
+2021-02-03,Beras,11800.0
+2021-02-04,Beras,11800.0
+2021-02-05,Beras,11800.0
+2021-02-08,Beras,11800.0
+2021-02-09,Beras,11800.0
+2021-02-10,Beras,11800.0
+2021-02-11,Beras,11800.0
+2021-02-12,Beras,11550.0
+2021-02-15,Beras,11800.0
+2021-02-16,Beras,11800.0
+2021-02-17,Beras,11800.0
+2021-02-18,Beras,11800.0
+2021-02-19,Beras,11800.0
+2021-02-22,Beras,11800.0
+2021-02-23,Beras,11800.0
+2021-02-24,Beras,11800.0
+2021-02-25,Beras,11800.0
+2021-02-26,Beras,11800.0
+2021-03-01,Beras,11800.0
+2021-03-02,Beras,11800.0
+2021-03-03,Beras,11800.0
+2021-03-04,Beras,11800.0
+2021-03-05,Beras,11800.0
+2021-03-08,Beras,11800.0
+2021-03-09,Beras,11800.0
+2021-03-10,Beras,11800.0
+2021-03-11,Beras,12400.0
+2021-03-12,Beras,11800.0
+2021-03-15,Beras,11800.0
+2021-03-16,Beras,11800.0
+2021-03-17,Beras,11800.0
+2021-03-18,Beras,11850.0
+2021-03-19,Beras,11800.0
+2021-03-22,Beras,11800.0
+2021-03-23,Beras,11800.0
+2021-03-24,Beras,11800.0
+2021-03-25,Beras,11800.0
+2021-03-26,Beras,11800.0
+2021-03-29,Beras,11800.0
+2021-03-30,Beras,11800.0
+2021-03-31,Beras,11800.0
+2021-09-01,Beras,11650.0
+2021-09-02,Beras,11650.0
+2021-09-03,Beras,11650.0
+2021-09-06,Beras,11650.0
+2021-09-07,Beras,11650.0
+2021-09-08,Beras,11700.0
+2021-09-09,Beras,11700.0
+2021-09-10,Beras,11650.0
+2021-09-13,Beras,11650.0
+2021-09-14,Beras,11650.0
+2021-09-15,Beras,11650.0
+2021-09-16,Beras,11650.0
+2021-09-17,Beras,11650.0
+2021-09-20,Beras,11650.0
+2021-09-21,Beras,11650.0
+2021-09-22,Beras,11650.0
+2021-09-23,Beras,11650.0
+2021-09-24,Beras,11650.0
+2021-09-27,Beras,11650.0
+2021-09-28,Beras,11650.0
+2021-09-29,Beras,11650.0
+2021-09-30,Beras,11650.0
+2021-10-01,Beras,11650.0
+2021-10-04,Beras,11650.0
+2021-10-05,Beras,11650.0
+2021-10-06,Beras,11650.0
+2021-10-07,Beras,11650.0
+2021-10-08,Beras,11650.0
+2021-10-11,Beras,11650.0
+2021-10-12,Beras,11650.0
+2021-10-13,Beras,11650.0
+2021-10-14,Beras,11650.0
+2021-10-15,Beras,11650.0
+2021-10-18,Beras,11650.0
+2021-10-19,Beras,11650.0
+2021-10-20,Beras,14150.0
+2021-10-21,Beras,11650.0
+2021-10-22,Beras,11650.0
+2021-10-25,Beras,11650.0
+2021-10-26,Beras,11650.0
+2021-10-27,Beras,11650.0
+2021-10-28,Beras,11650.0
+2021-10-29,Beras,11650.0
+2021-11-01,Beras,11650.0
+2021-11-02,Beras,11650.0
+2021-11-03,Beras,11650.0
+2021-11-04,Beras,11650.0
+2021-11-05,Beras,11650.0
+2021-11-08,Beras,11650.0
+2021-11-09,Beras,11650.0
+2021-11-10,Beras,11700.0
+2021-11-11,Beras,11650.0
+2021-11-12,Beras,11650.0
+2021-11-15,Beras,11650.0
+2021-11-16,Beras,11650.0
+2021-11-17,Beras,11650.0
+2021-11-18,Beras,11650.0
+2021-11-19,Beras,11650.0
+2021-11-22,Beras,11650.0
+2021-11-23,Beras,11650.0
+2021-11-24,Beras,11650.0
+2021-11-25,Beras,11650.0
+2021-11-26,Beras,11650.0
+2021-11-29,Beras,11650.0
+2021-11-30,Beras,11650.0
+2021-12-01,Beras,11650.0
+2021-12-02,Beras,11650.0
+2021-12-03,Beras,11650.0
+2021-12-06,Beras,11650.0
+2021-12-07,Beras,11650.0
+2021-12-08,Beras,11650.0
+2021-12-09,Beras,11650.0
+2021-12-10,Beras,11650.0
+2021-12-13,Beras,11650.0
+2021-12-14,Beras,11700.0
+2021-12-15,Beras,11700.0
+2021-12-16,Beras,11700.0
+2021-12-17,Beras,11700.0
+2021-12-20,Beras,11650.0
+2021-12-21,Beras,11650.0
+2021-12-22,Beras,11600.0
+2021-12-23,Beras,11650.0
+2021-12-24,Beras,11600.0
+2021-12-27,Beras,11700.0
+2021-12-28,Beras,11700.0
+2021-12-29,Beras,11750.0
+2021-12-30,Beras,11750.0
+2021-12-31,Beras,11750.0
+2022-01-03,Beras,11750.0
+2022-01-04,Beras,11750.0
+2022-01-05,Beras,11750.0
+2022-01-06,Beras,11750.0
+2022-01-07,Beras,11750.0
+2022-01-10,Beras,11700.0
+2022-01-11,Beras,11750.0
+2022-01-12,Beras,11750.0
+2022-01-13,Beras,11750.0
+2022-01-14,Beras,11750.0
+2022-01-17,Beras,11750.0
+2022-01-18,Beras,11800.0
+2022-01-19,Beras,11800.0
+2022-01-20,Beras,11800.0
+2022-01-21,Beras,11800.0
+2022-01-24,Beras,11800.0
+2022-01-25,Beras,11800.0
+2022-01-26,Beras,11800.0
+2022-01-27,Beras,11800.0
+2022-01-28,Beras,11800.0
+2022-01-31,Beras,11800.0
+2022-02-01,Beras,11000.0
+2022-02-02,Beras,11800.0
+2022-02-03,Beras,11800.0
+2022-02-04,Beras,11800.0
+2022-02-07,Beras,11800.0
+2022-02-08,Beras,11800.0
+2022-02-09,Beras,11800.0
+2022-02-10,Beras,11800.0
+2022-02-11,Beras,11800.0
+2022-02-14,Beras,11800.0
+2022-02-15,Beras,11800.0
+2022-02-16,Beras,11800.0
+2022-02-17,Beras,11800.0
+2022-02-18,Beras,11800.0
+2022-02-21,Beras,11800.0
+2022-02-22,Beras,11800.0
+2022-02-23,Beras,11800.0
+2022-02-24,Beras,11800.0
+2022-02-25,Beras,11800.0
+2022-03-01,Beras,11800.0
+2022-03-02,Beras,11800.0
+2022-03-04,Beras,11800.0
+2022-03-07,Beras,11800.0
+2022-03-08,Beras,11800.0
+2022-03-09,Beras,11800.0
+2022-03-10,Beras,11800.0
+2022-03-11,Beras,11800.0
+2022-03-14,Beras,11800.0
+2022-03-15,Beras,11800.0
+2022-03-16,Beras,11800.0
+2022-03-17,Beras,11750.0
+2022-03-18,Beras,11800.0
+2022-03-21,Beras,11800.0
+2022-03-22,Beras,11800.0
+2022-03-23,Beras,11800.0
+2022-03-24,Beras,11800.0
+2022-03-25,Beras,11800.0
+2022-03-28,Beras,11800.0
+2022-03-29,Beras,11800.0
+2022-03-30,Beras,11800.0
+2022-03-31,Beras,11800.0
+2022-09-01,Beras,11950.0
+2022-09-02,Beras,11950.0
+2022-09-05,Beras,11950.0
+2022-09-06,Beras,11950.0
+2022-09-07,Beras,11950.0
+2022-09-08,Beras,11950.0
+2022-09-09,Beras,12000.0
+2022-09-12,Beras,12000.0
+2022-09-13,Beras,12000.0
+2022-09-14,Beras,12050.0
+2022-09-15,Beras,12050.0
+2022-09-16,Beras,12050.0
+2022-09-19,Beras,12050.0
+2022-09-20,Beras,12050.0
+2022-09-21,Beras,12050.0
+2022-09-22,Beras,12100.0
+2022-09-23,Beras,12100.0
+2022-09-26,Beras,12100.0
+2022-09-27,Beras,12100.0
+2022-09-28,Beras,12100.0
+2022-09-29,Beras,12100.0
+2022-09-30,Beras,12100.0
+2022-10-03,Beras,12150.0
+2022-10-04,Beras,12150.0
+2022-10-05,Beras,12150.0
+2022-10-06,Beras,12150.0
+2022-10-07,Beras,12150.0
+2022-10-10,Beras,12150.0
+2022-10-11,Beras,12150.0
+2022-10-12,Beras,12150.0
+2022-10-13,Beras,12150.0
+2022-10-14,Beras,12150.0
+2022-10-17,Beras,12150.0
+2022-10-18,Beras,12150.0
+2022-10-19,Beras,12150.0
+2022-10-20,Beras,12150.0
+2022-10-21,Beras,12150.0
+2022-10-24,Beras,12200.0
+2022-10-25,Beras,12200.0
+2022-10-26,Beras,12200.0
+2022-10-27,Beras,12200.0
+2022-10-28,Beras,12200.0
+2022-10-31,Beras,12200.0
+2022-11-01,Beras,12200.0
+2022-11-02,Beras,12200.0
+2022-11-03,Beras,12200.0
+2022-11-04,Beras,12200.0
+2022-11-07,Beras,12200.0
+2022-11-08,Beras,12200.0
+2022-11-09,Beras,12200.0
+2022-11-10,Beras,12200.0
+2022-11-11,Beras,12200.0
+2022-11-14,Beras,12200.0
+2022-11-15,Beras,12200.0
+2022-11-16,Beras,12250.0
+2022-11-17,Beras,12250.0
+2022-11-18,Beras,12250.0
+2022-11-21,Beras,12250.0
+2022-11-22,Beras,12250.0
+2022-11-23,Beras,12250.0
+2022-11-24,Beras,12250.0
+2022-11-25,Beras,12300.0
+2022-11-28,Beras,12300.0
+2022-11-29,Beras,12300.0
+2022-11-30,Beras,12300.0
+2022-12-01,Beras,12300.0
+2022-12-02,Beras,12350.0
+2022-12-05,Beras,12400.0
+2022-12-06,Beras,12400.0
+2022-12-07,Beras,12450.0
+2022-12-08,Beras,12450.0
+2022-12-09,Beras,12450.0
+2022-12-12,Beras,12500.0
+2022-12-13,Beras,12500.0
+2022-12-14,Beras,12550.0
+2022-12-15,Beras,12550.0
+2022-12-16,Beras,12550.0
+2022-12-19,Beras,12550.0
+2022-12-20,Beras,12550.0
+2022-12-21,Beras,12550.0
+2022-12-22,Beras,12550.0
+2022-12-23,Beras,12600.0
+2022-12-26,Beras,12600.0
+2022-12-27,Beras,12600.0
+2022-12-28,Beras,12600.0
+2022-12-29,Beras,12600.0
+2022-12-30,Beras,12600.0
+2023-01-02,Beras,12650.0
+2023-01-03,Beras,12650.0
+2023-01-04,Beras,12650.0
+2023-01-05,Beras,12650.0
+2023-01-06,Beras,12700.0
+2023-01-09,Beras,12700.0
+2023-01-10,Beras,12700.0
+2023-01-11,Beras,12750.0
+2023-01-12,Beras,12750.0
+2023-01-13,Beras,12750.0
+2023-01-16,Beras,12750.0
+2023-01-17,Beras,12800.0
+2023-01-18,Beras,12800.0
+2023-01-19,Beras,12800.0
+2023-01-20,Beras,12800.0
+2023-01-23,Beras,12850.0
+2023-01-24,Beras,12850.0
+2023-01-25,Beras,12850.0
+2023-01-26,Beras,12850.0
+2023-01-27,Beras,12850.0
+2023-01-30,Beras,12900.0
+2023-01-31,Beras,12900.0
+2023-02-01,Beras,12900.0
+2023-02-02,Beras,12950.0
+2023-02-03,Beras,12950.0
+2023-02-06,Beras,13000.0
+2023-02-07,Beras,13000.0
+2023-02-08,Beras,13050.0
+2023-02-09,Beras,13050.0
+2023-02-10,Beras,13050.0
+2023-02-13,Beras,13100.0
+2023-02-14,Beras,13100.0
+2023-02-15,Beras,13100.0
+2023-02-16,Beras,13100.0
+2023-02-17,Beras,13150.0
+2023-02-20,Beras,13200.0
+2023-02-21,Beras,13200.0
+2023-02-22,Beras,13200.0
+2023-02-23,Beras,13200.0
+2023-02-24,Beras,13250.0
+2023-02-27,Beras,13200.0
+2023-02-28,Beras,13200.0
+2023-03-01,Beras,13200.0
+2023-03-02,Beras,13200.0
+2023-03-03,Beras,13200.0
+2023-03-06,Beras,13200.0
+2023-03-07,Beras,13200.0
+2023-03-08,Beras,13250.0
+2023-03-09,Beras,13250.0
+2023-03-10,Beras,13250.0
+2023-03-13,Beras,13250.0
+2023-03-14,Beras,13300.0
+2023-03-15,Beras,13300.0
+2023-03-16,Beras,13300.0
+2023-03-17,Beras,13300.0
+2023-03-20,Beras,13350.0
+2023-03-21,Beras,13350.0
+2023-03-22,Beras,13200.0
+2023-03-23,Beras,13250.0
+2023-03-24,Beras,13350.0
+2023-03-27,Beras,13400.0
+2023-03-28,Beras,13400.0
+2023-03-29,Beras,13400.0
+2023-03-30,Beras,13400.0
+2023-03-31,Beras,13400.0
+2023-09-01,Beras,13800.0
+2023-09-04,Beras,13900.0
+2023-09-05,Beras,13950.0
+2023-09-06,Beras,13950.0
+2023-09-07,Beras,14000.0
+2023-09-08,Beras,14000.0
+2023-09-11,Beras,14050.0
+2023-09-12,Beras,14100.0
+2023-09-13,Beras,14100.0
+2023-09-14,Beras,14150.0
+2023-09-15,Beras,14200.0
+2023-09-18,Beras,14200.0
+2023-09-19,Beras,14250.0
+2023-09-20,Beras,14250.0
+2023-09-21,Beras,14250.0
+2023-09-22,Beras,14300.0
+2023-09-25,Beras,14350.0
+2023-09-26,Beras,14350.0
+2023-09-27,Beras,14350.0
+2023-09-28,Beras,14400.0
+2023-09-29,Beras,14400.0
+2023-10-02,Beras,14400.0
+2023-10-03,Beras,14450.0
+2023-10-04,Beras,14450.0
+2023-10-05,Beras,14500.0
+2023-10-06,Beras,14500.0
+2023-10-09,Beras,14550.0
+2023-10-10,Beras,14550.0
+2023-10-11,Beras,14550.0
+2023-10-12,Beras,14550.0
+2023-10-13,Beras,14550.0
+2023-10-16,Beras,14600.0
+2023-10-17,Beras,14600.0
+2023-10-18,Beras,14600.0
+2023-10-19,Beras,14650.0
+2023-10-20,Beras,14650.0
+2023-10-23,Beras,14650.0
+2023-10-24,Beras,14650.0
+2023-10-25,Beras,14650.0
+2023-10-26,Beras,14650.0
+2023-10-27,Beras,14650.0
+2023-10-30,Beras,14650.0
+2023-10-31,Beras,14650.0
+2023-11-01,Beras,14650.0
+2023-11-02,Beras,14650.0
+2023-11-03,Beras,14650.0
+2023-11-06,Beras,14650.0
+2023-11-07,Beras,14650.0
+2023-11-08,Beras,14650.0
+2023-11-09,Beras,14650.0
+2023-11-10,Beras,14650.0
+2023-11-13,Beras,14650.0
+2023-11-14,Beras,14650.0
+2023-11-15,Beras,14650.0
+2023-11-16,Beras,14650.0
+2023-11-17,Beras,14650.0
+2023-11-20,Beras,14650.0
+2023-11-21,Beras,14650.0
+2023-11-22,Beras,14650.0
+2023-11-23,Beras,14650.0
+2023-11-24,Beras,14650.0
+2023-11-27,Beras,14650.0
+2023-11-28,Beras,14600.0
+2023-11-29,Beras,14700.0
+2023-11-30,Beras,14650.0
+2023-12-01,Beras,14650.0
+2023-12-04,Beras,14700.0
+2023-12-05,Beras,14700.0
+2023-12-06,Beras,14700.0
+2023-12-07,Beras,14650.0
+2023-12-08,Beras,14700.0
+2023-12-11,Beras,14700.0
+2023-12-12,Beras,14700.0
+2023-12-13,Beras,14650.0
+2023-12-14,Beras,14700.0
+2023-12-15,Beras,14700.0
+2023-12-18,Beras,14650.0
+2023-12-19,Beras,14700.0
+2023-12-20,Beras,14700.0
+2023-12-21,Beras,14650.0
+2023-12-22,Beras,14650.0
+2023-12-25,Beras,13750.0
+2023-12-26,Beras,13750.0
+2023-12-27,Beras,14700.0
+2023-12-28,Beras,14700.0
+2023-12-29,Beras,14650.0
+2024-01-01,Beras,14550.0
+2024-01-02,Beras,14700.0
+2024-01-03,Beras,14700.0
+2024-01-04,Beras,14750.0
+2024-01-05,Beras,14750.0
+2024-01-08,Beras,14750.0
+2024-01-09,Beras,14750.0
+2024-01-10,Beras,14800.0
+2024-01-11,Beras,14750.0
+2024-01-12,Beras,14750.0
+2024-01-15,Beras,14800.0
+2024-01-16,Beras,14800.0
+2024-01-17,Beras,14800.0
+2024-01-18,Beras,14800.0
+2024-01-19,Beras,14800.0
+2024-01-22,Beras,14850.0
+2024-01-23,Beras,14850.0
+2024-01-24,Beras,14850.0
+2024-01-25,Beras,14850.0
+2024-01-26,Beras,14850.0
+2024-01-29,Beras,14900.0
+2024-01-30,Beras,14950.0
+2024-01-31,Beras,14950.0
+2024-02-01,Beras,14950.0
+2024-02-02,Beras,15000.0
+2024-02-05,Beras,15150.0
+2024-02-06,Beras,15150.0
+2024-02-07,Beras,15150.0
+2024-02-08,Beras,15150.0
+2024-02-09,Beras,15150.0
+2024-02-12,Beras,15250.0
+2024-02-13,Beras,15300.0
+2024-02-14,Beras,15250.0
+2024-02-15,Beras,15350.0
+2024-02-16,Beras,15400.0
+2024-02-19,Beras,15450.0
+2024-02-20,Beras,15550.0
+2024-02-21,Beras,15550.0
+2024-02-22,Beras,15600.0
+2024-02-23,Beras,15650.0
+2024-02-26,Beras,15750.0
+2024-02-27,Beras,15800.0
+2024-02-28,Beras,15850.0
+2024-02-29,Beras,15850.0
+2024-03-01,Beras,15900.0
+2024-03-04,Beras,15950.0
+2024-03-05,Beras,15950.0
+2024-03-06,Beras,15950.0
+2024-03-07,Beras,15950.0
+2024-03-08,Beras,15950.0
+2024-03-11,Beras,15950.0
+2024-03-12,Beras,15950.0
+2024-03-13,Beras,16000.0
+2024-03-14,Beras,16000.0
+2024-03-15,Beras,16000.0
+2024-03-18,Beras,16000.0
+2024-03-19,Beras,16000.0
+2024-03-20,Beras,16000.0
+2024-03-21,Beras,15950.0
+2024-03-22,Beras,15950.0
+2024-03-25,Beras,15950.0
+2024-03-26,Beras,15900.0
+2024-03-27,Beras,15900.0
+2024-03-28,Beras,15900.0
+2024-03-29,Beras,15900.0
+2024-09-02,Beras,15300.0
+2024-09-03,Beras,15350.0
+2024-09-04,Beras,15350.0
+2024-09-05,Beras,15350.0
+2024-09-06,Beras,15350.0
+2024-09-09,Beras,15350.0
+2024-09-10,Beras,15350.0
+2024-09-11,Beras,15350.0
+2024-09-12,Beras,15350.0
+2024-09-13,Beras,15350.0
+2024-09-16,Beras,15150.0
+2024-09-17,Beras,15350.0
+2024-09-18,Beras,15350.0
+2024-09-19,Beras,15350.0
+2024-09-20,Beras,15350.0
+2024-09-23,Beras,15300.0
+2024-09-24,Beras,15350.0
+2024-09-25,Beras,15300.0
+2024-09-26,Beras,15300.0
+2024-09-27,Beras,15300.0
+2024-09-30,Beras,15300.0
+2024-10-01,Beras,15300.0
+2024-10-02,Beras,15300.0
+2024-10-03,Beras,15300.0
+2024-10-04,Beras,15300.0
+2024-10-07,Beras,15300.0
+2024-10-08,Beras,15300.0
+2024-10-09,Beras,15300.0
+2024-10-10,Beras,15200.0
+2024-10-11,Beras,15300.0
+2024-10-14,Beras,15300.0
+2024-10-15,Beras,15300.0
+2024-10-16,Beras,15300.0
+2024-10-17,Beras,15250.0
+2024-10-18,Beras,15300.0
+2024-10-21,Beras,15300.0
+2024-10-22,Beras,15250.0
+2024-10-23,Beras,15300.0
+2024-10-24,Beras,15250.0
+2024-10-25,Beras,15300.0
+2024-10-28,Beras,15300.0
+2024-10-29,Beras,15300.0
+2024-10-30,Beras,15300.0
+2024-10-31,Beras,15250.0
+2024-11-01,Beras,15250.0
+2024-11-04,Beras,15250.0
+2024-11-05,Beras,15250.0
+2024-11-06,Beras,15250.0
+2024-11-07,Beras,15250.0
+2024-11-08,Beras,15200.0
+2024-11-11,Beras,15250.0
+2024-11-12,Beras,15250.0
+2024-11-13,Beras,15250.0
+2024-11-14,Beras,15250.0
+2024-11-15,Beras,15250.0
+2024-11-18,Beras,15200.0
+2024-11-19,Beras,15150.0
+2024-11-20,Beras,15200.0
+2024-11-21,Beras,15200.0
+2024-11-22,Beras,15250.0
+2024-11-25,Beras,15100.0
+2024-11-26,Beras,15200.0
+2024-11-27,Beras,14900.0
+2024-11-28,Beras,15200.0
+2024-11-29,Beras,15200.0
+2024-12-02,Beras,15250.0
+2024-12-03,Beras,15250.0
+2024-12-04,Beras,15200.0
+2024-12-05,Beras,15200.0
+2024-12-06,Beras,15250.0
+2024-12-09,Beras,15200.0
+2024-12-10,Beras,15250.0
+2024-12-11,Beras,15200.0
+2024-12-12,Beras,15200.0
+2024-12-13,Beras,15200.0
+2024-12-16,Beras,15250.0
+2024-12-17,Beras,15150.0
+2024-12-18,Beras,15250.0
+2024-12-19,Beras,15200.0
+2024-12-20,Beras,15200.0
+2024-12-23,Beras,15200.0
+2024-12-24,Beras,15200.0
+2024-12-25,Beras,15100.0
+2024-12-26,Beras,15100.0
+2024-12-27,Beras,15200.0
+2024-12-30,Beras,15200.0
+2024-12-31,Beras,15200.0
+2025-01-01,Beras,15050.0
+2025-01-02,Beras,15250.0
+2025-01-03,Beras,15200.0
+2025-01-06,Beras,15150.0
+2025-01-07,Beras,15200.0
+2025-01-08,Beras,15200.0
+2025-01-09,Beras,15150.0
+2025-01-10,Beras,15200.0
+2025-01-13,Beras,15200.0
+2025-01-14,Beras,15200.0
+2025-01-15,Beras,15250.0
+2025-01-16,Beras,15250.0
+2025-01-17,Beras,15250.0
+2025-01-20,Beras,15250.0
+2025-01-21,Beras,15250.0
+2025-01-22,Beras,15250.0
+2025-01-23,Beras,15250.0
+2025-01-24,Beras,15250.0
+2025-01-27,Beras,15150.0
+2025-01-28,Beras,15150.0
+2025-01-29,Beras,15150.0
+2025-01-30,Beras,15250.0
+2025-01-31,Beras,15250.0
+2025-02-03,Beras,15250.0
+2025-02-04,Beras,15250.0
+2025-02-05,Beras,15250.0
+2025-02-06,Beras,15250.0
+2025-02-07,Beras,15200.0
+2025-02-10,Beras,15250.0
+2025-02-11,Beras,14950.0
+2025-02-12,Beras,15250.0
+2025-02-13,Beras,15200.0
+2025-02-14,Beras,15250.0
+2025-02-17,Beras,15250.0
+2025-02-18,Beras,15250.0
+2025-02-19,Beras,15250.0
+2025-02-20,Beras,15250.0
+2025-02-21,Beras,15150.0
+2025-02-24,Beras,15200.0
+2025-02-25,Beras,15200.0
+2025-02-26,Beras,15200.0
+2025-02-27,Beras,15250.0
+2025-02-28,Beras,15200.0
+2025-03-03,Beras,15250.0
+2025-03-04,Beras,15250.0
+2025-03-05,Beras,15250.0
+2025-03-06,Beras,15250.0
+2025-03-07,Beras,15300.0
+2025-03-10,Beras,15250.0
+2025-03-11,Beras,15250.0
+2025-03-12,Beras,15250.0
+2025-03-13,Beras,15250.0
+2025-03-14,Beras,15200.0
+2025-03-17,Beras,15300.0
+2025-03-18,Beras,15250.0
+2025-03-19,Beras,15250.0
+2025-03-20,Beras,15300.0
+2025-03-21,Beras,15300.0
+2025-03-24,Beras,15300.0
+2025-03-25,Beras,15300.0
+2025-03-26,Beras,15300.0
+2025-03-27,Beras,15300.0
+2025-03-28,Beras,15200.0
+2025-03-31,Beras,15200.0
+2025-09-01,Beras,15950.0
+2025-09-02,Beras,15950.0
+2025-09-03,Beras,15950.0
+2025-09-04,Beras,15950.0
+2025-09-05,Beras,15950.0
+2025-09-08,Beras,15900.0
+2025-09-09,Beras,15900.0
+2025-09-10,Beras,15950.0
+2025-09-11,Beras,15950.0
+2025-09-12,Beras,15900.0
+2025-09-15,Beras,15900.0
+2025-09-16,Beras,15900.0
+2025-09-17,Beras,15900.0
+2025-09-18,Beras,15900.0
+2025-09-19,Beras,15900.0
+2025-09-22,Beras,15900.0
+2025-09-23,Beras,15900.0
+2025-09-24,Beras,15900.0
+2025-09-25,Beras,15950.0
+2025-09-26,Beras,15900.0
+2025-09-29,Beras,15900.0
+2025-09-30,Beras,15900.0
+2025-10-01,Beras,15900.0
+2025-10-02,Beras,15850.0
+2025-10-03,Beras,15900.0
+2025-10-06,Beras,15850.0
+2025-10-07,Beras,15850.0
+2025-10-08,Beras,15850.0
+2025-10-09,Beras,15850.0
+2025-10-10,Beras,15850.0
+2025-10-13,Beras,15800.0
+2025-10-14,Beras,15800.0
+2025-10-15,Beras,15800.0
+2025-10-16,Beras,15800.0
+2025-10-17,Beras,15800.0
+2025-10-20,Beras,15800.0
+2025-10-21,Beras,15800.0
+2025-10-22,Beras,15800.0
+2025-10-23,Beras,15800.0
+2025-10-24,Beras,15800.0
+2025-10-27,Beras,15800.0
+2025-10-28,Beras,15800.0
+2025-10-29,Beras,15800.0
+2025-10-30,Beras,15750.0
+2025-10-31,Beras,15750.0
+2025-11-03,Beras,15750.0
+2025-11-04,Beras,15750.0
+2025-11-05,Beras,15750.0
+2025-11-06,Beras,15750.0
+2025-11-07,Beras,15750.0
+2025-11-10,Beras,15750.0
+2025-11-11,Beras,15750.0
+2025-11-12,Beras,15750.0
+2025-11-13,Beras,15750.0
+2025-11-14,Beras,15750.0
+2025-11-17,Beras,15750.0
+2025-11-18,Beras,15700.0
+2025-11-19,Beras,15700.0
+2025-11-20,Beras,15700.0
+2025-11-21,Beras,15700.0
+2025-11-24,Beras,15700.0
+2025-11-25,Beras,15700.0
+2025-11-26,Beras,15700.0
+2025-11-27,Beras,15700.0
+2025-11-28,Beras,15700.0
+2025-12-01,Beras,15700.0
+2025-12-02,Beras,15700.0
+2025-12-03,Beras,15700.0
+2025-12-04,Beras,15700.0
+2025-12-05,Beras,15700.0
+2025-12-08,Beras,15700.0
+2025-12-09,Beras,15700.0
+2025-12-10,Beras,15750.0
+2025-12-11,Beras,15750.0
+2025-12-12,Beras,15750.0
+2025-12-15,Beras,15750.0
+2025-12-16,Beras,15750.0
+2025-12-17,Beras,15750.0
+2025-12-18,Beras,15750.0
+2025-12-19,Beras,15750.0
+2025-12-22,Beras,15750.0
+2025-12-23,Beras,15750.0
+2025-12-24,Beras,15750.0
+2025-12-25,Beras,15800.0
+2025-12-26,Beras,15800.0
+2025-12-29,Beras,15750.0
+2025-12-30,Beras,15750.0
+2025-12-31,Beras,15750.0
+2026-01-01,Beras,15750.0
+2026-01-02,Beras,15750.0
+2026-01-05,Beras,15750.0
+2026-01-06,Beras,15750.0
+2026-01-07,Beras,15750.0
+2026-01-08,Beras,15750.0
+2026-01-09,Beras,15750.0
+2026-01-12,Beras,15750.0
+2026-01-13,Beras,15750.0
+2026-01-14,Beras,15750.0
+2026-01-15,Beras,15750.0
+2026-01-16,Beras,15750.0
+2026-01-19,Beras,15750.0
+2026-01-20,Beras,15750.0
+2026-01-21,Beras,15750.0
+2026-01-22,Beras,15750.0
+2026-01-23,Beras,15750.0
+2026-01-26,Beras,15750.0
+2026-01-27,Beras,15750.0
+2026-01-28,Beras,15750.0
+2026-01-29,Beras,15750.0
+2026-01-30,Beras,15750.0
+2026-02-02,Beras,15750.0
+2026-02-03,Beras,15750.0
+2026-02-04,Beras,15750.0
+2026-02-05,Beras,15750.0
+2026-02-06,Beras,15750.0
+2026-02-09,Beras,15750.0
+2026-02-10,Beras,15750.0
+2026-02-11,Beras,15800.0
+2026-02-12,Beras,15800.0
+2026-02-13,Beras,15800.0
+2026-02-16,Beras,15800.0
+2026-02-17,Beras,15800.0
+2026-02-18,Beras,15800.0
+2026-02-19,Beras,15800.0
+2026-02-20,Beras,15800.0
+2026-02-23,Beras,15800.0
+2026-02-24,Beras,15800.0
+2026-02-25,Beras,15800.0
+2026-02-26,Beras,15800.0
+2026-02-27,Beras,15800.0
+2026-03-02,Beras,15800.0
+2026-03-03,Beras,15800.0
+2026-03-04,Beras,15800.0
+2026-03-05,Beras,15800.0
+2026-03-06,Beras,15800.0
+2026-03-09,Beras,15800.0
+2026-03-10,Beras,15800.0
+2026-03-11,Beras,15800.0
+2026-03-12,Beras,15850.0
+2026-03-13,Beras,15850.0
+2026-03-16,Beras,15850.0
+2026-03-17,Beras,15850.0
+2026-03-18,Beras,15850.0
+2026-03-19,Beras,15850.0
+2026-03-20,Beras,15850.0
+2026-03-23,Beras,15850.0
+2026-03-24,Beras,15850.0
+2026-03-25,Beras,15850.0
+2026-03-26,Beras,15850.0
+2026-03-27,Beras,15850.0
+2026-03-30,Beras,15900.0
+2026-03-31,Beras,15900.0
+2019-09-02,Cabai Merah,53100.0
+2019-09-03,Cabai Merah,52150.0
+2019-09-04,Cabai Merah,51900.0
+2019-09-05,Cabai Merah,51350.0
+2019-09-06,Cabai Merah,50650.0
+2019-09-09,Cabai Merah,49250.0
+2019-09-10,Cabai Merah,49000.0
+2019-09-11,Cabai Merah,48350.0
+2019-09-12,Cabai Merah,47550.0
+2019-09-13,Cabai Merah,47000.0
+2019-09-16,Cabai Merah,45700.0
+2019-09-17,Cabai Merah,45300.0
+2019-09-18,Cabai Merah,44450.0
+2019-09-19,Cabai Merah,43450.0
+2019-09-20,Cabai Merah,43150.0
+2019-09-23,Cabai Merah,43150.0
+2019-09-24,Cabai Merah,43200.0
+2019-09-25,Cabai Merah,42950.0
+2019-09-26,Cabai Merah,42850.0
+2019-09-27,Cabai Merah,42650.0
+2019-09-30,Cabai Merah,42850.0
+2019-10-01,Cabai Merah,42750.0
+2019-10-02,Cabai Merah,42700.0
+2019-10-03,Cabai Merah,43000.0
+2019-10-04,Cabai Merah,42950.0
+2019-10-07,Cabai Merah,43750.0
+2019-10-08,Cabai Merah,44350.0
+2019-10-09,Cabai Merah,44250.0
+2019-10-10,Cabai Merah,44450.0
+2019-10-11,Cabai Merah,44900.0
+2019-10-14,Cabai Merah,46050.0
+2019-10-15,Cabai Merah,46200.0
+2019-10-16,Cabai Merah,45800.0
+2019-10-17,Cabai Merah,45750.0
+2019-10-18,Cabai Merah,45550.0
+2019-10-21,Cabai Merah,45200.0
+2019-10-22,Cabai Merah,45050.0
+2019-10-23,Cabai Merah,44850.0
+2019-10-24,Cabai Merah,44500.0
+2019-10-25,Cabai Merah,44350.0
+2019-10-28,Cabai Merah,42250.0
+2019-10-29,Cabai Merah,42100.0
+2019-10-30,Cabai Merah,41850.0
+2019-10-31,Cabai Merah,40950.0
+2019-11-01,Cabai Merah,41050.0
+2019-11-04,Cabai Merah,41000.0
+2019-11-05,Cabai Merah,41300.0
+2019-11-06,Cabai Merah,41000.0
+2019-11-07,Cabai Merah,41200.0
+2019-11-08,Cabai Merah,41600.0
+2019-11-11,Cabai Merah,42350.0
+2019-11-12,Cabai Merah,41900.0
+2019-11-13,Cabai Merah,42200.0
+2019-11-14,Cabai Merah,41900.0
+2019-11-15,Cabai Merah,41600.0
+2019-11-18,Cabai Merah,39800.0
+2019-11-19,Cabai Merah,39700.0
+2019-11-20,Cabai Merah,39300.0
+2019-11-21,Cabai Merah,38800.0
+2019-11-22,Cabai Merah,38500.0
+2019-11-25,Cabai Merah,36550.0
+2019-11-26,Cabai Merah,36200.0
+2019-11-27,Cabai Merah,35350.0
+2019-11-28,Cabai Merah,35200.0
+2019-11-29,Cabai Merah,34800.0
+2019-12-02,Cabai Merah,33450.0
+2019-12-03,Cabai Merah,33050.0
+2019-12-04,Cabai Merah,32450.0
+2019-12-05,Cabai Merah,32150.0
+2019-12-06,Cabai Merah,31950.0
+2019-12-09,Cabai Merah,31350.0
+2019-12-10,Cabai Merah,31300.0
+2019-12-11,Cabai Merah,31900.0
+2019-12-12,Cabai Merah,31550.0
+2019-12-13,Cabai Merah,31850.0
+2019-12-16,Cabai Merah,32300.0
+2019-12-17,Cabai Merah,32550.0
+2019-12-18,Cabai Merah,32500.0
+2019-12-19,Cabai Merah,32500.0
+2019-12-20,Cabai Merah,32700.0
+2019-12-23,Cabai Merah,34700.0
+2019-12-24,Cabai Merah,33300.0
+2019-12-25,Cabai Merah,25000.0
+2019-12-26,Cabai Merah,35250.0
+2019-12-27,Cabai Merah,35650.0
+2019-12-30,Cabai Merah,36100.0
+2019-12-31,Cabai Merah,36400.0
+2020-01-02,Cabai Merah,39400.0
+2020-01-03,Cabai Merah,39800.0
+2020-01-06,Cabai Merah,42800.0
+2020-01-07,Cabai Merah,42950.0
+2020-01-08,Cabai Merah,43200.0
+2020-01-09,Cabai Merah,43550.0
+2020-01-10,Cabai Merah,43800.0
+2020-01-13,Cabai Merah,45200.0
+2020-01-14,Cabai Merah,45200.0
+2020-01-15,Cabai Merah,45850.0
+2020-01-16,Cabai Merah,46750.0
+2020-01-17,Cabai Merah,47000.0
+2020-01-20,Cabai Merah,47250.0
+2020-01-21,Cabai Merah,46950.0
+2020-01-22,Cabai Merah,47200.0
+2020-01-23,Cabai Merah,47750.0
+2020-01-24,Cabai Merah,47600.0
+2020-01-27,Cabai Merah,48900.0
+2020-01-28,Cabai Merah,49650.0
+2020-01-29,Cabai Merah,50150.0
+2020-01-30,Cabai Merah,50200.0
+2020-01-31,Cabai Merah,50300.0
+2020-02-03,Cabai Merah,51500.0
+2020-02-04,Cabai Merah,52200.0
+2020-02-05,Cabai Merah,52050.0
+2020-02-06,Cabai Merah,51850.0
+2020-02-07,Cabai Merah,52000.0
+2020-02-10,Cabai Merah,50850.0
+2020-02-11,Cabai Merah,50450.0
+2020-02-12,Cabai Merah,49850.0
+2020-02-13,Cabai Merah,49700.0
+2020-02-14,Cabai Merah,49400.0
+2020-02-17,Cabai Merah,47800.0
+2020-02-18,Cabai Merah,47450.0
+2020-02-19,Cabai Merah,46950.0
+2020-02-20,Cabai Merah,47700.0
+2020-02-21,Cabai Merah,48250.0
+2020-02-24,Cabai Merah,48250.0
+2020-02-25,Cabai Merah,47900.0
+2020-02-26,Cabai Merah,47350.0
+2020-02-27,Cabai Merah,46100.0
+2020-02-28,Cabai Merah,45000.0
+2020-03-02,Cabai Merah,44050.0
+2020-03-03,Cabai Merah,43500.0
+2020-03-04,Cabai Merah,43050.0
+2020-03-05,Cabai Merah,43100.0
+2020-03-06,Cabai Merah,42600.0
+2020-03-09,Cabai Merah,41700.0
+2020-03-10,Cabai Merah,41300.0
+2020-03-11,Cabai Merah,40700.0
+2020-03-12,Cabai Merah,40350.0
+2020-03-13,Cabai Merah,39650.0
+2020-03-16,Cabai Merah,37500.0
+2020-03-17,Cabai Merah,36950.0
+2020-03-18,Cabai Merah,36450.0
+2020-03-19,Cabai Merah,35900.0
+2020-03-20,Cabai Merah,35900.0
+2020-03-23,Cabai Merah,35200.0
+2020-03-24,Cabai Merah,34850.0
+2020-03-25,Cabai Merah,32150.0
+2020-03-26,Cabai Merah,34900.0
+2020-03-27,Cabai Merah,34700.0
+2020-03-30,Cabai Merah,33350.0
+2020-03-31,Cabai Merah,33150.0
+2020-09-01,Cabai Merah,29400.0
+2020-09-02,Cabai Merah,29600.0
+2020-09-03,Cabai Merah,29650.0
+2020-09-04,Cabai Merah,29600.0
+2020-09-07,Cabai Merah,30950.0
+2020-09-08,Cabai Merah,31450.0
+2020-09-09,Cabai Merah,31750.0
+2020-09-10,Cabai Merah,31850.0
+2020-09-11,Cabai Merah,32050.0
+2020-09-14,Cabai Merah,32850.0
+2020-09-15,Cabai Merah,33000.0
+2020-09-16,Cabai Merah,33250.0
+2020-09-17,Cabai Merah,33300.0
+2020-09-18,Cabai Merah,33000.0
+2020-09-21,Cabai Merah,34000.0
+2020-09-22,Cabai Merah,34000.0
+2020-09-23,Cabai Merah,34250.0
+2020-09-24,Cabai Merah,34450.0
+2020-09-25,Cabai Merah,34800.0
+2020-09-28,Cabai Merah,36600.0
+2020-09-29,Cabai Merah,37000.0
+2020-09-30,Cabai Merah,37700.0
+2020-10-01,Cabai Merah,38200.0
+2020-10-02,Cabai Merah,38750.0
+2020-10-05,Cabai Merah,41900.0
+2020-10-06,Cabai Merah,42300.0
+2020-10-07,Cabai Merah,42800.0
+2020-10-08,Cabai Merah,43200.0
+2020-10-09,Cabai Merah,43500.0
+2020-10-12,Cabai Merah,43750.0
+2020-10-13,Cabai Merah,43550.0
+2020-10-14,Cabai Merah,43200.0
+2020-10-15,Cabai Merah,42950.0
+2020-10-16,Cabai Merah,42800.0
+2020-10-19,Cabai Merah,42100.0
+2020-10-20,Cabai Merah,42000.0
+2020-10-21,Cabai Merah,41750.0
+2020-10-22,Cabai Merah,41800.0
+2020-10-23,Cabai Merah,41850.0
+2020-10-26,Cabai Merah,42550.0
+2020-10-27,Cabai Merah,42850.0
+2020-10-28,Cabai Merah,37700.0
+2020-10-29,Cabai Merah,40600.0
+2020-10-30,Cabai Merah,37550.0
+2020-11-02,Cabai Merah,43800.0
+2020-11-03,Cabai Merah,43850.0
+2020-11-04,Cabai Merah,43750.0
+2020-11-05,Cabai Merah,43600.0
+2020-11-06,Cabai Merah,43350.0
+2020-11-09,Cabai Merah,42950.0
+2020-11-10,Cabai Merah,42800.0
+2020-11-11,Cabai Merah,42700.0
+2020-11-12,Cabai Merah,42300.0
+2020-11-13,Cabai Merah,42100.0
+2020-11-16,Cabai Merah,41650.0
+2020-11-17,Cabai Merah,41450.0
+2020-11-18,Cabai Merah,41300.0
+2020-11-19,Cabai Merah,41150.0
+2020-11-20,Cabai Merah,41150.0
+2020-11-23,Cabai Merah,40800.0
+2020-11-24,Cabai Merah,40850.0
+2020-11-25,Cabai Merah,40750.0
+2020-11-26,Cabai Merah,41150.0
+2020-11-27,Cabai Merah,42150.0
+2020-11-30,Cabai Merah,44500.0
+2020-12-01,Cabai Merah,45450.0
+2020-12-02,Cabai Merah,45700.0
+2020-12-03,Cabai Merah,46550.0
+2020-12-04,Cabai Merah,47450.0
+2020-12-07,Cabai Merah,48650.0
+2020-12-08,Cabai Merah,49200.0
+2020-12-09,Cabai Merah,50650.0
+2020-12-10,Cabai Merah,50050.0
+2020-12-11,Cabai Merah,50250.0
+2020-12-14,Cabai Merah,50800.0
+2020-12-15,Cabai Merah,51050.0
+2020-12-16,Cabai Merah,51300.0
+2020-12-17,Cabai Merah,51900.0
+2020-12-18,Cabai Merah,52650.0
+2020-12-21,Cabai Merah,54950.0
+2020-12-22,Cabai Merah,56600.0
+2020-12-23,Cabai Merah,57300.0
+2020-12-24,Cabai Merah,77500.0
+2020-12-28,Cabai Merah,59600.0
+2020-12-29,Cabai Merah,59050.0
+2020-12-30,Cabai Merah,58250.0
+2020-12-31,Cabai Merah,59450.0
+2021-01-04,Cabai Merah,57500.0
+2021-01-05,Cabai Merah,57350.0
+2021-01-06,Cabai Merah,56350.0
+2021-01-07,Cabai Merah,55900.0
+2021-01-08,Cabai Merah,54900.0
+2021-01-11,Cabai Merah,52850.0
+2021-01-12,Cabai Merah,52650.0
+2021-01-13,Cabai Merah,51800.0
+2021-01-14,Cabai Merah,51250.0
+2021-01-15,Cabai Merah,51350.0
+2021-01-18,Cabai Merah,52400.0
+2021-01-19,Cabai Merah,52050.0
+2021-01-20,Cabai Merah,51550.0
+2021-01-21,Cabai Merah,50550.0
+2021-01-22,Cabai Merah,49700.0
+2021-01-25,Cabai Merah,47600.0
+2021-01-26,Cabai Merah,47550.0
+2021-01-27,Cabai Merah,46950.0
+2021-01-28,Cabai Merah,46700.0
+2021-01-29,Cabai Merah,47650.0
+2021-02-01,Cabai Merah,48350.0
+2021-02-02,Cabai Merah,49250.0
+2021-02-03,Cabai Merah,50300.0
+2021-02-04,Cabai Merah,50550.0
+2021-02-05,Cabai Merah,50800.0
+2021-02-08,Cabai Merah,50850.0
+2021-02-09,Cabai Merah,50750.0
+2021-02-10,Cabai Merah,50250.0
+2021-02-11,Cabai Merah,50750.0
+2021-02-12,Cabai Merah,43150.0
+2021-02-15,Cabai Merah,49050.0
+2021-02-16,Cabai Merah,48350.0
+2021-02-17,Cabai Merah,48200.0
+2021-02-18,Cabai Merah,48000.0
+2021-02-19,Cabai Merah,47600.0
+2021-02-22,Cabai Merah,47100.0
+2021-02-23,Cabai Merah,46600.0
+2021-02-24,Cabai Merah,46400.0
+2021-02-25,Cabai Merah,46350.0
+2021-02-26,Cabai Merah,46500.0
+2021-03-01,Cabai Merah,46800.0
+2021-03-02,Cabai Merah,47050.0
+2021-03-03,Cabai Merah,47400.0
+2021-03-04,Cabai Merah,47200.0
+2021-03-05,Cabai Merah,47550.0
+2021-03-08,Cabai Merah,47950.0
+2021-03-09,Cabai Merah,48400.0
+2021-03-10,Cabai Merah,48300.0
+2021-03-11,Cabai Merah,69550.0
+2021-03-12,Cabai Merah,48650.0
+2021-03-15,Cabai Merah,49400.0
+2021-03-16,Cabai Merah,49300.0
+2021-03-17,Cabai Merah,49350.0
+2021-03-18,Cabai Merah,49300.0
+2021-03-19,Cabai Merah,49200.0
+2021-03-22,Cabai Merah,48950.0
+2021-03-23,Cabai Merah,48900.0
+2021-03-24,Cabai Merah,49300.0
+2021-03-25,Cabai Merah,49500.0
+2021-03-26,Cabai Merah,49950.0
+2021-03-29,Cabai Merah,50200.0
+2021-03-30,Cabai Merah,50050.0
+2021-03-31,Cabai Merah,50200.0
+2021-09-01,Cabai Merah,28900.0
+2021-09-02,Cabai Merah,28900.0
+2021-09-03,Cabai Merah,28850.0
+2021-09-06,Cabai Merah,28550.0
+2021-09-07,Cabai Merah,28250.0
+2021-09-08,Cabai Merah,28350.0
+2021-09-09,Cabai Merah,28600.0
+2021-09-10,Cabai Merah,28400.0
+2021-09-13,Cabai Merah,28000.0
+2021-09-14,Cabai Merah,28200.0
+2021-09-15,Cabai Merah,28250.0
+2021-09-16,Cabai Merah,28500.0
+2021-09-17,Cabai Merah,28450.0
+2021-09-20,Cabai Merah,28700.0
+2021-09-21,Cabai Merah,28850.0
+2021-09-22,Cabai Merah,28900.0
+2021-09-23,Cabai Merah,28950.0
+2021-09-24,Cabai Merah,29150.0
+2021-09-27,Cabai Merah,29800.0
+2021-09-28,Cabai Merah,30250.0
+2021-09-29,Cabai Merah,30350.0
+2021-09-30,Cabai Merah,30350.0
+2021-10-01,Cabai Merah,30700.0
+2021-10-04,Cabai Merah,33350.0
+2021-10-05,Cabai Merah,33900.0
+2021-10-06,Cabai Merah,33800.0
+2021-10-07,Cabai Merah,34200.0
+2021-10-08,Cabai Merah,34250.0
+2021-10-11,Cabai Merah,34150.0
+2021-10-12,Cabai Merah,34250.0
+2021-10-13,Cabai Merah,34650.0
+2021-10-14,Cabai Merah,34850.0
+2021-10-15,Cabai Merah,34700.0
+2021-10-18,Cabai Merah,34200.0
+2021-10-19,Cabai Merah,34300.0
+2021-10-20,Cabai Merah,51250.0
+2021-10-21,Cabai Merah,34400.0
+2021-10-22,Cabai Merah,34750.0
+2021-10-25,Cabai Merah,35450.0
+2021-10-26,Cabai Merah,35400.0
+2021-10-27,Cabai Merah,35350.0
+2021-10-28,Cabai Merah,35350.0
+2021-10-29,Cabai Merah,35550.0
+2021-11-01,Cabai Merah,36100.0
+2021-11-02,Cabai Merah,36100.0
+2021-11-03,Cabai Merah,36500.0
+2021-11-04,Cabai Merah,37100.0
+2021-11-05,Cabai Merah,38100.0
+2021-11-08,Cabai Merah,39650.0
+2021-11-09,Cabai Merah,40450.0
+2021-11-10,Cabai Merah,41700.0
+2021-11-11,Cabai Merah,41350.0
+2021-11-12,Cabai Merah,41500.0
+2021-11-15,Cabai Merah,41900.0
+2021-11-16,Cabai Merah,41850.0
+2021-11-17,Cabai Merah,42000.0
+2021-11-18,Cabai Merah,41750.0
+2021-11-19,Cabai Merah,41600.0
+2021-11-22,Cabai Merah,42000.0
+2021-11-23,Cabai Merah,42100.0
+2021-11-24,Cabai Merah,41800.0
+2021-11-25,Cabai Merah,42050.0
+2021-11-26,Cabai Merah,42300.0
+2021-11-29,Cabai Merah,42550.0
+2021-11-30,Cabai Merah,42800.0
+2021-12-01,Cabai Merah,43200.0
+2021-12-02,Cabai Merah,43600.0
+2021-12-03,Cabai Merah,44300.0
+2021-12-06,Cabai Merah,46650.0
+2021-12-07,Cabai Merah,47200.0
+2021-12-08,Cabai Merah,48000.0
+2021-12-09,Cabai Merah,48550.0
+2021-12-10,Cabai Merah,49900.0
+2021-12-13,Cabai Merah,51450.0
+2021-12-14,Cabai Merah,51750.0
+2021-12-15,Cabai Merah,50850.0
+2021-12-16,Cabai Merah,51800.0
+2021-12-17,Cabai Merah,51600.0
+2021-12-20,Cabai Merah,50750.0
+2021-12-21,Cabai Merah,50700.0
+2021-12-22,Cabai Merah,50750.0
+2021-12-23,Cabai Merah,50350.0
+2021-12-24,Cabai Merah,50650.0
+2021-12-27,Cabai Merah,51250.0
+2021-12-28,Cabai Merah,51000.0
+2021-12-29,Cabai Merah,50300.0
+2021-12-30,Cabai Merah,49150.0
+2021-12-31,Cabai Merah,48650.0
+2022-01-03,Cabai Merah,47500.0
+2022-01-04,Cabai Merah,47050.0
+2022-01-05,Cabai Merah,46450.0
+2022-01-06,Cabai Merah,45600.0
+2022-01-07,Cabai Merah,44550.0
+2022-01-10,Cabai Merah,42750.0
+2022-01-11,Cabai Merah,41450.0
+2022-01-12,Cabai Merah,40750.0
+2022-01-13,Cabai Merah,39900.0
+2022-01-14,Cabai Merah,39550.0
+2022-01-17,Cabai Merah,39700.0
+2022-01-18,Cabai Merah,39750.0
+2022-01-19,Cabai Merah,39900.0
+2022-01-20,Cabai Merah,39950.0
+2022-01-21,Cabai Merah,39650.0
+2022-01-24,Cabai Merah,39300.0
+2022-01-25,Cabai Merah,39200.0
+2022-01-26,Cabai Merah,38650.0
+2022-01-27,Cabai Merah,38750.0
+2022-01-28,Cabai Merah,38800.0
+2022-01-31,Cabai Merah,38050.0
+2022-02-01,Cabai Merah,19000.0
+2022-02-02,Cabai Merah,38000.0
+2022-02-03,Cabai Merah,37800.0
+2022-02-04,Cabai Merah,37350.0
+2022-02-07,Cabai Merah,38650.0
+2022-02-08,Cabai Merah,39100.0
+2022-02-09,Cabai Merah,39700.0
+2022-02-10,Cabai Merah,40000.0
+2022-02-11,Cabai Merah,40450.0
+2022-02-14,Cabai Merah,42600.0
+2022-02-15,Cabai Merah,43050.0
+2022-02-16,Cabai Merah,43450.0
+2022-02-17,Cabai Merah,43650.0
+2022-02-18,Cabai Merah,43350.0
+2022-02-21,Cabai Merah,45300.0
+2022-02-22,Cabai Merah,46100.0
+2022-02-23,Cabai Merah,47050.0
+2022-02-24,Cabai Merah,47450.0
+2022-02-25,Cabai Merah,48000.0
+2022-03-01,Cabai Merah,50100.0
+2022-03-02,Cabai Merah,50800.0
+2022-03-04,Cabai Merah,51850.0
+2022-03-07,Cabai Merah,54200.0
+2022-03-08,Cabai Merah,54150.0
+2022-03-09,Cabai Merah,53950.0
+2022-03-10,Cabai Merah,53750.0
+2022-03-11,Cabai Merah,53850.0
+2022-03-14,Cabai Merah,54350.0
+2022-03-15,Cabai Merah,54450.0
+2022-03-16,Cabai Merah,54300.0
+2022-03-17,Cabai Merah,54550.0
+2022-03-18,Cabai Merah,55050.0
+2022-03-21,Cabai Merah,54750.0
+2022-03-22,Cabai Merah,54300.0
+2022-03-23,Cabai Merah,54100.0
+2022-03-24,Cabai Merah,53300.0
+2022-03-25,Cabai Merah,52450.0
+2022-03-28,Cabai Merah,52050.0
+2022-03-29,Cabai Merah,50850.0
+2022-03-30,Cabai Merah,51200.0
+2022-03-31,Cabai Merah,51100.0
+2022-09-01,Cabai Merah,62400.0
+2022-09-02,Cabai Merah,62900.0
+2022-09-05,Cabai Merah,69000.0
+2022-09-06,Cabai Merah,70150.0
+2022-09-07,Cabai Merah,71200.0
+2022-09-08,Cabai Merah,70750.0
+2022-09-09,Cabai Merah,70050.0
+2022-09-12,Cabai Merah,66200.0
+2022-09-13,Cabai Merah,65500.0
+2022-09-14,Cabai Merah,63850.0
+2022-09-15,Cabai Merah,63400.0
+2022-09-16,Cabai Merah,62550.0
+2022-09-19,Cabai Merah,61200.0
+2022-09-20,Cabai Merah,60750.0
+2022-09-21,Cabai Merah,59900.0
+2022-09-22,Cabai Merah,58600.0
+2022-09-23,Cabai Merah,57400.0
+2022-09-26,Cabai Merah,54450.0
+2022-09-27,Cabai Merah,53800.0
+2022-09-28,Cabai Merah,52550.0
+2022-09-29,Cabai Merah,51650.0
+2022-09-30,Cabai Merah,51300.0
+2022-10-03,Cabai Merah,50550.0
+2022-10-04,Cabai Merah,50300.0
+2022-10-05,Cabai Merah,50800.0
+2022-10-06,Cabai Merah,50300.0
+2022-10-07,Cabai Merah,50600.0
+2022-10-10,Cabai Merah,52000.0
+2022-10-11,Cabai Merah,51550.0
+2022-10-12,Cabai Merah,51350.0
+2022-10-13,Cabai Merah,50950.0
+2022-10-14,Cabai Merah,50000.0
+2022-10-17,Cabai Merah,46450.0
+2022-10-18,Cabai Merah,45500.0
+2022-10-19,Cabai Merah,44650.0
+2022-10-20,Cabai Merah,43850.0
+2022-10-21,Cabai Merah,43150.0
+2022-10-24,Cabai Merah,42600.0
+2022-10-25,Cabai Merah,42050.0
+2022-10-26,Cabai Merah,41400.0
+2022-10-27,Cabai Merah,40800.0
+2022-10-28,Cabai Merah,40850.0
+2022-10-31,Cabai Merah,39550.0
+2022-11-01,Cabai Merah,39550.0
+2022-11-02,Cabai Merah,39150.0
+2022-11-03,Cabai Merah,38700.0
+2022-11-04,Cabai Merah,38600.0
+2022-11-07,Cabai Merah,37800.0
+2022-11-08,Cabai Merah,37200.0
+2022-11-09,Cabai Merah,37000.0
+2022-11-10,Cabai Merah,36900.0
+2022-11-11,Cabai Merah,36900.0
+2022-11-14,Cabai Merah,36750.0
+2022-11-15,Cabai Merah,36800.0
+2022-11-16,Cabai Merah,36550.0
+2022-11-17,Cabai Merah,36350.0
+2022-11-18,Cabai Merah,36450.0
+2022-11-21,Cabai Merah,37200.0
+2022-11-22,Cabai Merah,37250.0
+2022-11-23,Cabai Merah,37200.0
+2022-11-24,Cabai Merah,37150.0
+2022-11-25,Cabai Merah,37000.0
+2022-11-28,Cabai Merah,36850.0
+2022-11-29,Cabai Merah,36850.0
+2022-11-30,Cabai Merah,36750.0
+2022-12-01,Cabai Merah,36850.0
+2022-12-02,Cabai Merah,37000.0
+2022-12-05,Cabai Merah,37700.0
+2022-12-06,Cabai Merah,37850.0
+2022-12-07,Cabai Merah,38100.0
+2022-12-08,Cabai Merah,38250.0
+2022-12-09,Cabai Merah,38500.0
+2022-12-12,Cabai Merah,38950.0
+2022-12-13,Cabai Merah,39100.0
+2022-12-14,Cabai Merah,39150.0
+2022-12-15,Cabai Merah,38650.0
+2022-12-16,Cabai Merah,38350.0
+2022-12-19,Cabai Merah,38800.0
+2022-12-20,Cabai Merah,39350.0
+2022-12-21,Cabai Merah,39400.0
+2022-12-22,Cabai Merah,39500.0
+2022-12-23,Cabai Merah,39550.0
+2022-12-26,Cabai Merah,39700.0
+2022-12-27,Cabai Merah,39700.0
+2022-12-28,Cabai Merah,39800.0
+2022-12-29,Cabai Merah,40050.0
+2022-12-30,Cabai Merah,39700.0
+2023-01-02,Cabai Merah,42350.0
+2023-01-03,Cabai Merah,42450.0
+2023-01-04,Cabai Merah,41550.0
+2023-01-05,Cabai Merah,41000.0
+2023-01-06,Cabai Merah,41000.0
+2023-01-09,Cabai Merah,42100.0
+2023-01-10,Cabai Merah,42100.0
+2023-01-11,Cabai Merah,42050.0
+2023-01-12,Cabai Merah,41800.0
+2023-01-13,Cabai Merah,41750.0
+2023-01-16,Cabai Merah,41750.0
+2023-01-17,Cabai Merah,41250.0
+2023-01-18,Cabai Merah,41100.0
+2023-01-19,Cabai Merah,40800.0
+2023-01-20,Cabai Merah,40450.0
+2023-01-23,Cabai Merah,40050.0
+2023-01-24,Cabai Merah,40900.0
+2023-01-25,Cabai Merah,40850.0
+2023-01-26,Cabai Merah,40550.0
+2023-01-27,Cabai Merah,40850.0
+2023-01-30,Cabai Merah,40750.0
+2023-01-31,Cabai Merah,40600.0
+2023-02-01,Cabai Merah,40750.0
+2023-02-02,Cabai Merah,40700.0
+2023-02-03,Cabai Merah,41600.0
+2023-02-06,Cabai Merah,42750.0
+2023-02-07,Cabai Merah,42900.0
+2023-02-08,Cabai Merah,43150.0
+2023-02-09,Cabai Merah,43200.0
+2023-02-10,Cabai Merah,43050.0
+2023-02-13,Cabai Merah,42650.0
+2023-02-14,Cabai Merah,42900.0
+2023-02-15,Cabai Merah,42950.0
+2023-02-16,Cabai Merah,43500.0
+2023-02-17,Cabai Merah,43800.0
+2023-02-20,Cabai Merah,45950.0
+2023-02-21,Cabai Merah,46350.0
+2023-02-22,Cabai Merah,46950.0
+2023-02-23,Cabai Merah,47100.0
+2023-02-24,Cabai Merah,47500.0
+2023-02-27,Cabai Merah,46750.0
+2023-02-28,Cabai Merah,46500.0
+2023-03-01,Cabai Merah,46550.0
+2023-03-02,Cabai Merah,46450.0
+2023-03-03,Cabai Merah,46050.0
+2023-03-06,Cabai Merah,46450.0
+2023-03-07,Cabai Merah,46450.0
+2023-03-08,Cabai Merah,46550.0
+2023-03-09,Cabai Merah,46600.0
+2023-03-10,Cabai Merah,46750.0
+2023-03-13,Cabai Merah,48000.0
+2023-03-14,Cabai Merah,48300.0
+2023-03-15,Cabai Merah,48600.0
+2023-03-16,Cabai Merah,48350.0
+2023-03-17,Cabai Merah,48800.0
+2023-03-20,Cabai Merah,49550.0
+2023-03-21,Cabai Merah,50550.0
+2023-03-22,Cabai Merah,49800.0
+2023-03-23,Cabai Merah,50500.0
+2023-03-24,Cabai Merah,51600.0
+2023-03-27,Cabai Merah,48850.0
+2023-03-28,Cabai Merah,47300.0
+2023-03-29,Cabai Merah,45500.0
+2023-03-30,Cabai Merah,44350.0
+2023-03-31,Cabai Merah,43450.0
+2023-09-01,Cabai Merah,46600.0
+2023-09-04,Cabai Merah,45700.0
+2023-09-05,Cabai Merah,45250.0
+2023-09-06,Cabai Merah,44950.0
+2023-09-07,Cabai Merah,44800.0
+2023-09-08,Cabai Merah,44050.0
+2023-09-11,Cabai Merah,42850.0
+2023-09-12,Cabai Merah,42400.0
+2023-09-13,Cabai Merah,42050.0
+2023-09-14,Cabai Merah,41650.0
+2023-09-15,Cabai Merah,42000.0
+2023-09-18,Cabai Merah,40950.0
+2023-09-19,Cabai Merah,41050.0
+2023-09-20,Cabai Merah,40900.0
+2023-09-21,Cabai Merah,40850.0
+2023-09-22,Cabai Merah,40600.0
+2023-09-25,Cabai Merah,42100.0
+2023-09-26,Cabai Merah,42600.0
+2023-09-27,Cabai Merah,42900.0
+2023-09-28,Cabai Merah,41950.0
+2023-09-29,Cabai Merah,42800.0
+2023-10-02,Cabai Merah,44250.0
+2023-10-03,Cabai Merah,44600.0
+2023-10-04,Cabai Merah,44550.0
+2023-10-05,Cabai Merah,44700.0
+2023-10-06,Cabai Merah,44700.0
+2023-10-09,Cabai Merah,45200.0
+2023-10-10,Cabai Merah,45750.0
+2023-10-11,Cabai Merah,45250.0
+2023-10-12,Cabai Merah,44750.0
+2023-10-13,Cabai Merah,44450.0
+2023-10-16,Cabai Merah,45200.0
+2023-10-17,Cabai Merah,45400.0
+2023-10-18,Cabai Merah,45300.0
+2023-10-19,Cabai Merah,45250.0
+2023-10-20,Cabai Merah,45300.0
+2023-10-23,Cabai Merah,46650.0
+2023-10-24,Cabai Merah,46750.0
+2023-10-25,Cabai Merah,46950.0
+2023-10-26,Cabai Merah,47650.0
+2023-10-27,Cabai Merah,49350.0
+2023-10-30,Cabai Merah,53000.0
+2023-10-31,Cabai Merah,54250.0
+2023-11-01,Cabai Merah,54600.0
+2023-11-02,Cabai Merah,54950.0
+2023-11-03,Cabai Merah,55500.0
+2023-11-06,Cabai Merah,59150.0
+2023-11-07,Cabai Merah,60350.0
+2023-11-08,Cabai Merah,61450.0
+2023-11-09,Cabai Merah,62100.0
+2023-11-10,Cabai Merah,63200.0
+2023-11-13,Cabai Merah,64350.0
+2023-11-14,Cabai Merah,64400.0
+2023-11-15,Cabai Merah,64600.0
+2023-11-16,Cabai Merah,64500.0
+2023-11-17,Cabai Merah,64700.0
+2023-11-20,Cabai Merah,65550.0
+2023-11-21,Cabai Merah,67000.0
+2023-11-22,Cabai Merah,67800.0
+2023-11-23,Cabai Merah,68100.0
+2023-11-24,Cabai Merah,67400.0
+2023-11-27,Cabai Merah,68400.0
+2023-11-28,Cabai Merah,68950.0
+2023-11-29,Cabai Merah,69250.0
+2023-11-30,Cabai Merah,70600.0
+2023-12-01,Cabai Merah,71400.0
+2023-12-04,Cabai Merah,75650.0
+2023-12-05,Cabai Merah,76050.0
+2023-12-06,Cabai Merah,76500.0
+2023-12-07,Cabai Merah,77100.0
+2023-12-08,Cabai Merah,77100.0
+2023-12-11,Cabai Merah,79400.0
+2023-12-12,Cabai Merah,79050.0
+2023-12-13,Cabai Merah,78500.0
+2023-12-14,Cabai Merah,77350.0
+2023-12-15,Cabai Merah,76500.0
+2023-12-18,Cabai Merah,70950.0
+2023-12-19,Cabai Merah,69950.0
+2023-12-20,Cabai Merah,68300.0
+2023-12-21,Cabai Merah,67200.0
+2023-12-22,Cabai Merah,66600.0
+2023-12-25,Cabai Merah,56200.0
+2023-12-26,Cabai Merah,53050.0
+2023-12-27,Cabai Merah,66150.0
+2023-12-28,Cabai Merah,66300.0
+2023-12-29,Cabai Merah,65000.0
+2024-01-01,Cabai Merah,61450.0
+2024-01-02,Cabai Merah,67050.0
+2024-01-03,Cabai Merah,64800.0
+2024-01-04,Cabai Merah,63400.0
+2024-01-05,Cabai Merah,61650.0
+2024-01-08,Cabai Merah,57950.0
+2024-01-09,Cabai Merah,57350.0
+2024-01-10,Cabai Merah,56750.0
+2024-01-11,Cabai Merah,56200.0
+2024-01-12,Cabai Merah,54950.0
+2024-01-15,Cabai Merah,54950.0
+2024-01-16,Cabai Merah,55150.0
+2024-01-17,Cabai Merah,55450.0
+2024-01-18,Cabai Merah,54850.0
+2024-01-19,Cabai Merah,54400.0
+2024-01-22,Cabai Merah,55700.0
+2024-01-23,Cabai Merah,56600.0
+2024-01-24,Cabai Merah,56800.0
+2024-01-25,Cabai Merah,56100.0
+2024-01-26,Cabai Merah,55700.0
+2024-01-29,Cabai Merah,55150.0
+2024-01-30,Cabai Merah,55300.0
+2024-01-31,Cabai Merah,55250.0
+2024-02-01,Cabai Merah,55150.0
+2024-02-02,Cabai Merah,55850.0
+2024-02-05,Cabai Merah,57700.0
+2024-02-06,Cabai Merah,58050.0
+2024-02-07,Cabai Merah,59050.0
+2024-02-08,Cabai Merah,59200.0
+2024-02-09,Cabai Merah,58550.0
+2024-02-12,Cabai Merah,60350.0
+2024-02-13,Cabai Merah,61200.0
+2024-02-14,Cabai Merah,61200.0
+2024-02-15,Cabai Merah,63650.0
+2024-02-16,Cabai Merah,65450.0
+2024-02-19,Cabai Merah,68250.0
+2024-02-20,Cabai Merah,69750.0
+2024-02-21,Cabai Merah,70350.0
+2024-02-22,Cabai Merah,71650.0
+2024-02-23,Cabai Merah,72800.0
+2024-02-26,Cabai Merah,73400.0
+2024-02-27,Cabai Merah,74000.0
+2024-02-28,Cabai Merah,73350.0
+2024-02-29,Cabai Merah,72550.0
+2024-03-01,Cabai Merah,71150.0
+2024-03-04,Cabai Merah,69100.0
+2024-03-05,Cabai Merah,69150.0
+2024-03-06,Cabai Merah,69000.0
+2024-03-07,Cabai Merah,68550.0
+2024-03-08,Cabai Merah,69000.0
+2024-03-11,Cabai Merah,68900.0
+2024-03-12,Cabai Merah,69100.0
+2024-03-13,Cabai Merah,74100.0
+2024-03-14,Cabai Merah,73600.0
+2024-03-15,Cabai Merah,71900.0
+2024-03-18,Cabai Merah,61850.0
+2024-03-19,Cabai Merah,59200.0
+2024-03-20,Cabai Merah,57050.0
+2024-03-21,Cabai Merah,54850.0
+2024-03-22,Cabai Merah,53000.0
+2024-03-25,Cabai Merah,50150.0
+2024-03-26,Cabai Merah,49900.0
+2024-03-27,Cabai Merah,49500.0
+2024-03-28,Cabai Merah,49000.0
+2024-03-29,Cabai Merah,48500.0
+2024-09-02,Cabai Merah,44000.0
+2024-09-03,Cabai Merah,43700.0
+2024-09-04,Cabai Merah,43300.0
+2024-09-05,Cabai Merah,42300.0
+2024-09-06,Cabai Merah,42000.0
+2024-09-09,Cabai Merah,40850.0
+2024-09-10,Cabai Merah,40100.0
+2024-09-11,Cabai Merah,39850.0
+2024-09-12,Cabai Merah,39300.0
+2024-09-13,Cabai Merah,39350.0
+2024-09-16,Cabai Merah,37300.0
+2024-09-17,Cabai Merah,38850.0
+2024-09-18,Cabai Merah,38850.0
+2024-09-19,Cabai Merah,38800.0
+2024-09-20,Cabai Merah,38900.0
+2024-09-23,Cabai Merah,37400.0
+2024-09-24,Cabai Merah,37850.0
+2024-09-25,Cabai Merah,37200.0
+2024-09-26,Cabai Merah,37000.0
+2024-09-27,Cabai Merah,36550.0
+2024-09-30,Cabai Merah,36000.0
+2024-10-01,Cabai Merah,36000.0
+2024-10-02,Cabai Merah,36100.0
+2024-10-03,Cabai Merah,35850.0
+2024-10-04,Cabai Merah,35550.0
+2024-10-07,Cabai Merah,34850.0
+2024-10-08,Cabai Merah,34700.0
+2024-10-09,Cabai Merah,34900.0
+2024-10-10,Cabai Merah,33950.0
+2024-10-11,Cabai Merah,34550.0
+2024-10-14,Cabai Merah,34950.0
+2024-10-15,Cabai Merah,34750.0
+2024-10-16,Cabai Merah,35000.0
+2024-10-17,Cabai Merah,34050.0
+2024-10-18,Cabai Merah,34900.0
+2024-10-21,Cabai Merah,36150.0
+2024-10-22,Cabai Merah,35700.0
+2024-10-23,Cabai Merah,35650.0
+2024-10-24,Cabai Merah,34600.0
+2024-10-25,Cabai Merah,35200.0
+2024-10-28,Cabai Merah,34550.0
+2024-10-29,Cabai Merah,34100.0
+2024-10-30,Cabai Merah,33450.0
+2024-10-31,Cabai Merah,33400.0
+2024-11-01,Cabai Merah,33200.0
+2024-11-04,Cabai Merah,32900.0
+2024-11-05,Cabai Merah,32650.0
+2024-11-06,Cabai Merah,33150.0
+2024-11-07,Cabai Merah,32400.0
+2024-11-08,Cabai Merah,33200.0
+2024-11-11,Cabai Merah,32750.0
+2024-11-12,Cabai Merah,32600.0
+2024-11-13,Cabai Merah,33050.0
+2024-11-14,Cabai Merah,32600.0
+2024-11-15,Cabai Merah,32900.0
+2024-11-18,Cabai Merah,32750.0
+2024-11-19,Cabai Merah,33350.0
+2024-11-20,Cabai Merah,33600.0
+2024-11-21,Cabai Merah,33750.0
+2024-11-22,Cabai Merah,33900.0
+2024-11-25,Cabai Merah,34400.0
+2024-11-26,Cabai Merah,33650.0
+2024-11-27,Cabai Merah,30950.0
+2024-11-28,Cabai Merah,34250.0
+2024-11-29,Cabai Merah,34300.0
+2024-12-02,Cabai Merah,34650.0
+2024-12-03,Cabai Merah,34900.0
+2024-12-04,Cabai Merah,34700.0
+2024-12-05,Cabai Merah,34900.0
+2024-12-06,Cabai Merah,35150.0
+2024-12-09,Cabai Merah,35750.0
+2024-12-10,Cabai Merah,36300.0
+2024-12-11,Cabai Merah,36850.0
+2024-12-12,Cabai Merah,37000.0
+2024-12-13,Cabai Merah,36450.0
+2024-12-16,Cabai Merah,39000.0
+2024-12-17,Cabai Merah,40050.0
+2024-12-18,Cabai Merah,40900.0
+2024-12-19,Cabai Merah,40950.0
+2024-12-20,Cabai Merah,41600.0
+2024-12-23,Cabai Merah,45400.0
+2024-12-24,Cabai Merah,47650.0
+2024-12-25,Cabai Merah,47600.0
+2024-12-26,Cabai Merah,48150.0
+2024-12-27,Cabai Merah,52750.0
+2024-12-30,Cabai Merah,57400.0
+2024-12-31,Cabai Merah,58050.0
+2025-01-01,Cabai Merah,57500.0
+2025-01-02,Cabai Merah,58950.0
+2025-01-03,Cabai Merah,59050.0
+2025-01-06,Cabai Merah,57450.0
+2025-01-07,Cabai Merah,57250.0
+2025-01-08,Cabai Merah,57200.0
+2025-01-09,Cabai Merah,56400.0
+2025-01-10,Cabai Merah,57000.0
+2025-01-13,Cabai Merah,57750.0
+2025-01-14,Cabai Merah,58150.0
+2025-01-15,Cabai Merah,56350.0
+2025-01-16,Cabai Merah,56500.0
+2025-01-17,Cabai Merah,57950.0
+2025-01-20,Cabai Merah,59300.0
+2025-01-21,Cabai Merah,58950.0
+2025-01-22,Cabai Merah,58700.0
+2025-01-23,Cabai Merah,58450.0
+2025-01-24,Cabai Merah,59150.0
+2025-01-27,Cabai Merah,59700.0
+2025-01-28,Cabai Merah,59650.0
+2025-01-29,Cabai Merah,59650.0
+2025-01-30,Cabai Merah,60450.0
+2025-01-31,Cabai Merah,60550.0
+2025-02-03,Cabai Merah,60950.0
+2025-02-04,Cabai Merah,60750.0
+2025-02-05,Cabai Merah,60450.0
+2025-02-06,Cabai Merah,60050.0
+2025-02-07,Cabai Merah,58350.0
+2025-02-10,Cabai Merah,56200.0
+2025-02-11,Cabai Merah,52750.0
+2025-02-12,Cabai Merah,54650.0
+2025-02-13,Cabai Merah,53500.0
+2025-02-14,Cabai Merah,53600.0
+2025-02-17,Cabai Merah,53250.0
+2025-02-18,Cabai Merah,53800.0
+2025-02-19,Cabai Merah,53350.0
+2025-02-20,Cabai Merah,53500.0
+2025-02-21,Cabai Merah,53750.0
+2025-02-24,Cabai Merah,56550.0
+2025-02-25,Cabai Merah,57850.0
+2025-02-26,Cabai Merah,57950.0
+2025-02-27,Cabai Merah,59150.0
+2025-02-28,Cabai Merah,60150.0
+2025-03-03,Cabai Merah,67200.0
+2025-03-04,Cabai Merah,66250.0
+2025-03-05,Cabai Merah,65400.0
+2025-03-06,Cabai Merah,63700.0
+2025-03-07,Cabai Merah,61300.0
+2025-03-10,Cabai Merah,58000.0
+2025-03-11,Cabai Merah,56050.0
+2025-03-12,Cabai Merah,55700.0
+2025-03-13,Cabai Merah,54200.0
+2025-03-14,Cabai Merah,53300.0
+2025-03-17,Cabai Merah,54500.0
+2025-03-18,Cabai Merah,54000.0
+2025-03-19,Cabai Merah,53750.0
+2025-03-20,Cabai Merah,54000.0
+2025-03-21,Cabai Merah,54150.0
+2025-03-24,Cabai Merah,57750.0
+2025-03-25,Cabai Merah,59350.0
+2025-03-26,Cabai Merah,61950.0
+2025-03-27,Cabai Merah,65250.0
+2025-03-28,Cabai Merah,64300.0
+2025-03-31,Cabai Merah,63950.0
+2025-09-01,Cabai Merah,46900.0
+2025-09-02,Cabai Merah,47750.0
+2025-09-03,Cabai Merah,48800.0
+2025-09-04,Cabai Merah,49250.0
+2025-09-05,Cabai Merah,49150.0
+2025-09-08,Cabai Merah,53950.0
+2025-09-09,Cabai Merah,54250.0
+2025-09-10,Cabai Merah,53150.0
+2025-09-11,Cabai Merah,53050.0
+2025-09-12,Cabai Merah,53050.0
+2025-09-15,Cabai Merah,55950.0
+2025-09-16,Cabai Merah,56450.0
+2025-09-17,Cabai Merah,57100.0
+2025-09-18,Cabai Merah,57200.0
+2025-09-19,Cabai Merah,57650.0
+2025-09-22,Cabai Merah,58800.0
+2025-09-23,Cabai Merah,59300.0
+2025-09-24,Cabai Merah,58950.0
+2025-09-25,Cabai Merah,58750.0
+2025-09-26,Cabai Merah,58500.0
+2025-09-29,Cabai Merah,58200.0
+2025-09-30,Cabai Merah,57400.0
+2025-10-01,Cabai Merah,57350.0
+2025-10-02,Cabai Merah,56650.0
+2025-10-03,Cabai Merah,56450.0
+2025-10-06,Cabai Merah,58500.0
+2025-10-07,Cabai Merah,58900.0
+2025-10-08,Cabai Merah,58250.0
+2025-10-09,Cabai Merah,57950.0
+2025-10-10,Cabai Merah,57650.0
+2025-10-13,Cabai Merah,57800.0
+2025-10-14,Cabai Merah,57150.0
+2025-10-15,Cabai Merah,56350.0
+2025-10-16,Cabai Merah,55650.0
+2025-10-17,Cabai Merah,55850.0
+2025-10-20,Cabai Merah,55400.0
+2025-10-21,Cabai Merah,54950.0
+2025-10-22,Cabai Merah,54300.0
+2025-10-23,Cabai Merah,53650.0
+2025-10-24,Cabai Merah,53200.0
+2025-10-27,Cabai Merah,53350.0
+2025-10-28,Cabai Merah,53350.0
+2025-10-29,Cabai Merah,53050.0
+2025-10-30,Cabai Merah,53100.0
+2025-10-31,Cabai Merah,52750.0
+2025-11-03,Cabai Merah,53100.0
+2025-11-04,Cabai Merah,53550.0
+2025-11-05,Cabai Merah,53850.0
+2025-11-06,Cabai Merah,54600.0
+2025-11-07,Cabai Merah,55750.0
+2025-11-10,Cabai Merah,56650.0
+2025-11-11,Cabai Merah,57200.0
+2025-11-12,Cabai Merah,56650.0
+2025-11-13,Cabai Merah,56300.0
+2025-11-14,Cabai Merah,56000.0
+2025-11-17,Cabai Merah,56350.0
+2025-11-18,Cabai Merah,56450.0
+2025-11-19,Cabai Merah,56450.0
+2025-11-20,Cabai Merah,56700.0
+2025-11-21,Cabai Merah,57450.0
+2025-11-24,Cabai Merah,58350.0
+2025-11-25,Cabai Merah,59200.0
+2025-11-26,Cabai Merah,59450.0
+2025-11-27,Cabai Merah,60500.0
+2025-11-28,Cabai Merah,65600.0
+2025-12-01,Cabai Merah,66050.0
+2025-12-02,Cabai Merah,65350.0
+2025-12-03,Cabai Merah,63950.0
+2025-12-04,Cabai Merah,63000.0
+2025-12-05,Cabai Merah,62000.0
+2025-12-08,Cabai Merah,62250.0
+2025-12-09,Cabai Merah,62450.0
+2025-12-10,Cabai Merah,62750.0
+2025-12-11,Cabai Merah,63350.0
+2025-12-12,Cabai Merah,63300.0
+2025-12-15,Cabai Merah,62450.0
+2025-12-16,Cabai Merah,61350.0
+2025-12-17,Cabai Merah,60300.0
+2025-12-18,Cabai Merah,59600.0
+2025-12-19,Cabai Merah,58450.0
+2025-12-22,Cabai Merah,54950.0
+2025-12-23,Cabai Merah,53950.0
+2025-12-24,Cabai Merah,53750.0
+2025-12-25,Cabai Merah,53950.0
+2025-12-26,Cabai Merah,54150.0
+2025-12-29,Cabai Merah,50550.0
+2025-12-30,Cabai Merah,49500.0
+2025-12-31,Cabai Merah,49200.0
+2026-01-01,Cabai Merah,49150.0
+2026-01-02,Cabai Merah,49250.0
+2026-01-05,Cabai Merah,47650.0
+2026-01-06,Cabai Merah,46900.0
+2026-01-07,Cabai Merah,45550.0
+2026-01-08,Cabai Merah,44400.0
+2026-01-09,Cabai Merah,43650.0
+2026-01-12,Cabai Merah,42200.0
+2026-01-13,Cabai Merah,41550.0
+2026-01-14,Cabai Merah,41200.0
+2026-01-15,Cabai Merah,40700.0
+2026-01-16,Cabai Merah,40650.0
+2026-01-19,Cabai Merah,40050.0
+2026-01-20,Cabai Merah,39750.0
+2026-01-21,Cabai Merah,39450.0
+2026-01-22,Cabai Merah,39300.0
+2026-01-23,Cabai Merah,39050.0
+2026-01-26,Cabai Merah,39500.0
+2026-01-27,Cabai Merah,39450.0
+2026-01-28,Cabai Merah,39550.0
+2026-01-29,Cabai Merah,39550.0
+2026-01-30,Cabai Merah,39600.0
+2026-02-02,Cabai Merah,40450.0
+2026-02-03,Cabai Merah,41250.0
+2026-02-04,Cabai Merah,41950.0
+2026-02-05,Cabai Merah,42350.0
+2026-02-06,Cabai Merah,42600.0
+2026-02-09,Cabai Merah,44250.0
+2026-02-10,Cabai Merah,44900.0
+2026-02-11,Cabai Merah,45550.0
+2026-02-12,Cabai Merah,45350.0
+2026-02-13,Cabai Merah,45450.0
+2026-02-16,Cabai Merah,45600.0
+2026-02-17,Cabai Merah,45650.0
+2026-02-18,Cabai Merah,49050.0
+2026-02-19,Cabai Merah,49300.0
+2026-02-20,Cabai Merah,50750.0
+2026-02-23,Cabai Merah,49450.0
+2026-02-24,Cabai Merah,48400.0
+2026-02-25,Cabai Merah,46850.0
+2026-02-26,Cabai Merah,45800.0
+2026-02-27,Cabai Merah,44950.0
+2026-03-02,Cabai Merah,44350.0
+2026-03-03,Cabai Merah,43950.0
+2026-03-04,Cabai Merah,43850.0
+2026-03-05,Cabai Merah,43650.0
+2026-03-06,Cabai Merah,43900.0
+2026-03-09,Cabai Merah,43800.0
+2026-03-10,Cabai Merah,44000.0
+2026-03-11,Cabai Merah,44350.0
+2026-03-12,Cabai Merah,45500.0
+2026-03-13,Cabai Merah,47400.0
+2026-03-16,Cabai Merah,52600.0
+2026-03-17,Cabai Merah,55800.0
+2026-03-18,Cabai Merah,56050.0
+2026-03-19,Cabai Merah,55950.0
+2026-03-20,Cabai Merah,56000.0
+2026-03-23,Cabai Merah,56850.0
+2026-03-24,Cabai Merah,56400.0
+2026-03-25,Cabai Merah,54800.0
+2026-03-26,Cabai Merah,53400.0
+2026-03-27,Cabai Merah,52100.0
+2026-03-30,Cabai Merah,47900.0
+2026-03-31,Cabai Merah,47700.0
+2019-09-02,Cabai Rawit,58150.0
+2019-09-03,Cabai Rawit,59000.0
+2019-09-04,Cabai Rawit,59550.0
+2019-09-05,Cabai Rawit,59700.0
+2019-09-06,Cabai Rawit,60100.0
+2019-09-09,Cabai Rawit,60950.0
+2019-09-10,Cabai Rawit,61400.0
+2019-09-11,Cabai Rawit,60250.0
+2019-09-12,Cabai Rawit,60350.0
+2019-09-13,Cabai Rawit,60150.0
+2019-09-16,Cabai Rawit,58950.0
+2019-09-17,Cabai Rawit,58850.0
+2019-09-18,Cabai Rawit,57850.0
+2019-09-19,Cabai Rawit,57750.0
+2019-09-20,Cabai Rawit,57200.0
+2019-09-23,Cabai Rawit,56000.0
+2019-09-24,Cabai Rawit,55450.0
+2019-09-25,Cabai Rawit,55100.0
+2019-09-26,Cabai Rawit,54750.0
+2019-09-27,Cabai Rawit,54600.0
+2019-09-30,Cabai Rawit,54450.0
+2019-10-01,Cabai Rawit,54200.0
+2019-10-02,Cabai Rawit,54750.0
+2019-10-03,Cabai Rawit,55400.0
+2019-10-04,Cabai Rawit,55600.0
+2019-10-07,Cabai Rawit,56250.0
+2019-10-08,Cabai Rawit,56400.0
+2019-10-09,Cabai Rawit,55900.0
+2019-10-10,Cabai Rawit,56450.0
+2019-10-11,Cabai Rawit,57300.0
+2019-10-14,Cabai Rawit,56250.0
+2019-10-15,Cabai Rawit,56500.0
+2019-10-16,Cabai Rawit,54350.0
+2019-10-17,Cabai Rawit,55950.0
+2019-10-18,Cabai Rawit,55950.0
+2019-10-21,Cabai Rawit,56500.0
+2019-10-22,Cabai Rawit,56400.0
+2019-10-23,Cabai Rawit,55400.0
+2019-10-24,Cabai Rawit,54450.0
+2019-10-25,Cabai Rawit,54350.0
+2019-10-28,Cabai Rawit,54050.0
+2019-10-29,Cabai Rawit,54150.0
+2019-10-30,Cabai Rawit,54000.0
+2019-10-31,Cabai Rawit,51600.0
+2019-11-01,Cabai Rawit,53600.0
+2019-11-04,Cabai Rawit,54100.0
+2019-11-05,Cabai Rawit,53800.0
+2019-11-06,Cabai Rawit,53850.0
+2019-11-07,Cabai Rawit,53700.0
+2019-11-08,Cabai Rawit,53550.0
+2019-11-11,Cabai Rawit,53700.0
+2019-11-12,Cabai Rawit,53100.0
+2019-11-13,Cabai Rawit,53150.0
+2019-11-14,Cabai Rawit,53100.0
+2019-11-15,Cabai Rawit,52800.0
+2019-11-18,Cabai Rawit,50800.0
+2019-11-19,Cabai Rawit,49900.0
+2019-11-20,Cabai Rawit,49450.0
+2019-11-21,Cabai Rawit,48600.0
+2019-11-22,Cabai Rawit,47700.0
+2019-11-25,Cabai Rawit,45600.0
+2019-11-26,Cabai Rawit,45150.0
+2019-11-27,Cabai Rawit,44350.0
+2019-11-28,Cabai Rawit,43700.0
+2019-11-29,Cabai Rawit,43150.0
+2019-12-02,Cabai Rawit,41050.0
+2019-12-03,Cabai Rawit,40750.0
+2019-12-04,Cabai Rawit,40250.0
+2019-12-05,Cabai Rawit,39900.0
+2019-12-06,Cabai Rawit,39700.0
+2019-12-09,Cabai Rawit,38700.0
+2019-12-10,Cabai Rawit,38650.0
+2019-12-11,Cabai Rawit,37650.0
+2019-12-12,Cabai Rawit,37950.0
+2019-12-13,Cabai Rawit,37750.0
+2019-12-16,Cabai Rawit,37200.0
+2019-12-17,Cabai Rawit,37000.0
+2019-12-18,Cabai Rawit,36850.0
+2019-12-19,Cabai Rawit,37100.0
+2019-12-20,Cabai Rawit,37100.0
+2019-12-23,Cabai Rawit,38950.0
+2019-12-24,Cabai Rawit,39800.0
+2019-12-25,Cabai Rawit,32200.0
+2019-12-26,Cabai Rawit,39500.0
+2019-12-27,Cabai Rawit,39000.0
+2019-12-30,Cabai Rawit,38700.0
+2019-12-31,Cabai Rawit,39150.0
+2020-01-02,Cabai Rawit,41200.0
+2020-01-03,Cabai Rawit,42900.0
+2020-01-06,Cabai Rawit,46900.0
+2020-01-07,Cabai Rawit,47600.0
+2020-01-08,Cabai Rawit,47550.0
+2020-01-09,Cabai Rawit,47500.0
+2020-01-10,Cabai Rawit,47600.0
+2020-01-13,Cabai Rawit,48350.0
+2020-01-14,Cabai Rawit,49350.0
+2020-01-15,Cabai Rawit,50050.0
+2020-01-16,Cabai Rawit,51200.0
+2020-01-17,Cabai Rawit,52100.0
+2020-01-20,Cabai Rawit,54350.0
+2020-01-21,Cabai Rawit,55200.0
+2020-01-22,Cabai Rawit,56300.0
+2020-01-23,Cabai Rawit,57200.0
+2020-01-24,Cabai Rawit,57150.0
+2020-01-27,Cabai Rawit,58250.0
+2020-01-28,Cabai Rawit,58500.0
+2020-01-29,Cabai Rawit,58650.0
+2020-01-30,Cabai Rawit,57950.0
+2020-01-31,Cabai Rawit,57750.0
+2020-02-03,Cabai Rawit,58150.0
+2020-02-04,Cabai Rawit,58350.0
+2020-02-05,Cabai Rawit,57900.0
+2020-02-06,Cabai Rawit,57250.0
+2020-02-07,Cabai Rawit,56800.0
+2020-02-10,Cabai Rawit,53550.0
+2020-02-11,Cabai Rawit,53400.0
+2020-02-12,Cabai Rawit,52550.0
+2020-02-13,Cabai Rawit,51800.0
+2020-02-14,Cabai Rawit,50400.0
+2020-02-17,Cabai Rawit,47450.0
+2020-02-18,Cabai Rawit,46500.0
+2020-02-19,Cabai Rawit,45500.0
+2020-02-20,Cabai Rawit,44300.0
+2020-02-21,Cabai Rawit,43700.0
+2020-02-24,Cabai Rawit,41100.0
+2020-02-25,Cabai Rawit,40450.0
+2020-02-26,Cabai Rawit,39850.0
+2020-02-27,Cabai Rawit,39700.0
+2020-02-28,Cabai Rawit,38550.0
+2020-03-02,Cabai Rawit,38300.0
+2020-03-03,Cabai Rawit,38450.0
+2020-03-04,Cabai Rawit,38400.0
+2020-03-05,Cabai Rawit,38600.0
+2020-03-06,Cabai Rawit,38350.0
+2020-03-09,Cabai Rawit,37950.0
+2020-03-10,Cabai Rawit,38000.0
+2020-03-11,Cabai Rawit,37800.0
+2020-03-12,Cabai Rawit,38200.0
+2020-03-13,Cabai Rawit,38250.0
+2020-03-16,Cabai Rawit,39000.0
+2020-03-17,Cabai Rawit,39750.0
+2020-03-18,Cabai Rawit,40000.0
+2020-03-19,Cabai Rawit,40150.0
+2020-03-20,Cabai Rawit,40350.0
+2020-03-23,Cabai Rawit,41000.0
+2020-03-24,Cabai Rawit,41550.0
+2020-03-25,Cabai Rawit,33900.0
+2020-03-26,Cabai Rawit,42050.0
+2020-03-27,Cabai Rawit,42750.0
+2020-03-30,Cabai Rawit,42350.0
+2020-03-31,Cabai Rawit,42300.0
+2020-09-01,Cabai Rawit,31900.0
+2020-09-02,Cabai Rawit,31800.0
+2020-09-03,Cabai Rawit,32000.0
+2020-09-04,Cabai Rawit,32000.0
+2020-09-07,Cabai Rawit,32750.0
+2020-09-08,Cabai Rawit,32550.0
+2020-09-09,Cabai Rawit,32800.0
+2020-09-10,Cabai Rawit,32600.0
+2020-09-11,Cabai Rawit,32650.0
+2020-09-14,Cabai Rawit,32100.0
+2020-09-15,Cabai Rawit,31850.0
+2020-09-16,Cabai Rawit,32050.0
+2020-09-17,Cabai Rawit,32000.0
+2020-09-18,Cabai Rawit,31550.0
+2020-09-21,Cabai Rawit,31500.0
+2020-09-22,Cabai Rawit,30800.0
+2020-09-23,Cabai Rawit,30700.0
+2020-09-24,Cabai Rawit,30600.0
+2020-09-25,Cabai Rawit,30700.0
+2020-09-28,Cabai Rawit,30600.0
+2020-09-29,Cabai Rawit,30900.0
+2020-09-30,Cabai Rawit,31550.0
+2020-10-01,Cabai Rawit,31700.0
+2020-10-02,Cabai Rawit,31800.0
+2020-10-05,Cabai Rawit,32400.0
+2020-10-06,Cabai Rawit,33300.0
+2020-10-07,Cabai Rawit,33200.0
+2020-10-08,Cabai Rawit,33150.0
+2020-10-09,Cabai Rawit,33300.0
+2020-10-12,Cabai Rawit,33100.0
+2020-10-13,Cabai Rawit,33600.0
+2020-10-14,Cabai Rawit,33700.0
+2020-10-15,Cabai Rawit,34250.0
+2020-10-16,Cabai Rawit,34150.0
+2020-10-19,Cabai Rawit,33950.0
+2020-10-20,Cabai Rawit,34300.0
+2020-10-21,Cabai Rawit,34400.0
+2020-10-22,Cabai Rawit,34350.0
+2020-10-23,Cabai Rawit,34600.0
+2020-10-26,Cabai Rawit,35400.0
+2020-10-27,Cabai Rawit,35500.0
+2020-10-28,Cabai Rawit,31100.0
+2020-10-29,Cabai Rawit,41550.0
+2020-10-30,Cabai Rawit,36550.0
+2020-11-02,Cabai Rawit,35650.0
+2020-11-03,Cabai Rawit,35200.0
+2020-11-04,Cabai Rawit,35300.0
+2020-11-05,Cabai Rawit,35500.0
+2020-11-06,Cabai Rawit,35700.0
+2020-11-09,Cabai Rawit,36400.0
+2020-11-10,Cabai Rawit,36600.0
+2020-11-11,Cabai Rawit,36650.0
+2020-11-12,Cabai Rawit,36600.0
+2020-11-13,Cabai Rawit,36350.0
+2020-11-16,Cabai Rawit,36700.0
+2020-11-17,Cabai Rawit,36700.0
+2020-11-18,Cabai Rawit,36400.0
+2020-11-19,Cabai Rawit,36150.0
+2020-11-20,Cabai Rawit,36150.0
+2020-11-23,Cabai Rawit,36200.0
+2020-11-24,Cabai Rawit,36450.0
+2020-11-25,Cabai Rawit,36750.0
+2020-11-26,Cabai Rawit,37500.0
+2020-11-27,Cabai Rawit,38050.0
+2020-11-30,Cabai Rawit,41300.0
+2020-12-01,Cabai Rawit,41900.0
+2020-12-02,Cabai Rawit,42600.0
+2020-12-03,Cabai Rawit,42750.0
+2020-12-04,Cabai Rawit,43800.0
+2020-12-07,Cabai Rawit,46250.0
+2020-12-08,Cabai Rawit,46700.0
+2020-12-09,Cabai Rawit,58150.0
+2020-12-10,Cabai Rawit,47350.0
+2020-12-11,Cabai Rawit,47750.0
+2020-12-14,Cabai Rawit,47400.0
+2020-12-15,Cabai Rawit,47850.0
+2020-12-16,Cabai Rawit,47800.0
+2020-12-17,Cabai Rawit,48300.0
+2020-12-18,Cabai Rawit,48450.0
+2020-12-21,Cabai Rawit,51700.0
+2020-12-22,Cabai Rawit,53450.0
+2020-12-23,Cabai Rawit,53450.0
+2020-12-24,Cabai Rawit,69400.0
+2020-12-28,Cabai Rawit,58200.0
+2020-12-29,Cabai Rawit,59050.0
+2020-12-30,Cabai Rawit,59700.0
+2020-12-31,Cabai Rawit,60900.0
+2021-01-04,Cabai Rawit,68900.0
+2021-01-05,Cabai Rawit,68500.0
+2021-01-06,Cabai Rawit,68850.0
+2021-01-07,Cabai Rawit,69550.0
+2021-01-08,Cabai Rawit,69800.0
+2021-01-11,Cabai Rawit,69700.0
+2021-01-12,Cabai Rawit,70150.0
+2021-01-13,Cabai Rawit,69400.0
+2021-01-14,Cabai Rawit,69550.0
+2021-01-15,Cabai Rawit,69900.0
+2021-01-18,Cabai Rawit,70100.0
+2021-01-19,Cabai Rawit,69600.0
+2021-01-20,Cabai Rawit,69150.0
+2021-01-21,Cabai Rawit,68200.0
+2021-01-22,Cabai Rawit,68100.0
+2021-01-25,Cabai Rawit,67300.0
+2021-01-26,Cabai Rawit,67050.0
+2021-01-27,Cabai Rawit,67300.0
+2021-01-28,Cabai Rawit,66750.0
+2021-01-29,Cabai Rawit,67600.0
+2021-02-01,Cabai Rawit,67350.0
+2021-02-02,Cabai Rawit,68150.0
+2021-02-03,Cabai Rawit,68700.0
+2021-02-04,Cabai Rawit,68700.0
+2021-02-05,Cabai Rawit,68500.0
+2021-02-08,Cabai Rawit,69300.0
+2021-02-09,Cabai Rawit,69350.0
+2021-02-10,Cabai Rawit,69300.0
+2021-02-11,Cabai Rawit,69400.0
+2021-02-12,Cabai Rawit,60000.0
+2021-02-15,Cabai Rawit,70650.0
+2021-02-16,Cabai Rawit,70150.0
+2021-02-17,Cabai Rawit,71000.0
+2021-02-18,Cabai Rawit,72000.0
+2021-02-19,Cabai Rawit,72100.0
+2021-02-22,Cabai Rawit,73500.0
+2021-02-23,Cabai Rawit,73900.0
+2021-02-24,Cabai Rawit,74850.0
+2021-02-25,Cabai Rawit,75300.0
+2021-02-26,Cabai Rawit,75450.0
+2021-03-01,Cabai Rawit,76600.0
+2021-03-02,Cabai Rawit,77300.0
+2021-03-03,Cabai Rawit,78100.0
+2021-03-04,Cabai Rawit,78000.0
+2021-03-05,Cabai Rawit,78300.0
+2021-03-08,Cabai Rawit,77300.0
+2021-03-09,Cabai Rawit,77450.0
+2021-03-10,Cabai Rawit,77850.0
+2021-03-11,Cabai Rawit,86150.0
+2021-03-12,Cabai Rawit,77100.0
+2021-03-15,Cabai Rawit,77900.0
+2021-03-16,Cabai Rawit,78550.0
+2021-03-17,Cabai Rawit,78650.0
+2021-03-18,Cabai Rawit,78950.0
+2021-03-19,Cabai Rawit,79100.0
+2021-03-22,Cabai Rawit,79150.0
+2021-03-23,Cabai Rawit,79050.0
+2021-03-24,Cabai Rawit,78250.0
+2021-03-25,Cabai Rawit,77900.0
+2021-03-26,Cabai Rawit,77450.0
+2021-03-29,Cabai Rawit,76300.0
+2021-03-30,Cabai Rawit,75150.0
+2021-03-31,Cabai Rawit,73900.0
+2021-09-01,Cabai Rawit,37150.0
+2021-09-02,Cabai Rawit,37000.0
+2021-09-03,Cabai Rawit,36500.0
+2021-09-06,Cabai Rawit,36850.0
+2021-09-07,Cabai Rawit,36700.0
+2021-09-08,Cabai Rawit,36900.0
+2021-09-09,Cabai Rawit,37100.0
+2021-09-10,Cabai Rawit,36850.0
+2021-09-13,Cabai Rawit,36100.0
+2021-09-14,Cabai Rawit,35750.0
+2021-09-15,Cabai Rawit,35750.0
+2021-09-16,Cabai Rawit,36100.0
+2021-09-17,Cabai Rawit,36300.0
+2021-09-20,Cabai Rawit,36150.0
+2021-09-21,Cabai Rawit,36150.0
+2021-09-22,Cabai Rawit,36400.0
+2021-09-23,Cabai Rawit,36650.0
+2021-09-24,Cabai Rawit,36550.0
+2021-09-27,Cabai Rawit,37750.0
+2021-09-28,Cabai Rawit,38150.0
+2021-09-29,Cabai Rawit,37800.0
+2021-09-30,Cabai Rawit,38050.0
+2021-10-01,Cabai Rawit,37900.0
+2021-10-04,Cabai Rawit,38300.0
+2021-10-05,Cabai Rawit,38600.0
+2021-10-06,Cabai Rawit,38350.0
+2021-10-07,Cabai Rawit,38650.0
+2021-10-08,Cabai Rawit,38900.0
+2021-10-11,Cabai Rawit,39500.0
+2021-10-12,Cabai Rawit,39500.0
+2021-10-13,Cabai Rawit,39900.0
+2021-10-14,Cabai Rawit,39800.0
+2021-10-15,Cabai Rawit,40100.0
+2021-10-18,Cabai Rawit,40100.0
+2021-10-19,Cabai Rawit,40050.0
+2021-10-20,Cabai Rawit,58750.0
+2021-10-21,Cabai Rawit,39400.0
+2021-10-22,Cabai Rawit,38950.0
+2021-10-25,Cabai Rawit,37700.0
+2021-10-26,Cabai Rawit,37350.0
+2021-10-27,Cabai Rawit,37250.0
+2021-10-28,Cabai Rawit,37050.0
+2021-10-29,Cabai Rawit,36200.0
+2021-11-01,Cabai Rawit,35550.0
+2021-11-02,Cabai Rawit,35100.0
+2021-11-03,Cabai Rawit,35350.0
+2021-11-04,Cabai Rawit,35500.0
+2021-11-05,Cabai Rawit,35500.0
+2021-11-08,Cabai Rawit,35200.0
+2021-11-09,Cabai Rawit,35100.0
+2021-11-10,Cabai Rawit,36200.0
+2021-11-11,Cabai Rawit,35900.0
+2021-11-12,Cabai Rawit,36250.0
+2021-11-15,Cabai Rawit,37050.0
+2021-11-16,Cabai Rawit,37450.0
+2021-11-17,Cabai Rawit,37450.0
+2021-11-18,Cabai Rawit,37600.0
+2021-11-19,Cabai Rawit,37500.0
+2021-11-22,Cabai Rawit,39900.0
+2021-11-23,Cabai Rawit,41150.0
+2021-11-24,Cabai Rawit,41450.0
+2021-11-25,Cabai Rawit,42150.0
+2021-11-26,Cabai Rawit,43450.0
+2021-11-29,Cabai Rawit,46400.0
+2021-11-30,Cabai Rawit,47300.0
+2021-12-01,Cabai Rawit,48400.0
+2021-12-02,Cabai Rawit,50750.0
+2021-12-03,Cabai Rawit,52100.0
+2021-12-06,Cabai Rawit,59950.0
+2021-12-07,Cabai Rawit,61350.0
+2021-12-08,Cabai Rawit,62400.0
+2021-12-09,Cabai Rawit,63600.0
+2021-12-10,Cabai Rawit,65400.0
+2021-12-13,Cabai Rawit,70100.0
+2021-12-14,Cabai Rawit,70650.0
+2021-12-15,Cabai Rawit,69500.0
+2021-12-16,Cabai Rawit,72650.0
+2021-12-17,Cabai Rawit,73250.0
+2021-12-20,Cabai Rawit,73900.0
+2021-12-21,Cabai Rawit,73350.0
+2021-12-22,Cabai Rawit,74550.0
+2021-12-23,Cabai Rawit,76000.0
+2021-12-24,Cabai Rawit,77400.0
+2021-12-27,Cabai Rawit,79750.0
+2021-12-28,Cabai Rawit,79150.0
+2021-12-29,Cabai Rawit,77750.0
+2021-12-30,Cabai Rawit,76250.0
+2021-12-31,Cabai Rawit,75000.0
+2022-01-03,Cabai Rawit,73750.0
+2022-01-04,Cabai Rawit,73450.0
+2022-01-05,Cabai Rawit,71700.0
+2022-01-06,Cabai Rawit,69800.0
+2022-01-07,Cabai Rawit,68400.0
+2022-01-10,Cabai Rawit,63750.0
+2022-01-11,Cabai Rawit,62250.0
+2022-01-12,Cabai Rawit,61300.0
+2022-01-13,Cabai Rawit,60400.0
+2022-01-14,Cabai Rawit,59250.0
+2022-01-17,Cabai Rawit,57100.0
+2022-01-18,Cabai Rawit,57000.0
+2022-01-19,Cabai Rawit,57000.0
+2022-01-20,Cabai Rawit,55750.0
+2022-01-21,Cabai Rawit,54950.0
+2022-01-24,Cabai Rawit,52300.0
+2022-01-25,Cabai Rawit,51550.0
+2022-01-26,Cabai Rawit,50900.0
+2022-01-27,Cabai Rawit,49850.0
+2022-01-28,Cabai Rawit,49400.0
+2022-01-31,Cabai Rawit,48300.0
+2022-02-01,Cabai Rawit,22000.0
+2022-02-02,Cabai Rawit,48300.0
+2022-02-03,Cabai Rawit,48200.0
+2022-02-04,Cabai Rawit,48700.0
+2022-02-07,Cabai Rawit,49800.0
+2022-02-08,Cabai Rawit,50250.0
+2022-02-09,Cabai Rawit,50200.0
+2022-02-10,Cabai Rawit,49950.0
+2022-02-11,Cabai Rawit,49750.0
+2022-02-14,Cabai Rawit,50050.0
+2022-02-15,Cabai Rawit,50150.0
+2022-02-16,Cabai Rawit,50200.0
+2022-02-17,Cabai Rawit,50300.0
+2022-02-18,Cabai Rawit,50300.0
+2022-02-21,Cabai Rawit,52000.0
+2022-02-22,Cabai Rawit,53000.0
+2022-02-23,Cabai Rawit,54050.0
+2022-02-24,Cabai Rawit,53900.0
+2022-02-25,Cabai Rawit,54050.0
+2022-03-01,Cabai Rawit,58000.0
+2022-03-02,Cabai Rawit,58750.0
+2022-03-04,Cabai Rawit,59250.0
+2022-03-07,Cabai Rawit,61200.0
+2022-03-08,Cabai Rawit,61050.0
+2022-03-09,Cabai Rawit,60950.0
+2022-03-10,Cabai Rawit,60250.0
+2022-03-11,Cabai Rawit,60200.0
+2022-03-14,Cabai Rawit,60450.0
+2022-03-15,Cabai Rawit,59800.0
+2022-03-16,Cabai Rawit,59400.0
+2022-03-17,Cabai Rawit,58000.0
+2022-03-18,Cabai Rawit,59050.0
+2022-03-21,Cabai Rawit,58450.0
+2022-03-22,Cabai Rawit,58200.0
+2022-03-23,Cabai Rawit,57400.0
+2022-03-24,Cabai Rawit,56550.0
+2022-03-25,Cabai Rawit,56000.0
+2022-03-28,Cabai Rawit,55850.0
+2022-03-29,Cabai Rawit,55800.0
+2022-03-30,Cabai Rawit,55900.0
+2022-03-31,Cabai Rawit,56150.0
+2022-09-01,Cabai Rawit,57200.0
+2022-09-02,Cabai Rawit,57250.0
+2022-09-05,Cabai Rawit,58750.0
+2022-09-06,Cabai Rawit,59650.0
+2022-09-07,Cabai Rawit,59500.0
+2022-09-08,Cabai Rawit,59550.0
+2022-09-09,Cabai Rawit,60050.0
+2022-09-12,Cabai Rawit,60400.0
+2022-09-13,Cabai Rawit,60400.0
+2022-09-14,Cabai Rawit,60300.0
+2022-09-15,Cabai Rawit,59700.0
+2022-09-16,Cabai Rawit,60100.0
+2022-09-19,Cabai Rawit,61050.0
+2022-09-20,Cabai Rawit,60550.0
+2022-09-21,Cabai Rawit,60000.0
+2022-09-22,Cabai Rawit,59600.0
+2022-09-23,Cabai Rawit,59050.0
+2022-09-26,Cabai Rawit,57800.0
+2022-09-27,Cabai Rawit,57300.0
+2022-09-28,Cabai Rawit,56750.0
+2022-09-29,Cabai Rawit,56300.0
+2022-09-30,Cabai Rawit,56300.0
+2022-10-03,Cabai Rawit,55600.0
+2022-10-04,Cabai Rawit,55600.0
+2022-10-05,Cabai Rawit,55200.0
+2022-10-06,Cabai Rawit,54450.0
+2022-10-07,Cabai Rawit,54200.0
+2022-10-10,Cabai Rawit,53700.0
+2022-10-11,Cabai Rawit,53200.0
+2022-10-12,Cabai Rawit,53200.0
+2022-10-13,Cabai Rawit,52750.0
+2022-10-14,Cabai Rawit,52000.0
+2022-10-17,Cabai Rawit,50550.0
+2022-10-18,Cabai Rawit,49800.0
+2022-10-19,Cabai Rawit,48950.0
+2022-10-20,Cabai Rawit,48150.0
+2022-10-21,Cabai Rawit,47650.0
+2022-10-24,Cabai Rawit,46500.0
+2022-10-25,Cabai Rawit,46300.0
+2022-10-26,Cabai Rawit,45800.0
+2022-10-27,Cabai Rawit,45900.0
+2022-10-28,Cabai Rawit,45700.0
+2022-10-31,Cabai Rawit,44300.0
+2022-11-01,Cabai Rawit,44250.0
+2022-11-02,Cabai Rawit,44250.0
+2022-11-03,Cabai Rawit,43600.0
+2022-11-04,Cabai Rawit,43400.0
+2022-11-07,Cabai Rawit,43400.0
+2022-11-08,Cabai Rawit,43300.0
+2022-11-09,Cabai Rawit,43100.0
+2022-11-10,Cabai Rawit,43100.0
+2022-11-11,Cabai Rawit,42950.0
+2022-11-14,Cabai Rawit,42800.0
+2022-11-15,Cabai Rawit,43050.0
+2022-11-16,Cabai Rawit,42800.0
+2022-11-17,Cabai Rawit,42350.0
+2022-11-18,Cabai Rawit,42750.0
+2022-11-21,Cabai Rawit,44050.0
+2022-11-22,Cabai Rawit,43950.0
+2022-11-23,Cabai Rawit,43800.0
+2022-11-24,Cabai Rawit,43850.0
+2022-11-25,Cabai Rawit,43700.0
+2022-11-28,Cabai Rawit,44550.0
+2022-11-29,Cabai Rawit,44500.0
+2022-11-30,Cabai Rawit,44650.0
+2022-12-01,Cabai Rawit,44400.0
+2022-12-02,Cabai Rawit,44900.0
+2022-12-05,Cabai Rawit,48250.0
+2022-12-06,Cabai Rawit,48750.0
+2022-12-07,Cabai Rawit,49650.0
+2022-12-08,Cabai Rawit,50900.0
+2022-12-09,Cabai Rawit,51700.0
+2022-12-12,Cabai Rawit,51850.0
+2022-12-13,Cabai Rawit,51750.0
+2022-12-14,Cabai Rawit,51850.0
+2022-12-15,Cabai Rawit,51900.0
+2022-12-16,Cabai Rawit,51950.0
+2022-12-19,Cabai Rawit,52250.0
+2022-12-20,Cabai Rawit,53100.0
+2022-12-21,Cabai Rawit,53350.0
+2022-12-22,Cabai Rawit,53600.0
+2022-12-23,Cabai Rawit,54600.0
+2022-12-26,Cabai Rawit,55750.0
+2022-12-27,Cabai Rawit,56000.0
+2022-12-28,Cabai Rawit,56600.0
+2022-12-29,Cabai Rawit,57100.0
+2022-12-30,Cabai Rawit,57150.0
+2023-01-02,Cabai Rawit,63750.0
+2023-01-03,Cabai Rawit,64250.0
+2023-01-04,Cabai Rawit,63450.0
+2023-01-05,Cabai Rawit,62750.0
+2023-01-06,Cabai Rawit,62050.0
+2023-01-09,Cabai Rawit,61650.0
+2023-01-10,Cabai Rawit,60250.0
+2023-01-11,Cabai Rawit,59300.0
+2023-01-12,Cabai Rawit,58450.0
+2023-01-13,Cabai Rawit,57500.0
+2023-01-16,Cabai Rawit,55400.0
+2023-01-17,Cabai Rawit,54550.0
+2023-01-18,Cabai Rawit,54200.0
+2023-01-19,Cabai Rawit,54100.0
+2023-01-20,Cabai Rawit,53500.0
+2023-01-23,Cabai Rawit,52850.0
+2023-01-24,Cabai Rawit,52400.0
+2023-01-25,Cabai Rawit,52000.0
+2023-01-26,Cabai Rawit,51750.0
+2023-01-27,Cabai Rawit,51800.0
+2023-01-30,Cabai Rawit,50350.0
+2023-01-31,Cabai Rawit,50100.0
+2023-02-01,Cabai Rawit,49900.0
+2023-02-02,Cabai Rawit,49800.0
+2023-02-03,Cabai Rawit,49700.0
+2023-02-06,Cabai Rawit,51550.0
+2023-02-07,Cabai Rawit,51800.0
+2023-02-08,Cabai Rawit,51850.0
+2023-02-09,Cabai Rawit,52000.0
+2023-02-10,Cabai Rawit,51850.0
+2023-02-13,Cabai Rawit,52650.0
+2023-02-14,Cabai Rawit,53300.0
+2023-02-15,Cabai Rawit,52800.0
+2023-02-16,Cabai Rawit,53250.0
+2023-02-17,Cabai Rawit,53350.0
+2023-02-20,Cabai Rawit,54850.0
+2023-02-21,Cabai Rawit,55300.0
+2023-02-22,Cabai Rawit,55350.0
+2023-02-23,Cabai Rawit,55450.0
+2023-02-24,Cabai Rawit,55900.0
+2023-02-27,Cabai Rawit,55850.0
+2023-02-28,Cabai Rawit,55800.0
+2023-03-01,Cabai Rawit,55800.0
+2023-03-02,Cabai Rawit,56050.0
+2023-03-03,Cabai Rawit,56500.0
+2023-03-06,Cabai Rawit,58200.0
+2023-03-07,Cabai Rawit,58200.0
+2023-03-08,Cabai Rawit,58100.0
+2023-03-09,Cabai Rawit,58700.0
+2023-03-10,Cabai Rawit,58800.0
+2023-03-13,Cabai Rawit,60750.0
+2023-03-14,Cabai Rawit,61400.0
+2023-03-15,Cabai Rawit,61150.0
+2023-03-16,Cabai Rawit,61550.0
+2023-03-17,Cabai Rawit,61850.0
+2023-03-20,Cabai Rawit,61850.0
+2023-03-21,Cabai Rawit,61300.0
+2023-03-22,Cabai Rawit,60350.0
+2023-03-23,Cabai Rawit,62650.0
+2023-03-24,Cabai Rawit,62750.0
+2023-03-27,Cabai Rawit,59100.0
+2023-03-28,Cabai Rawit,56750.0
+2023-03-29,Cabai Rawit,54200.0
+2023-03-30,Cabai Rawit,52150.0
+2023-03-31,Cabai Rawit,50200.0
+2023-09-01,Cabai Rawit,42000.0
+2023-09-04,Cabai Rawit,41000.0
+2023-09-05,Cabai Rawit,41000.0
+2023-09-06,Cabai Rawit,41150.0
+2023-09-07,Cabai Rawit,41050.0
+2023-09-08,Cabai Rawit,40650.0
+2023-09-11,Cabai Rawit,40950.0
+2023-09-12,Cabai Rawit,40600.0
+2023-09-13,Cabai Rawit,40550.0
+2023-09-14,Cabai Rawit,40350.0
+2023-09-15,Cabai Rawit,40900.0
+2023-09-18,Cabai Rawit,41650.0
+2023-09-19,Cabai Rawit,41700.0
+2023-09-20,Cabai Rawit,41450.0
+2023-09-21,Cabai Rawit,41450.0
+2023-09-22,Cabai Rawit,41000.0
+2023-09-25,Cabai Rawit,42400.0
+2023-09-26,Cabai Rawit,42650.0
+2023-09-27,Cabai Rawit,42650.0
+2023-09-28,Cabai Rawit,41450.0
+2023-09-29,Cabai Rawit,42500.0
+2023-10-02,Cabai Rawit,45500.0
+2023-10-03,Cabai Rawit,46250.0
+2023-10-04,Cabai Rawit,46850.0
+2023-10-05,Cabai Rawit,47950.0
+2023-10-06,Cabai Rawit,48500.0
+2023-10-09,Cabai Rawit,50850.0
+2023-10-10,Cabai Rawit,51550.0
+2023-10-11,Cabai Rawit,51800.0
+2023-10-12,Cabai Rawit,52050.0
+2023-10-13,Cabai Rawit,52350.0
+2023-10-16,Cabai Rawit,53700.0
+2023-10-17,Cabai Rawit,54450.0
+2023-10-18,Cabai Rawit,54300.0
+2023-10-19,Cabai Rawit,54300.0
+2023-10-20,Cabai Rawit,54500.0
+2023-10-23,Cabai Rawit,57000.0
+2023-10-24,Cabai Rawit,57650.0
+2023-10-25,Cabai Rawit,57700.0
+2023-10-26,Cabai Rawit,58400.0
+2023-10-27,Cabai Rawit,59900.0
+2023-10-30,Cabai Rawit,64450.0
+2023-10-31,Cabai Rawit,65750.0
+2023-11-01,Cabai Rawit,65650.0
+2023-11-02,Cabai Rawit,66050.0
+2023-11-03,Cabai Rawit,67100.0
+2023-11-06,Cabai Rawit,69250.0
+2023-11-07,Cabai Rawit,69650.0
+2023-11-08,Cabai Rawit,69950.0
+2023-11-09,Cabai Rawit,70500.0
+2023-11-10,Cabai Rawit,70450.0
+2023-11-13,Cabai Rawit,70700.0
+2023-11-14,Cabai Rawit,71000.0
+2023-11-15,Cabai Rawit,71600.0
+2023-11-16,Cabai Rawit,71700.0
+2023-11-17,Cabai Rawit,71650.0
+2023-11-20,Cabai Rawit,73500.0
+2023-11-21,Cabai Rawit,76000.0
+2023-11-22,Cabai Rawit,76550.0
+2023-11-23,Cabai Rawit,77550.0
+2023-11-24,Cabai Rawit,77700.0
+2023-11-27,Cabai Rawit,78800.0
+2023-11-28,Cabai Rawit,79700.0
+2023-11-29,Cabai Rawit,80050.0
+2023-11-30,Cabai Rawit,80600.0
+2023-12-01,Cabai Rawit,80350.0
+2023-12-04,Cabai Rawit,81400.0
+2023-12-05,Cabai Rawit,82350.0
+2023-12-06,Cabai Rawit,82700.0
+2023-12-07,Cabai Rawit,83350.0
+2023-12-08,Cabai Rawit,83550.0
+2023-12-11,Cabai Rawit,83050.0
+2023-12-12,Cabai Rawit,82950.0
+2023-12-13,Cabai Rawit,84550.0
+2023-12-14,Cabai Rawit,82750.0
+2023-12-15,Cabai Rawit,82300.0
+2023-12-18,Cabai Rawit,80600.0
+2023-12-19,Cabai Rawit,79050.0
+2023-12-20,Cabai Rawit,78950.0
+2023-12-21,Cabai Rawit,78950.0
+2023-12-22,Cabai Rawit,78650.0
+2023-12-25,Cabai Rawit,72550.0
+2023-12-26,Cabai Rawit,69350.0
+2023-12-27,Cabai Rawit,78700.0
+2023-12-28,Cabai Rawit,77500.0
+2023-12-29,Cabai Rawit,76700.0
+2024-01-01,Cabai Rawit,71750.0
+2024-01-02,Cabai Rawit,76300.0
+2024-01-03,Cabai Rawit,74450.0
+2024-01-04,Cabai Rawit,72500.0
+2024-01-05,Cabai Rawit,70400.0
+2024-01-08,Cabai Rawit,64450.0
+2024-01-09,Cabai Rawit,62450.0
+2024-01-10,Cabai Rawit,60400.0
+2024-01-11,Cabai Rawit,59350.0
+2024-01-12,Cabai Rawit,56650.0
+2024-01-15,Cabai Rawit,55150.0
+2024-01-16,Cabai Rawit,53950.0
+2024-01-17,Cabai Rawit,53500.0
+2024-01-18,Cabai Rawit,52200.0
+2024-01-19,Cabai Rawit,51400.0
+2024-01-22,Cabai Rawit,50700.0
+2024-01-23,Cabai Rawit,49900.0
+2024-01-24,Cabai Rawit,49800.0
+2024-01-25,Cabai Rawit,48250.0
+2024-01-26,Cabai Rawit,48000.0
+2024-01-29,Cabai Rawit,46300.0
+2024-01-30,Cabai Rawit,45500.0
+2024-01-31,Cabai Rawit,44900.0
+2024-02-01,Cabai Rawit,44400.0
+2024-02-02,Cabai Rawit,44700.0
+2024-02-05,Cabai Rawit,45600.0
+2024-02-06,Cabai Rawit,45600.0
+2024-02-07,Cabai Rawit,45650.0
+2024-02-08,Cabai Rawit,45850.0
+2024-02-09,Cabai Rawit,45550.0
+2024-02-12,Cabai Rawit,48300.0
+2024-02-13,Cabai Rawit,48500.0
+2024-02-14,Cabai Rawit,47450.0
+2024-02-15,Cabai Rawit,52350.0
+2024-02-16,Cabai Rawit,56000.0
+2024-02-19,Cabai Rawit,61450.0
+2024-02-20,Cabai Rawit,63100.0
+2024-02-21,Cabai Rawit,63200.0
+2024-02-22,Cabai Rawit,62900.0
+2024-02-23,Cabai Rawit,62300.0
+2024-02-26,Cabai Rawit,60800.0
+2024-02-27,Cabai Rawit,61400.0
+2024-02-28,Cabai Rawit,61050.0
+2024-02-29,Cabai Rawit,60750.0
+2024-03-01,Cabai Rawit,60600.0
+2024-03-04,Cabai Rawit,61050.0
+2024-03-05,Cabai Rawit,61500.0
+2024-03-06,Cabai Rawit,61200.0
+2024-03-07,Cabai Rawit,61150.0
+2024-03-08,Cabai Rawit,60950.0
+2024-03-11,Cabai Rawit,60700.0
+2024-03-12,Cabai Rawit,60750.0
+2024-03-13,Cabai Rawit,64800.0
+2024-03-14,Cabai Rawit,64300.0
+2024-03-15,Cabai Rawit,64300.0
+2024-03-18,Cabai Rawit,59150.0
+2024-03-19,Cabai Rawit,57900.0
+2024-03-20,Cabai Rawit,55950.0
+2024-03-21,Cabai Rawit,54450.0
+2024-03-22,Cabai Rawit,53250.0
+2024-03-25,Cabai Rawit,51650.0
+2024-03-26,Cabai Rawit,51350.0
+2024-03-27,Cabai Rawit,51100.0
+2024-03-28,Cabai Rawit,50850.0
+2024-03-29,Cabai Rawit,50850.0
+2024-09-02,Cabai Rawit,52250.0
+2024-09-03,Cabai Rawit,52000.0
+2024-09-04,Cabai Rawit,52250.0
+2024-09-05,Cabai Rawit,52700.0
+2024-09-06,Cabai Rawit,51500.0
+2024-09-09,Cabai Rawit,51250.0
+2024-09-10,Cabai Rawit,51250.0
+2024-09-11,Cabai Rawit,51000.0
+2024-09-12,Cabai Rawit,50650.0
+2024-09-13,Cabai Rawit,50600.0
+2024-09-16,Cabai Rawit,50200.0
+2024-09-17,Cabai Rawit,51050.0
+2024-09-18,Cabai Rawit,51150.0
+2024-09-19,Cabai Rawit,51400.0
+2024-09-20,Cabai Rawit,51650.0
+2024-09-23,Cabai Rawit,50200.0
+2024-09-24,Cabai Rawit,50550.0
+2024-09-25,Cabai Rawit,50000.0
+2024-09-26,Cabai Rawit,50100.0
+2024-09-27,Cabai Rawit,49750.0
+2024-09-30,Cabai Rawit,48850.0
+2024-10-01,Cabai Rawit,48600.0
+2024-10-02,Cabai Rawit,48650.0
+2024-10-03,Cabai Rawit,48300.0
+2024-10-04,Cabai Rawit,48150.0
+2024-10-07,Cabai Rawit,48100.0
+2024-10-08,Cabai Rawit,48100.0
+2024-10-09,Cabai Rawit,47850.0
+2024-10-10,Cabai Rawit,47900.0
+2024-10-11,Cabai Rawit,48000.0
+2024-10-14,Cabai Rawit,48350.0
+2024-10-15,Cabai Rawit,48200.0
+2024-10-16,Cabai Rawit,47600.0
+2024-10-17,Cabai Rawit,47000.0
+2024-10-18,Cabai Rawit,47500.0
+2024-10-21,Cabai Rawit,46650.0
+2024-10-22,Cabai Rawit,46200.0
+2024-10-23,Cabai Rawit,45350.0
+2024-10-24,Cabai Rawit,44000.0
+2024-10-25,Cabai Rawit,44600.0
+2024-10-28,Cabai Rawit,43500.0
+2024-10-29,Cabai Rawit,43550.0
+2024-10-30,Cabai Rawit,43250.0
+2024-10-31,Cabai Rawit,43100.0
+2024-11-01,Cabai Rawit,42600.0
+2024-11-04,Cabai Rawit,42300.0
+2024-11-05,Cabai Rawit,42250.0
+2024-11-06,Cabai Rawit,42700.0
+2024-11-07,Cabai Rawit,42000.0
+2024-11-08,Cabai Rawit,43400.0
+2024-11-11,Cabai Rawit,43300.0
+2024-11-12,Cabai Rawit,44000.0
+2024-11-13,Cabai Rawit,44500.0
+2024-11-14,Cabai Rawit,43850.0
+2024-11-15,Cabai Rawit,43900.0
+2024-11-18,Cabai Rawit,42250.0
+2024-11-19,Cabai Rawit,43600.0
+2024-11-20,Cabai Rawit,42600.0
+2024-11-21,Cabai Rawit,42250.0
+2024-11-22,Cabai Rawit,42250.0
+2024-11-25,Cabai Rawit,42550.0
+2024-11-26,Cabai Rawit,41500.0
+2024-11-27,Cabai Rawit,39900.0
+2024-11-28,Cabai Rawit,42150.0
+2024-11-29,Cabai Rawit,42150.0
+2024-12-02,Cabai Rawit,42350.0
+2024-12-03,Cabai Rawit,42600.0
+2024-12-04,Cabai Rawit,42250.0
+2024-12-05,Cabai Rawit,42600.0
+2024-12-06,Cabai Rawit,42550.0
+2024-12-09,Cabai Rawit,42550.0
+2024-12-10,Cabai Rawit,43050.0
+2024-12-11,Cabai Rawit,43650.0
+2024-12-12,Cabai Rawit,43750.0
+2024-12-13,Cabai Rawit,43200.0
+2024-12-16,Cabai Rawit,45700.0
+2024-12-17,Cabai Rawit,45950.0
+2024-12-18,Cabai Rawit,46850.0
+2024-12-19,Cabai Rawit,46450.0
+2024-12-20,Cabai Rawit,47600.0
+2024-12-23,Cabai Rawit,51800.0
+2024-12-24,Cabai Rawit,54850.0
+2024-12-25,Cabai Rawit,54750.0
+2024-12-26,Cabai Rawit,55350.0
+2024-12-27,Cabai Rawit,58100.0
+2024-12-30,Cabai Rawit,60950.0
+2024-12-31,Cabai Rawit,62200.0
+2025-01-01,Cabai Rawit,61700.0
+2025-01-02,Cabai Rawit,65650.0
+2025-01-03,Cabai Rawit,67650.0
+2025-01-06,Cabai Rawit,72750.0
+2025-01-07,Cabai Rawit,73650.0
+2025-01-08,Cabai Rawit,74150.0
+2025-01-09,Cabai Rawit,72250.0
+2025-01-10,Cabai Rawit,73250.0
+2025-01-13,Cabai Rawit,74600.0
+2025-01-14,Cabai Rawit,74000.0
+2025-01-15,Cabai Rawit,74200.0
+2025-01-16,Cabai Rawit,73700.0
+2025-01-17,Cabai Rawit,72500.0
+2025-01-20,Cabai Rawit,69450.0
+2025-01-21,Cabai Rawit,68600.0
+2025-01-22,Cabai Rawit,68050.0
+2025-01-23,Cabai Rawit,67550.0
+2025-01-24,Cabai Rawit,67300.0
+2025-01-27,Cabai Rawit,66850.0
+2025-01-28,Cabai Rawit,66650.0
+2025-01-29,Cabai Rawit,66700.0
+2025-01-30,Cabai Rawit,65550.0
+2025-01-31,Cabai Rawit,66150.0
+2025-02-03,Cabai Rawit,65700.0
+2025-02-04,Cabai Rawit,66000.0
+2025-02-05,Cabai Rawit,66150.0
+2025-02-06,Cabai Rawit,66500.0
+2025-02-07,Cabai Rawit,65450.0
+2025-02-10,Cabai Rawit,67000.0
+2025-02-11,Cabai Rawit,65700.0
+2025-02-12,Cabai Rawit,66900.0
+2025-02-13,Cabai Rawit,66500.0
+2025-02-14,Cabai Rawit,66850.0
+2025-02-17,Cabai Rawit,66050.0
+2025-02-18,Cabai Rawit,66550.0
+2025-02-19,Cabai Rawit,67050.0
+2025-02-20,Cabai Rawit,67250.0
+2025-02-21,Cabai Rawit,67700.0
+2025-02-24,Cabai Rawit,70900.0
+2025-02-25,Cabai Rawit,73000.0
+2025-02-26,Cabai Rawit,73800.0
+2025-02-27,Cabai Rawit,75850.0
+2025-02-28,Cabai Rawit,75100.0
+2025-03-03,Cabai Rawit,86300.0
+2025-03-04,Cabai Rawit,86750.0
+2025-03-05,Cabai Rawit,85450.0
+2025-03-06,Cabai Rawit,83300.0
+2025-03-07,Cabai Rawit,80550.0
+2025-03-10,Cabai Rawit,76950.0
+2025-03-11,Cabai Rawit,75550.0
+2025-03-12,Cabai Rawit,75150.0
+2025-03-13,Cabai Rawit,74200.0
+2025-03-14,Cabai Rawit,74000.0
+2025-03-17,Cabai Rawit,74900.0
+2025-03-18,Cabai Rawit,75200.0
+2025-03-19,Cabai Rawit,75650.0
+2025-03-20,Cabai Rawit,75650.0
+2025-03-21,Cabai Rawit,75100.0
+2025-03-24,Cabai Rawit,78100.0
+2025-03-25,Cabai Rawit,78950.0
+2025-03-26,Cabai Rawit,80000.0
+2025-03-27,Cabai Rawit,80550.0
+2025-03-28,Cabai Rawit,79550.0
+2025-03-31,Cabai Rawit,79700.0
+2025-09-01,Cabai Rawit,47300.0
+2025-09-02,Cabai Rawit,47300.0
+2025-09-03,Cabai Rawit,47750.0
+2025-09-04,Cabai Rawit,47850.0
+2025-09-05,Cabai Rawit,47800.0
+2025-09-08,Cabai Rawit,48850.0
+2025-09-09,Cabai Rawit,49350.0
+2025-09-10,Cabai Rawit,49350.0
+2025-09-11,Cabai Rawit,49150.0
+2025-09-12,Cabai Rawit,48950.0
+2025-09-15,Cabai Rawit,49250.0
+2025-09-16,Cabai Rawit,49450.0
+2025-09-17,Cabai Rawit,49300.0
+2025-09-18,Cabai Rawit,49150.0
+2025-09-19,Cabai Rawit,49200.0
+2025-09-22,Cabai Rawit,49100.0
+2025-09-23,Cabai Rawit,48900.0
+2025-09-24,Cabai Rawit,48350.0
+2025-09-25,Cabai Rawit,48000.0
+2025-09-26,Cabai Rawit,47850.0
+2025-09-29,Cabai Rawit,47450.0
+2025-09-30,Cabai Rawit,46850.0
+2025-10-01,Cabai Rawit,46750.0
+2025-10-02,Cabai Rawit,46250.0
+2025-10-03,Cabai Rawit,45950.0
+2025-10-06,Cabai Rawit,46250.0
+2025-10-07,Cabai Rawit,46350.0
+2025-10-08,Cabai Rawit,46100.0
+2025-10-09,Cabai Rawit,46050.0
+2025-10-10,Cabai Rawit,45900.0
+2025-10-13,Cabai Rawit,45000.0
+2025-10-14,Cabai Rawit,44550.0
+2025-10-15,Cabai Rawit,43950.0
+2025-10-16,Cabai Rawit,43350.0
+2025-10-17,Cabai Rawit,43150.0
+2025-10-20,Cabai Rawit,42100.0
+2025-10-21,Cabai Rawit,41600.0
+2025-10-22,Cabai Rawit,40750.0
+2025-10-23,Cabai Rawit,40350.0
+2025-10-24,Cabai Rawit,40250.0
+2025-10-27,Cabai Rawit,39450.0
+2025-10-28,Cabai Rawit,39150.0
+2025-10-29,Cabai Rawit,38900.0
+2025-10-30,Cabai Rawit,39100.0
+2025-10-31,Cabai Rawit,38950.0
+2025-11-03,Cabai Rawit,38800.0
+2025-11-04,Cabai Rawit,39050.0
+2025-11-05,Cabai Rawit,39450.0
+2025-11-06,Cabai Rawit,39950.0
+2025-11-07,Cabai Rawit,40050.0
+2025-11-10,Cabai Rawit,40150.0
+2025-11-11,Cabai Rawit,40250.0
+2025-11-12,Cabai Rawit,40250.0
+2025-11-13,Cabai Rawit,40550.0
+2025-11-14,Cabai Rawit,40600.0
+2025-11-17,Cabai Rawit,42550.0
+2025-11-18,Cabai Rawit,43750.0
+2025-11-19,Cabai Rawit,45450.0
+2025-11-20,Cabai Rawit,45350.0
+2025-11-21,Cabai Rawit,45750.0
+2025-11-24,Cabai Rawit,46750.0
+2025-11-25,Cabai Rawit,47150.0
+2025-11-26,Cabai Rawit,47850.0
+2025-11-27,Cabai Rawit,49700.0
+2025-11-28,Cabai Rawit,53450.0
+2025-12-01,Cabai Rawit,60500.0
+2025-12-02,Cabai Rawit,61900.0
+2025-12-03,Cabai Rawit,63300.0
+2025-12-04,Cabai Rawit,64050.0
+2025-12-05,Cabai Rawit,64400.0
+2025-12-08,Cabai Rawit,70050.0
+2025-12-09,Cabai Rawit,71500.0
+2025-12-10,Cabai Rawit,71800.0
+2025-12-11,Cabai Rawit,72400.0
+2025-12-12,Cabai Rawit,72600.0
+2025-12-15,Cabai Rawit,73100.0
+2025-12-16,Cabai Rawit,72450.0
+2025-12-17,Cabai Rawit,71550.0
+2025-12-18,Cabai Rawit,69750.0
+2025-12-19,Cabai Rawit,68800.0
+2025-12-22,Cabai Rawit,70350.0
+2025-12-23,Cabai Rawit,69700.0
+2025-12-24,Cabai Rawit,70000.0
+2025-12-25,Cabai Rawit,69750.0
+2025-12-26,Cabai Rawit,69800.0
+2025-12-29,Cabai Rawit,69200.0
+2025-12-30,Cabai Rawit,67650.0
+2025-12-31,Cabai Rawit,66250.0
+2026-01-01,Cabai Rawit,66100.0
+2026-01-02,Cabai Rawit,67700.0
+2026-01-05,Cabai Rawit,66500.0
+2026-01-06,Cabai Rawit,65650.0
+2026-01-07,Cabai Rawit,64350.0
+2026-01-08,Cabai Rawit,62950.0
+2026-01-09,Cabai Rawit,61800.0
+2026-01-12,Cabai Rawit,58350.0
+2026-01-13,Cabai Rawit,57600.0
+2026-01-14,Cabai Rawit,57200.0
+2026-01-15,Cabai Rawit,56450.0
+2026-01-16,Cabai Rawit,56450.0
+2026-01-19,Cabai Rawit,56300.0
+2026-01-20,Cabai Rawit,56050.0
+2026-01-21,Cabai Rawit,55450.0
+2026-01-22,Cabai Rawit,55150.0
+2026-01-23,Cabai Rawit,54800.0
+2026-01-26,Cabai Rawit,54850.0
+2026-01-27,Cabai Rawit,55100.0
+2026-01-28,Cabai Rawit,55150.0
+2026-01-29,Cabai Rawit,56300.0
+2026-01-30,Cabai Rawit,57100.0
+2026-02-02,Cabai Rawit,58850.0
+2026-02-03,Cabai Rawit,59750.0
+2026-02-04,Cabai Rawit,61600.0
+2026-02-05,Cabai Rawit,63000.0
+2026-02-06,Cabai Rawit,63850.0
+2026-02-09,Cabai Rawit,65050.0
+2026-02-10,Cabai Rawit,65500.0
+2026-02-11,Cabai Rawit,65800.0
+2026-02-12,Cabai Rawit,65750.0
+2026-02-13,Cabai Rawit,65850.0
+2026-02-16,Cabai Rawit,66050.0
+2026-02-17,Cabai Rawit,66050.0
+2026-02-18,Cabai Rawit,68600.0
+2026-02-19,Cabai Rawit,68650.0
+2026-02-20,Cabai Rawit,71150.0
+2026-02-23,Cabai Rawit,70600.0
+2026-02-24,Cabai Rawit,68700.0
+2026-02-25,Cabai Rawit,66900.0
+2026-02-26,Cabai Rawit,65250.0
+2026-02-27,Cabai Rawit,64600.0
+2026-03-02,Cabai Rawit,63950.0
+2026-03-03,Cabai Rawit,63950.0
+2026-03-04,Cabai Rawit,65550.0
+2026-03-05,Cabai Rawit,66200.0
+2026-03-06,Cabai Rawit,66450.0
+2026-03-09,Cabai Rawit,68250.0
+2026-03-10,Cabai Rawit,68850.0
+2026-03-11,Cabai Rawit,69450.0
+2026-03-12,Cabai Rawit,69900.0
+2026-03-13,Cabai Rawit,70700.0
+2026-03-16,Cabai Rawit,74800.0
+2026-03-17,Cabai Rawit,77000.0
+2026-03-18,Cabai Rawit,77500.0
+2026-03-19,Cabai Rawit,77250.0
+2026-03-20,Cabai Rawit,77250.0
+2026-03-23,Cabai Rawit,78050.0
+2026-03-24,Cabai Rawit,78450.0
+2026-03-25,Cabai Rawit,79550.0
+2026-03-26,Cabai Rawit,76150.0
+2026-03-27,Cabai Rawit,75050.0
+2026-03-30,Cabai Rawit,73050.0
+2026-03-31,Cabai Rawit,73350.0
