@@ -1,0 +1,136 @@
+{
+  "aksi": {
+    "puncak_pergi": {
+      "h": -3,
+      "total": 1011710
+    },
+    "puncak_balik": {
+      "h": 4,
+      "total": 1014842
+    },
+    "tersepi_jendela": 622820,
+    "rasio_puncak_vs_tersepi": 1.629430654121576,
+    "jendela_pergi": 8493265,
+    "jendela_balik": 8910569,
+    "cekungan_tahunbaru_min_H5H7": 754461,
+    "per_moda": {
+      "Angkutan Jalan": {
+        "total": 3934367,
+        "h_puncak": 4,
+        "maks": 230527
+      },
+      "Angkutan Laut": {
+        "total": 1750511,
+        "h_puncak": -3,
+        "maks": 102286
+      },
+      "Angkutan Perkeretaapian": {
+        "total": 4357747,
+        "h_puncak": 4,
+        "maks": 245982
+      },
+      "Angkutan SDP": {
+        "total": 2917681,
+        "h_puncak": -3,
+        "maks": 178599
+      },
+      "Angkutan Udara": {
+        "total": 5359093,
+        "h_puncak": -3,
+        "maks": 301488
+      }
+    }
+  },
+  "niat": {
+    "tiket kereta api": {
+      "median_lipat": 1.837677944167129,
+      "ci": [
+        1.6049028971665074,
+        1.9089846359385436
+      ],
+      "median_rel_puncak": -1.0,
+      "ci_lag": [
+        -4.0,
+        -1.0
+      ],
+      "lipat_per_musim": [
+        1.94,
+        1.55,
+        1.87,
+        1.84,
+        1.91,
+        1.79,
+        1.6
+      ],
+      "lag_per_musim": [
+        -1,
+        -4,
+        -7,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "tiket pesawat": {
+      "median_lipat": 1.359176836563771,
+      "ci": [
+        1.3171753441053262,
+        1.4900045228403436
+      ],
+      "median_rel_puncak": -5.0,
+      "ci_lag": [
+        -6.0,
+        -2.0
+      ],
+      "lipat_per_musim": [
+        1.49,
+        1.36,
+        1.36,
+        1.32,
+        1.3,
+        1.54,
+        1.38
+      ],
+      "lag_per_musim": [
+        -5,
+        -7,
+        -6,
+        -2,
+        -5,
+        -6,
+        -1
+      ]
+    },
+    "tiket bus": {
+      "median_lipat": 1.904878048780488,
+      "ci": [
+        1.753756047873695,
+        2.318036529680365
+      ],
+      "median_rel_puncak": -3.0,
+      "ci_lag": [
+        -4.0,
+        -1.0
+      ],
+      "lipat_per_musim": [
+        2.75,
+        1.69,
+        1.75,
+        1.77,
+        2.32,
+        1.9,
+        1.91
+      ],
+      "lag_per_musim": [
+        -4,
+        -3,
+        -4,
+        -1,
+        -3,
+        -2,
+        -1
+      ]
+    }
+  }
+}

@@ -1,14 +1,15 @@
 # Python
+.ipynb_checkpoints/
 __pycache__/
 *.py[cod]
-.ipynb_checkpoints/
 .venv/
 
 # Sistem & editor
 .DS_Store
 Thumbs.db
-.idea/
 .vscode/
+.idea/
 
 # Lingkungan & kredensial
+*/data/mentah/
 linkedin/
