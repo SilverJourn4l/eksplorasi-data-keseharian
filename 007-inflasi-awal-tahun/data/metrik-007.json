@@ -1,0 +1,138 @@
+{
+  "lapis_resmi": {
+    "n_bulan": 140,
+    "median_bulanan_per_kalender": {
+      "Jan": 0.325,
+      "Feb": 0.131,
+      "Mar": 0.185,
+      "Apr": 0.193,
+      "Mei": 0.257,
+      "Jun": 0.488,
+      "Jul": 0.246,
+      "Agu": -0.023,
+      "Sep": -0.038,
+      "Okt": 0.075,
+      "Nov": 0.268,
+      "Des": 0.57
+    },
+    "rerata_bulanan_per_kalender": {
+      "Jan": 0.273,
+      "Feb": 0.08,
+      "Mar": 0.354,
+      "Apr": 0.297,
+      "Mei": 0.231,
+      "Jun": 0.361,
+      "Jul": 0.269,
+      "Agu": 0.019,
+      "Sep": 0.11,
+      "Okt": 0.089,
+      "Nov": 0.261,
+      "Des": 0.565
+    },
+    "januari_puncak_dari_11_tahun": 2,
+    "januari_2025": -0.758
+  },
+  "lapis_dapur": [
+    {
+      "kom": "Cabai Merah",
+      "jan": 0.588,
+      "land": 3.882,
+      "up": -3.294,
+      "lo": -32.052,
+      "hi": 40.074,
+      "naik_kali": 4,
+      "n": 7
+    },
+    {
+      "kom": "Telur Ayam",
+      "jan": -1.709,
+      "land": 0.194,
+      "up": -1.903,
+      "lo": -2.754,
+      "hi": -0.194,
+      "naik_kali": 1,
+      "n": 7
+    },
+    {
+      "kom": "Daging Ayam",
+      "jan": 0.0,
+      "land": 0.576,
+      "up": -0.576,
+      "lo": -2.265,
+      "hi": 2.748,
+      "naik_kali": 3,
+      "n": 7
+    },
+    {
+      "kom": "Daging Sapi",
+      "jan": 0.085,
+      "land": 0.084,
+      "up": 0.001,
+      "lo": -0.232,
+      "hi": 0.632,
+      "naik_kali": 4,
+      "n": 7
+    },
+    {
+      "kom": "Gula Pasir",
+      "jan": 0.282,
+      "land": 0.0,
+      "up": 0.282,
+      "lo": 0.0,
+      "hi": 1.617,
+      "naik_kali": 5,
+      "n": 7
+    },
+    {
+      "kom": "Beras",
+      "jan": 0.68,
+      "land": 0.313,
+      "up": 0.368,
+      "lo": -0.313,
+      "hi": 0.539,
+      "naik_kali": 5,
+      "n": 7
+    },
+    {
+      "kom": "Minyak Goreng",
+      "jan": 0.694,
+      "land": 0.218,
+      "up": 0.476,
+      "lo": -0.485,
+      "hi": 1.013,
+      "naik_kali": 5,
+      "n": 7
+    },
+    {
+      "kom": "Bawang Merah",
+      "jan": 5.483,
+      "land": 4.196,
+      "up": 1.287,
+      "lo": -15.547,
+      "hi": 7.164,
+      "naik_kali": 4,
+      "n": 7
+    },
+    {
+      "kom": "Bawang Putih",
+      "jan": 1.502,
+      "land": 0.112,
+      "up": 1.39,
+      "lo": 0.225,
+      "hi": 7.161,
+      "naik_kali": 6,
+      "n": 7
+    },
+    {
+      "kom": "Cabai Rawit",
+      "jan": 10.79,
+      "land": 1.073,
+      "up": 9.717,
+      "lo": -23.85,
+      "hi": 45.009,
+      "naik_kali": 4,
+      "n": 7
+    }
+  ],
+  "n_januari_terbaca": 7
+}
