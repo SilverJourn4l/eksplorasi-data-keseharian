@@ -1,0 +1,150 @@
+{
+  "kalender_pemerintah": {
+    "1440": {
+      "puasa_mulai": "2019-05-06",
+      "lebaran": "2019-06-05"
+    },
+    "1441": {
+      "puasa_mulai": "2020-04-24",
+      "lebaran": "2020-05-24"
+    },
+    "1442": {
+      "puasa_mulai": "2021-04-14",
+      "lebaran": "2021-05-13"
+    },
+    "1443": {
+      "puasa_mulai": "2022-04-03",
+      "lebaran": "2022-05-02"
+    },
+    "1444": {
+      "puasa_mulai": "2023-03-23",
+      "lebaran": "2023-04-22"
+    },
+    "1445": {
+      "puasa_mulai": "2024-03-12",
+      "lebaran": "2024-04-10"
+    },
+    "1446": {
+      "puasa_mulai": "2025-03-01",
+      "lebaran": "2025-03-31"
+    },
+    "1447": {
+      "puasa_mulai": "2026-02-19",
+      "lebaran": "2026-03-21"
+    }
+  },
+  "per_komoditas": [
+    {
+      "kom": "Beras",
+      "x_maks": 1.96,
+      "lo": 0.44,
+      "hi": 7.62,
+      "t_naik": NaN,
+      "t_maks": 22.5,
+      "t_tenang": 35.0,
+      "n": 8,
+      "n_tenang": 6
+    },
+    {
+      "kom": "Daging Sapi",
+      "x_maks": 2.95,
+      "lo": 2.4,
+      "hi": 5.79,
+      "t_naik": NaN,
+      "t_maks": 32.5,
+      "t_tenang": 40.5,
+      "n": 8,
+      "n_tenang": 6
+    },
+    {
+      "kom": "Gula Pasir",
+      "x_maks": 3.85,
+      "lo": 0.77,
+      "hi": 5.42,
+      "t_naik": NaN,
+      "t_maks": 31.0,
+      "t_tenang": 42.0,
+      "n": 8,
+      "n_tenang": 3
+    },
+    {
+      "kom": "Minyak Goreng",
+      "x_maks": 1.95,
+      "lo": 0.94,
+      "hi": 4.56,
+      "t_naik": NaN,
+      "t_maks": 28.0,
+      "t_tenang": 32.0,
+      "n": 8,
+      "n_tenang": 5
+    },
+    {
+      "kom": "Daging Ayam",
+      "x_maks": 13.67,
+      "lo": 6.81,
+      "hi": 20.2,
+      "t_naik": 0.0,
+      "t_maks": 34.0,
+      "t_tenang": 48.0,
+      "n": 8,
+      "n_tenang": 3
+    },
+    {
+      "kom": "Bawang Putih",
+      "x_maks": 10.06,
+      "lo": 1.77,
+      "hi": 24.21,
+      "t_naik": -11.0,
+      "t_maks": 21.0,
+      "t_tenang": 36.0,
+      "n": 8,
+      "n_tenang": 4
+    },
+    {
+      "kom": "Telur Ayam",
+      "x_maks": 8.32,
+      "lo": 0.58,
+      "hi": 32.05,
+      "t_naik": -13.0,
+      "t_maks": 19.5,
+      "t_tenang": 29.5,
+      "n": 8,
+      "n_tenang": 4
+    },
+    {
+      "kom": "Bawang Merah",
+      "x_maks": 18.63,
+      "lo": 0.91,
+      "hi": 42.85,
+      "t_naik": -23.0,
+      "t_maks": 41.5,
+      "t_tenang": 52.0,
+      "n": 8,
+      "n_tenang": 4
+    },
+    {
+      "kom": "Cabai Rawit",
+      "x_maks": 22.89,
+      "lo": 9.08,
+      "hi": 29.93,
+      "t_naik": -32.5,
+      "t_maks": 1.5,
+      "t_tenang": 25.5,
+      "n": 8,
+      "n_tenang": 6
+    },
+    {
+      "kom": "Cabai Merah",
+      "x_maks": 20.73,
+      "lo": 11.09,
+      "hi": 32.72,
+      "t_naik": -33.5,
+      "t_maks": 15.0,
+      "t_tenang": 27.5,
+      "n": 8,
+      "n_tenang": 6
+    }
+  ],
+  "n_ramadan": 8,
+  "n_komoditas": 10
+}
