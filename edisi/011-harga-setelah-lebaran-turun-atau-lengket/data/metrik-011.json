@@ -1,0 +1,112 @@
+{
+  "definisi": {
+    "basis": "rerata minggu -70 s.d. -35 relatif 1 Ramadan",
+    "jendela_puncak": "hari -35 s.d. +8 relatif Lebaran (ketum pemerintah)",
+    "ambang_diuji_pct": 2.0,
+    "toleransi_snap_hari": 4
+  },
+  "n": {
+    "baris_total": 70,
+    "diuji": 51,
+    "musim_gugur": [
+      "1442 H (celah rilis sumber; <6 snapshot jendela Ramadan)"
+    ]
+  },
+  "per_komoditas": {
+    "Bawang Merah": {
+      "n_musim": 4,
+      "lengket30_med": 0.516,
+      "ci95": [
+        0.362,
+        0.881
+      ],
+      "lengket42_med": 0.336
+    },
+    "Bawang Putih": {
+      "n_musim": 4,
+      "lengket30_med": 0.797,
+      "ci95": [
+        0.267,
+        1.933
+      ],
+      "lengket42_med": 0.953
+    },
+    "Beras": {
+      "n_musim": 2,
+      "lengket30_med": 0.758,
+      "ci95": [
+        0.515,
+        1.0
+      ],
+      "lengket42_med": 0.793
+    },
+    "Cabai Merah": {
+      "n_musim": 5,
+      "lengket30_med": 0.13,
+      "ci95": [
+        -0.15,
+        1.387
+      ],
+      "lengket42_med": 0.181
+    },
+    "Cabai Rawit": {
+      "n_musim": 5,
+      "lengket30_med": -0.277,
+      "ci95": [
+        -1.083,
+        1.349
+      ],
+      "lengket42_med": -0.198
+    },
+    "Daging Ayam": {
+      "n_musim": 5,
+      "lengket30_med": 0.598,
+      "ci95": [
+        -0.607,
+        1.494
+      ],
+      "lengket42_med": 0.756
+    },
+    "Daging Sapi": {
+      "n_musim": 6,
+      "lengket30_med": 0.407,
+      "ci95": [
+        0.184,
+        0.604
+      ],
+      "lengket42_med": 0.411
+    },
+    "Gula Pasir": {
+      "n_musim": 5,
+      "lengket30_med": 1.0,
+      "ci95": [
+        -0.176,
+        1.882
+      ],
+      "lengket42_med": 1.252
+    },
+    "Minyak Goreng": {
+      "n_musim": 1,
+      "lengket30_med": 2.2,
+      "ci95": [
+        2.2,
+        2.2
+      ],
+      "lengket42_med": 2.457
+    },
+    "Telur Ayam": {
+      "n_musim": 4,
+      "lengket30_med": 0.436,
+      "ci95": [
+        -0.356,
+        3.318
+      ],
+      "lengket42_med": 0.398
+    }
+  },
+  "bootstrap": {
+    "ulang": 10000,
+    "benih": 2026,
+    "estimand": "median antar-musim"
+  }
+}
