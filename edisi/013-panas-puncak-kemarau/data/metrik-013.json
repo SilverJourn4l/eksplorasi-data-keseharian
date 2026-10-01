@@ -1,0 +1,154 @@
+{
+ "edisi": 13,
+ "panen": "2026-10-01",
+ "sumber": [
+  "Open-Meteo Historical Weather API (reanalisis ERA5), titik -6,18/106,83",
+  "NASA POWER (MERRA-2), titik sama, sejak 1984"
+ ],
+ "replikasi_001": {
+  "ols_per_dekade": 0.15627226396432245,
+  "ols_lo": 0.12382210024716857,
+  "ols_hi": 0.18872242768147635,
+  "theilsen_per_dekade": 0.1540460740893337,
+  "kendall_tau": 0.5592982456140352,
+  "jendela_awal": 25.85607923497268,
+  "jendela_akhir": 26.67552167078374,
+  "selisih": 0.8194424358110624,
+  "cohen_d": 2.32955373360712,
+  "ambang": 31.7,
+  "hari_1950an_persen": 3.723986856516977,
+  "hari_2010_25_persen": 13.27857631759069,
+  "yang_lebih_sering": 3.565688287635383,
+  "dekade_2020an_persen": 21.076642335766422,
+  "power_vs_era5_1984_2025": [
+   0.18935769195712246,
+   0.3124036836819453
+  ]
+ },
+ "patokan_001": {
+  "ols_per_dekade": 0.16,
+  "ols_lo": 0.12,
+  "ols_hi": 0.19,
+  "theilsen_per_dekade": 0.15,
+  "kendall_tau": 0.56,
+  "jendela_awal": 25.86,
+  "jendela_akhir": 26.68,
+  "selisih": 0.82,
+  "cohen_d": 2.33,
+  "ambang": 31.7,
+  "hari_1950an_persen": 3.7,
+  "hari_2010_25_persen": 13.3,
+  "yang_lebih_sering": 3.6,
+  "dekade_2020an_persen": 21.1,
+  "power_vs_era5_1984_2025": [
+   0.19,
+   0.31
+  ]
+ },
+ "kemarau_jas": {
+  "tren_ols_c_per_dekade": 0.17282980177717017,
+  "tren_ols_p": 4.038482954018486e-05,
+  "tren_theilsen_c_per_dekade": 0.1908146201624451,
+  "tren_theilsen_ci95": [
+   0.10643115942028972,
+   0.2817725752508365
+  ],
+  "tren_kendall_tau": 0.32882962429369456,
+  "tren_pembanding_sepanjang_tahun_tmax": 0.14301281939307178,
+  "jendela_1950_1969": 29.91744565217391,
+  "jendela_2006_2025": 30.760652173913048,
+  "selisih_jendela": 0.8432065217391376,
+  "cohen_d_jendela": 1.0248625297917884,
+  "rerata_era_dasar_1950_1979": 29.89478260869565,
+  "hari_panas_1950an_persen": 3.8043478260869565,
+  "hari_panas_2010_2025_persen": 20.991847826086957,
+  "risiko_lebih_sering": 5.517857142857142,
+  "risiko_ci95": [
+   3.928562703556143,
+   7.750098381125271
+  ],
+  "persen_per_segmen": [
+   {
+    "segmen": "1950-an",
+    "persen": 3.8043478260869565,
+    "lo": 2.747990020051113,
+    "hi": 5.244881280069422,
+    "n": 920
+   },
+   {
+    "segmen": "1960-an",
+    "persen": 17.82608695652174,
+    "lo": 15.488251621967732,
+    "hi": 20.431489330586803,
+    "n": 920
+   },
+   {
+    "segmen": "1970-an",
+    "persen": 5.326086956521739,
+    "lo": 4.051980139090946,
+    "hi": 6.971714224084441,
+    "n": 920
+   },
+   {
+    "segmen": "1980-an",
+    "persen": 8.043478260869565,
+    "lo": 6.455553487941685,
+    "hi": 9.980324916403081,
+    "n": 920
+   },
+   {
+    "segmen": "1990-an",
+    "persen": 14.347826086956522,
+    "lo": 12.230679910256873,
+    "hi": 16.761465469600857,
+    "n": 920
+   },
+   {
+    "segmen": "2000-an",
+    "persen": 19.02173913043478,
+    "lo": 16.616469884097494,
+    "hi": 21.684632046571576,
+    "n": 920
+   },
+   {
+    "segmen": "2010-an",
+    "persen": 15.108695652173912,
+    "lo": 12.939850663224478,
+    "hi": 17.567706248160675,
+    "n": 920
+   },
+   {
+    "segmen": "2020-25",
+    "persen": 30.797101449275363,
+    "lo": 27.08965517117382,
+    "hi": 34.76997285121378,
+    "n": 552
+   },
+   {
+    "segmen": "2026",
+    "persen": 84.78260869565217,
+    "lo": 76.06348710244819,
+    "hi": 90.71345972985638,
+    "n": 92
+   }
+  ]
+ },
+ "jas_2026": {
+  "rerata_tmax": 32.59021739130435,
+  "peringkat_dari_77": 1,
+  "residu_terhadap_tren": 1.691784897025176,
+  "hari_panas_persen": 84.78260869565217,
+  "hari_panas_jumlah": 78,
+  "maksimum_harian": 35.4,
+  "pembanding_merra2_tmax": 30.259775280898875,
+  "peringkat_merra2_dari_43": 5,
+  "selisih_produk_2026": 2.315505617977525,
+  "selisih_produk_hist_rerata": 0.7924378881987577,
+  "selisih_produk_hist_sd": 0.5881657147897318,
+  "belum_tercakup_merra2_pada_panen": 3
+ },
+ "catatan": [
+  "Kontrak dijaga identik dengan Edisi 001; ukuran 2026 tidak ikut mengubah patokan 1950-2025.",
+  "Selisih antar produk (ERA5 lawan MERRA-2) untuk 2026 adalah terbesar dalam rekaman JAS 1984-2026."
+ ]
+}

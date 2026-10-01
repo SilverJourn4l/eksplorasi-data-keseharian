@@ -1,0 +1,137 @@
+{
+ "edisi": 12,
+ "sumber": "BPS, Statistik Penunjang Pendidikan 2024 (Katalog 4301007), Susenas MSBP pada tahun ajaran 2023/2024",
+ "total_juta_per_tahun": {
+  "sd": 4.56,
+  "smp": 7.34,
+  "sma_smk": 10.19,
+  "pt": 19.01
+ },
+ "porsi_persen": {
+  "sd": {
+   "awal_tahun": 16.34,
+   "iuran_sekolah": 7.7,
+   "uang_saku": 61.44,
+   "uang_transpor": 13.6,
+   "lainnya": 0.93
+  },
+  "smp": {
+   "awal_tahun": 14.38,
+   "iuran_sekolah": 9.36,
+   "uang_saku": 55.88,
+   "uang_transpor": 19.09,
+   "lainnya": 1.31
+  },
+  "sma_smk": {
+   "awal_tahun": 12.57,
+   "iuran_sekolah": 13.57,
+   "uang_saku": 50.98,
+   "uang_transpor": 22.11,
+   "lainnya": 0.75
+  },
+  "pt": {
+   "awal_tahun": 7.88,
+   "iuran_sekolah": 38.01,
+   "uang_saku": 35.13,
+   "uang_transpor": 18.25,
+   "lainnya": 0.74
+  }
+ },
+ "taksiran_rupiah_juta_per_tahun": {
+  "sd": {
+   "awal_tahun": 0.745,
+   "iuran_sekolah": 0.351,
+   "uang_saku": 2.802,
+   "uang_transpor": 0.62,
+   "lainnya": 0.042
+  },
+  "smp": {
+   "awal_tahun": 1.055,
+   "iuran_sekolah": 0.687,
+   "uang_saku": 4.102,
+   "uang_transpor": 1.401,
+   "lainnya": 0.096
+  },
+  "sma_smk": {
+   "awal_tahun": 1.281,
+   "iuran_sekolah": 1.383,
+   "uang_saku": 5.195,
+   "uang_transpor": 2.253,
+   "lainnya": 0.076
+  },
+  "pt": {
+   "awal_tahun": 1.498,
+   "iuran_sekolah": 7.226,
+   "uang_saku": 6.678,
+   "uang_transpor": 3.469,
+   "lainnya": 0.141
+  }
+ },
+ "uang_pendaftaran_juta": {
+  "sd": 0.097,
+  "smp": 0.247,
+  "sma_smk": 0.405,
+  "pt": 0.96
+ },
+ "saku_transpor_persen": {
+  "sd": 75.04,
+  "smp": 74.97,
+  "sma_smk": 73.09,
+  "pt": 53.38
+ },
+ "saku_ribu_per_bulan": {
+  "sd": 233,
+  "smp": 342,
+  "sma_smk": 433,
+  "pt": 557
+ },
+ "rasio_atas_per_bawah": {
+  "sd": 2.71,
+  "smp": 2.05,
+  "sma_smk": 1.9,
+  "pt": 1.96
+ },
+ "rasio_kota_per_desa": {
+  "sd": 1.59,
+  "smp": 1.4,
+  "sma_smk": 1.18,
+  "pt": 1.33
+ },
+ "kelompok_pengeluaran": {
+  "kelompok_20_atas": {
+   "sd": 8.88,
+   "smp": 11.42,
+   "sma_smk": 15.35,
+   "pt": 24.42
+  },
+  "kelompok_40_tengah": {
+   "sd": 4.45,
+   "smp": 7.63,
+   "sma_smk": 9.39,
+   "pt": 14.09
+  },
+  "kelompok_40_bawah": {
+   "sd": 3.28,
+   "smp": 5.57,
+   "sma_smk": 8.08,
+   "pt": 12.48
+  },
+  "perkotaan": {
+   "sd": 5.4,
+   "smp": 8.31,
+   "sma_smk": 10.8,
+   "pt": 19.89
+  },
+  "perdesaan": {
+   "sd": 3.4,
+   "smp": 5.94,
+   "sma_smk": 9.16,
+   "pt": 14.92
+  }
+ },
+ "catatan": [
+  "Galat sampel tersedia pada Tabel 2.13 s.d. 2.16 publikasi; tidak dihitung ulang tanpa data mikro.",
+  "Terjemahan rupiah adalah porsi komponen x total rerata per jenjang: taksiran komposit.",
+  "Data mendahului Putusan MK No. 3/PUU-XXIII/2025 (27 Mei 2025); dipakai sebagai garis pangkal."
+ ]
+}
